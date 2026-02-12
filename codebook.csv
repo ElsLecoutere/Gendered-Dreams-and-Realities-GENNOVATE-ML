@@ -1,0 +1,32 @@
+indicator,indicator_label,indicator_category,category_label
+Occupational aspirations by young women and men,ASP,Expression of not having aspirations,ASP_NON
+Occupational aspirations by young women and men,ASP,aspirations in the domain of i) traditional agriculture and/or homemaker,ASP_TRAD
+Occupational aspirations by young women and men,ASP,"aspirations for a paid job in the domain of ii) modern agriculture, or jobs as an agri-preneur or agricultural professional",ASP_MOD
+Occupational aspirations by young women and men,ASP,aspirations for a paid job in the domain of iii) blue- or white-collar jobs,ASP_COL
+Occupational aspirations by young women and men,ASP,aspirations for a paid job iv) in an unspecified domain,ASP_UNSP
+Aspiration-attainment gap among young women and men,GAP,no discrepancy between the occupational aspiration and what is/can be achieved,GAP_NON
+Aspiration-attainment gap among young women and men,GAP,a discrepancy between the occupational aspiration and what is/can be achieved exists  (~wide gap: e.g. blue/white collar or modern/professional agriculture/preneur vs marriage or traditional agriculture),GAP_WID
+Aspiration-attainment gap among young women and men,GAP,"a discrepancy between the occupational aspiration and what is/can be achieved exists (~small gap:e.g. blue/white collar or modern/professional agriculture/preneur vs low paying job (factory, small shop, petty trade, homecraft (sewing, weaving, brewing...))",GAP_SML
+Perceptions of gender norms by young women and men: i) ‘Men are (stronger and better) farmers’,NRM_MEN,Confirming norm: Men are (stronger and better) farmers,NRM_MEN_C
+Perceptions of gender norms by young women and men: i) ‘Men are (stronger and better) farmers’,NRM_MEN,Nuancing norm: Men are (stronger and better) farmers,NRM_MEN_N
+Perceptions of gender norms by young women and men: i) ‘Men are (stronger and better) farmers’,NRM_MEN,Opposing norm: Men are (stronger and better) farmers,NRM_MEN_O
+Perceptions of gender norms by young women and men: ii) Norms restricting young women’s mobility ,NRM_MOB,Confirming norms restricting young women’s mobility,NRM_MOB_C
+Perceptions of gender norms by young women and men: ii) Norms restricting young women’s mobility,NRM_MOB,Nuancing norms restricting young women’s mobility,NRM_MOB_N
+Perceptions of gender norms by young women and men: ii) Norms restricting young women’s mobility,NRM_MOB,Opposing norms restricting young women’s mobility,NRM_MOB_O
+Perceptions of gender norms by young women and men: viii) Norms defining the gender division of labour,NRM_DIV,Confirming norms defining the gender division of labour,NRM_DIV_C
+Perceptions of gender norms by young women and men: viii) Norms defining the gender division of labour,NRM_DIV,Nuancing norms defining the gender division of labour,NRM_DIV_N
+Perceptions of gender norms by young women and men: viii) Norms defining the gender division of labour,NRM_DIV,Opposing norms defining the gender division of labour,NRM_DIV_O
+Perceptions of gender norms by young women and men: iii) Norms limiting women’s access to assets and credit,NRM_AST,Confirming norms limiting women’s access to assets and credit,NRM_AST_C
+Perceptions of gender norms by young women and men: iii) Norms limiting women’s access to assets and credit,NRM_AST,Nuancing norms limiting women’s access to assets and credit,NRM_AST_N
+Perceptions of gender norms by young women and men: iii) Norms limiting women’s access to assets and credit,NRM_AST,Opposing norms limiting women’s access to assets and credit,NRM_AST_O
+Perceptions of gender norms by young women and men: iv) Norms limiting women’s access to information,NRM_INF,Confirming norms limiting women’s access to information,NRM_INF_C
+Perceptions of gender norms by young women and men: iv) Norms limiting women’s access to information,NRM_INF,Nuancing norms limiting women’s access to information,NRM_INF_N
+Perceptions of gender norms by young women and men: iv) Norms limiting women’s access to information,NRM_INF,Opposing norms limiting women’s access to information,NRM_INF_O
+Perceptions of gender norms by young women and men: v) Social stigmas against breaking gender norms,NRM_STIG,Confirming existence of social stigmas against breaking gender norms,NRM_STIG_C
+Perceptions of gender norms by young women and men: v) Social stigmas against breaking gender norms,NRM_STIG,Nuancing existence of social stigmas against breaking gender norms,NRM_STIG_N
+Perceptions of gender norms by young women and men: v) Social stigmas against breaking gender norms,NRM_STIG,Opposing existence of social stigmas against breaking gender norms,NRM_STIG_O
+Perceptions of gender norms by young women and men: vi) Norms limiting women's decision-making power and agency,NRM_DEC,Confirming norms limiting women’s decision-making power and agency,NRM_DEC_C
+Perceptions of gender norms by young women and men: vi) Norms limiting women's decision-making power and agency,NRM_DEC,Nuancing norms limiting women’s  decision-making power and agency,NRM_DEC_N
+Perceptions of gender norms by young women and men: vi) Norms limiting women's decision-making power and agency,NRM_DEC,Opposing norms limiting women’s  decision-making power and agency,NRM_DEC_O
+Perceptions of gender norms by young women and men: vii) Perceptions about gender equality,NRM_EQ,Not in favour of/not observing gender equality,NRM_EQ_NO
+Perceptions of gender norms by young women and men: vii) Perceptions about gender equality,NRM_EQ,In favour of/observing (signs of) gender equality,NRM_EQ_YS
