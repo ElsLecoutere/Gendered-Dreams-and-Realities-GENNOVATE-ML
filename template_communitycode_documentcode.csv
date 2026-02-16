@@ -1,4 +1,4 @@
-country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id
 ,,,,,,ASP,ASP_NON,,,,,,
 ,,,,,,ASP,ASP_TRAD,,,,,,
 ,,,,,,ASP,ASP_MOD,,,,,,
@@ -47,3 +47,4 @@ country,community_code,metadatafile,tool,document_code,gender,indicator_label,ca
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
+
