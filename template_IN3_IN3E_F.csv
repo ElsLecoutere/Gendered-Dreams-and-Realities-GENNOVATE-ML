@@ -1,0 +1,67 @@
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence interval
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,GAP,GAP_WID,I quit studies at the age of 17 when I got married,,quote,E.10,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,GAP,GAP_WID,There are many students who are unable to achieve their dreams and have to drop out due to poverty,unable to achieve their dreams and have to drop out due to poverty,quote,E.10,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,ASP,ASP_COL,We should be doing a good government job,should be doing a good government job,quote,E.12,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,ASP,ASP_BUSS,We should be able to do business, to do business,quote,E.12,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,ASP,ASP_UNSP,We should get a job,get a job,quote,E.12,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_INF,NRM_INF_O,Yes they have the same opportunities and both try to learn,same opportunities and both try to learn,quote,E.15,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_INF,NRM_INF_O,There is no difference in the opportunities given to them ,no difference in the opportunities,quote,E.15,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_INF,NRM_INF_O,They both have the same opportunities,both have the same opportunities,quote,E.15,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DIV,NRM_DIV_O,There is no work division as such,no work division,quote,E.21,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DIV,NRM_DIV_O,People do whatever work they want to do; family members all work together to grow a good crop,family members all work together ,quote,E.21,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DIV,NRM_DIV_O,Men and women don’t have separate plots.,,quote,E.22,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DIV,NRM_DIV_O,Both of them work on the family plot,,quote,E.22,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DIV,NRM_DIV_O,They both go regularly to their plot from the time of sowing till the time of harvest,,quote,E.22,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DIV,NRM_DIV_C,Women do sowing and weeding and regularly go to the plot owned by the family,Women do sowing and weeding ,quote,E.22,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DIV,NRM_DIV_C,Women are primarily responsible for sowing and weeding ,primarily responsible for sowing and weeding,quote,E.23,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_INF,NRM_INF_O,She will ask a good farmer who is well aware of such things,She will ask a good farmer,quote,E.24,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_INF,NRM_INF_O,They will ask the people in the agriculture department and at CSISA farm,,quote,E.24,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_INF,NRM_INF_O,He will let her join since he knows it will benefit them,he will let her join,quote,E.25,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_INF,NRM_INF_O,He will let her join,he will let her join,quote,E.25,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_INF,NRM_INF_O,He knows that it will benefit them and so he will let her join,he will let her join,quote,E.25,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_AST,NRM_AST_C,He will not agree to let her sell (everyone agreed on this),He will not agree,quote,E.26,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_O,He will not ask for her help now that she is busy with her work,He will not ask for her help now that she is busy,quote,E.27,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_O,He will understand that she has her hands full and therefore will not expect her to help him in his work,will not expect her to help him in his work,quote,E.27,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_STIG,NRM_STIG_O,She will have a good reputation irrespective of such a situation,,quote,E.28,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_STIG,NRM_STIG_N,People will not mind if both were working but since he is not doing anything therefore it will be difficult for people to accept him,since he is not doing anything therefore it will be difficult for people to accept him,quote,E.29,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_STIG,NRM_STIG_C,People will tell him that it is wrong of him be enjoying off his wife’s hard work,People will tell him that it is wrong ,quote,E.29,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_STIG,NRM_STIG_O,He will be happy and cooperate with her and encourage her,,quote,E.30,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_STIG,NRM_STIG_O,He has given her permission to work and he will be glad that he took the right decision,,quote,E.30,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_EQ,NRM_EQ_YS,There is difference in the rights that they have,,quote,E.31,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_EQ,NRM_EQ_YS,Girls have equal rights before marriage which changes once she gets married,,quote,E.31,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_EQ,NRM_EQ_YS,Women don’t have the same rights that girls enjoy,,quote,E.31,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_EQ,NRM_EQ_YS,But gender equality is important and we should ensure it in every society,,quote,E.31,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_EQ,NRM_EQ_YS,A girl should have the same rights after marriage ,,quote,E.31,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_O,They will discuss and decide,,quote,E.32,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DIV,NRM_DIV_C,[male spouse] will go to sell,,quote,E.33,,replaced David with [male spouse],ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DIV,NRM_DIV_C,Why should a woman go if her husband is there at home?,Why should a woman go,quote,E.33,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DIV,NRM_DIV_N,[female spouse] will go only if [male spouse] cannot go for some reason,only if [male spouse] cannot go for some reason,quote,E.33,,replaced Diana with [female spouse] and David with [male spouse],ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_INF,NRM_INF_O,"Yes, [male spouse] will also be excited about the idea since it has the potential to increase their production",,quote,E.34,,replaced Diana with [female spouse] and David with [male spouse],ENU_2,
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,it will be difficult for [female spouse] to go ahead and purchase the plot of land in the absence of [male spouse]]'s  support,,transcriber's summary,E.35,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,Her rights change once she is married,,quote,E.36,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,now she has to take her husband’s permission before she can take any decision,,quote,E.36,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,She will have to consult her husband,,quote,E.36,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,it will be easy for [male spouse] to go ahead and purchase the plot of land in the absence of [female spouse]]'s  support,,transcriber's summary,E.37,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,he can use it anyway he likes,,quote,E.37,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM,NRM_MOB_O,"Yes, she can walk alone comfortably to the market",,quote,E.38,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM,NRM_MOB_O,She can go there to buy something if she wants,,quote,E.38,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM,NRM_MOB_O,There are no security concerns and she can go,,quote,E.39,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM,NRM_MOB_O,Even a married woman can walk comfortably to the market,,quote,E.39,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_AST,NRM_AST_O,She can go sell at the crossroads,,quote,E.40,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM,NRM_MOB_O,Practically all women move freely on their own in the village  ,,transcriber's summary,E.41,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,Girls will not be allowed to go anywhere away whatever may be the opportunity,Girls will not be allowed to go anywhere away,quote,E.42,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,Parents will never agree to let their daughters go,Parents will never agree to let their daughters go,quote,E.42,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,It will be so difficult for her to live in a strange new place,,quote,E.42,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_N,Some parents may check out everything at this new place and ensure it is totally safe and they may let her go,ensure it is totally safe and they may let her go,quote,E.42,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,Parents take marriage decisions for their children,,quote,E.45,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,Elder brothers also decide,,quote,E.45,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_C,Sometimes elder sisters also decide,,quote,E.45,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_N,If people want to marry a second time then they decide themselves,want to marry a second time then they decide themselves,quote,E.45,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_O,If a woman is not happy with her husband then she can divorce him and remarry, she can divorce him and remarry,quote,E.45,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_O,Parents will take right decision for us,Parents will take right decision for us,quote,E.46,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_O,We will agree to their decision,we will agree ,quote,E.46,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_O,"Yes, women do take such decisions","Yes, women do take such decisions",quote,E.50,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,NRM_DEC,NRM_DEC_O,Women can decide when to have a child and how many to have,Women can decide ,quote,E.50,,,ENU_2,0.95
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,ASP,ASP_BUSS,Women should be given opportunity to run a business from home, run a business,quote,E.51,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,ASP,ASP_UNSP,They should be given good job opportunities,good job,quote,E.51,,,ENU_2,0.9
+IN,IN3,GENNOVATE_IN3.xlsx,FG_E_Aspirations of Youth,IN3_F,female,ASP,ASP_COL,There should be a college here to pursue a medicine and engineering degree,medicine and engineering,quote,E.51,,,ENU_2,0.9
