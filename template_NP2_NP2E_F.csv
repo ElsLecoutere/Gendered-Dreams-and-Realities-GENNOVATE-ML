@@ -1,0 +1,75 @@
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_interval
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_C,we are still dependent on parents because we are student not started job yet. ,we are student,quote,E.2,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_N,"because or urbanization parents become aware and more mobile. Hence, they do not put much restriction on us",they do not put much restriction on us,quote,E.2,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_UNSP,most of the boys in this village study till high school (+12) and go abroad for foreign employment,go abroad for foreign employment,quote,E.4,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_UNSP,we can get better job and establish ourselves, better job ,quote,E.5,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_COL,if we study higher we could do social work,we could do social work,quote,E.5,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_INF,NRM_INF_O,"Yes, now parents show same commitment to educating their daughters as their sons",same commitment to educating their daughters as their sons,quote,E.6,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DIV,NRM_DIV_C,"livestock raising poultry farming, raising of goat, cattle, buffalo",,quote,E.7,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DIV,NRM_DIV_C,"vegetable farming, cultivation of maize, paddy, wheat, millet, ",,quote,E.7,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,GAP,GAP_WID,early marriage is one of the reasons why young girls in this village end their education,,transcriber's summary,E.8,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,GAP,GAP_WID,"because of household works, girls quit schooling ",,quote,E.8,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_UNSP,become independent financially ,become independent financially ,quote,E.10,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_COL,want to become banker,banker,quote,E.10,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,GAP,GAP_WID,stay at home and help mother doing household works and agricultural activities,,quote,E.11,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,GAP,GAP_SML,"do skilled trainings like beauty parlour, boutiques and tailoring",,quote,E.11,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,GAP,GAP_SML,set up retail shops,,quote,E.11,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_UNSP,do job,,quote,E.12,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_COL,social works,,quote,E.12,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_MOD,agriculture with new methods,,quote,E.12,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_COL,learn skilled works,,quote,E.12,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_INF,NRM_INF_O,girls are getting more opportunities in the village,,quote,E.15,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_INF,NRM_INF_O,"women are not much educated. Hence, they send daughters to participate in trainings",,quote,E.15,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_INF,NRM_INF_O,we get chance to learn new things,,quote,E.15,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DIV,NRM_DIV_C,girls pay more attention towards household and agricultural activities,,quote,E.15,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_INF,NRM_INF_O,because of trainings organized by agriculture office and other organizations,,quote,E.17,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_INF,NRM_INF_O,"due to access on information’s though trainings, television and radio",,quote,E.17,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DIV,NRM_DIV_O,there is no such discriminations. Both men and women do all works on mutual understanding and always help each other. ,,quote,E.18,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DIV,NRM_DIV_N,men also do all the works except seedling plantation during paddy cultivation,men also do all the works except seedling plantation,quote,E.18,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_AST,NRM_AST_O,girls will be allowed to do and will not face any difficulties,girls will be allowed ,quote,E.20,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_AST,NRM_AST_N,but pig raising will not be allowed to do ,,quote,E.20,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_N,most of the men go abroad for foreign employments. As a result women make decisions and take responsibilities of all the household works and agricultural activities.  ,women make decisions and take responsibilities of all the household works and agricultural activities.  ,quote,E.21,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DIV,NRM_DIV_O,Men who are available in the village also do works equally along with women. ,works equally along with women. ,quote,E.21,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DIV,NRM_DIV_O,both men and women do the work equally on farmland. ,men and women do the work equally on farmland. ,quote,E.21,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DIV,NRM_DIV_O,both men and women do the works equally on farmland. There is no any kind of discriminations. ,both men and women do the works equally ,quote,E.22,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DIV,NRM_DIV_O,All the works are done jointly whoever owns the farmland or other fixed assets. ,All the works are done jointly,quote,E.23,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_INF,NRM_INF_O,consult with JTA (junior technical assistant),junior technical assistant,quote,E.24,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_C,with head of the household like husband and in-laws, husband and in-laws,quote,E.24,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_INF,NRM_INF_O,with innovator farmers,innovator farmers,quote,E.24,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_INF,NRM_INF_O,[male spouse] might allow [female spouse] to join a local group of women,,quote,E.25,,replaced Ram Bahadur with [male spouse] and Laxmi with [female spouse],ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_AST,NRM_AST_C,"[male spouse] might say “I will go the market for selling vegetables, you stay at home to look after children”",,quote,E.26,,replaced Ram Bahadur with [male spouse],ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_STIG,NRM_STIG_O,people might appreciate [female spouse] for being hard working  ,,quote,E.28,,replaced Sita with [female spouse],ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_STIG,NRM_STIG_C,some people take it negatively and say “[female spouse] is roaming around in market leaving children and husband at home”. ,,quote,E.28,,replaced Sita with [female spouse],ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_STIG,NRM_STIG_C,people might call [male spouse] “Gay” ,,quote,E.29,,replaced Hari with [male spouse],ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_STIG,NRM_STIG_O,some people might appreciate [male spouse] for supporting [female spouse] in her work ,,quote,E.29,,replaced Hari with [male spouse] and replaced Sita with [female spouse],ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_STIG,NRM_STIG_C,some people might not because he is staying at home let wife to work outside.  ,,quote,E.29,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_STIG,NRM_STIG_C,"Some people might criticize Hari saying “you are a lucky man, need not to go out for work just eat and stay at home”",,quote,E.29,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_STIG,NRM_STIG_O,Hari would be happy ,,quote,E.30,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_EQ,NRM_EQ_YS,we have heard about gender equality and it is a good thing,,quote,E.31,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_EQ,NRM_EQ_YS,both husband and wife should help each other in work,,quote,E.31,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_EQ,NRM_EQ_YS,no discrimination between son and daughter,,quote,E.31,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_EQ,NRM_EQ_YS,women are capable of any doing work that men can do,,quote,E.31,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_O, [female spouse] and  [male spouse] might make decision jointly ,might make decision jointly,quote,E.32,,replaced Durga with [female spouse] and replaced Shyam with [male spouse],ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_AST,NRM_AST_O, both [female spouse] and  [male spouse]  would go turn wise for selling vegetables , would go turn wise for selling vegetables,quote,E.33,,replaced Durga with [female spouse] and replaced Shyam with [male spouse],ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_O, [male spouse] and  [female spouse] would jointly make decision to do new farming practices that increase yield and profits,would jointly make decision,quote,E.34,,replaced Durga with [female spouse] and replaced Shyam with [male spouse],ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_AST,NRM_AST_C,it is difficult for [female spouse] to go ahead and purchase the plot of land in the absence of  [male spouse]'s support,,transcriber's summary,E.35,,replaced David with [male spouse] and Diana with [female spouse],ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_AST,NRM_AST_C,"both [male spouse] and  [female spouse] are planning to invest on different things. Hence, it would be difficult for them to make decision ",it would be difficult for them to make decision ,quote,E.36,,replaced Durga with [female spouse] and replaced Shyam with [male spouse],ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_AST,NRM_AST_C,[male spouse] might argue with [female spouse] saying “we are husband wife so I have right on your property as well”. ,,quote,E.36,,replaced Durga with [female spouse] and replaced Shyam with [male spouse],ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_MOB,NRM_MOB_N,"yes, young unmarried girls can walk alone to the local market but difficult for married young women",,quote,E.38,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_MOB,NRM_MOB_N,"young married women has to household works and take care of children. Therefore, it is difficult for them go out.",,quote,E.39,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_MOB,NRM_MOB_C,because of in-laws it is difficult for married women to go out. ,,quote,E.39,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_AST,NRM_AST_O,"yes, easy for a woman to sell in the local market",,quote,E.40,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_MOB,NRM_MOB_O,mobility of women are increasing than before,,quote,E.41,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_MOB,NRM_MOB_N,we seek permission before going out. ,,quote,E.41,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_MOB,NRM_MOB_C,because of our society it is difficult to go out,,quote,E.41,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_MOB,NRM_MOB_C,for unmarried girls it would be difficult to go and work in other city ,,quote,E.42,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_MOB,NRM_MOB_O,"for married young women, it would be easier because husband will be with her",,quote,E.42,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_MOB,NRM_MOB_O,Temporary migration of young women is 20-25% (basically for education),,quote,E.42,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_STIG,NRM_STIG_O,people would appreciate for being independent and become easier for other young women to go out,,quote,E.43,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_COL,"more opportunities can be obtained after returning back. Such as organizing trainings, start doing job as per work experiance,",,quote,E.43,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_O,first parents would make decision and then ask son or daughter whether ready for marriage or not,,quote,E.45,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_N,parents should be involved to make decision regarding marriage because they are more experienced people,parents should be involved to make decision regarding marriage,quote,E.46,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_O,both husband and wife decide together to have first child,,quote,E.50,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_UNSP,girls should study higher and jet job accordingly ,,quote,E.51,,,ENU_2,0.95
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_UNSP,married young women should also get opportunity to go for study at college and university,,quote,E.51,,,ENU_2,0.9
+NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_UNSP,we should also get opportunity to work in good organizations,,quote,E.51,,,ENU_2,0.95
