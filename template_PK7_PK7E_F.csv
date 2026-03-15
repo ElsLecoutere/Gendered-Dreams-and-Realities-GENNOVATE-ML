@@ -1,0 +1,84 @@
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_interval
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_EQ,NRM_EQ_YS,There should be equal level of education for both girls and boys.,There should be equal level of education,quote,E.5,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,ASP,ASP_UNSP,If there will be education then life will be easy. We will get jobs and we will prosper,We will get jobs and we will prosper,quote,E.5,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_INF,NRM_INF_C,Yes they do discriminate between girls and boys.,,quote,E.6,,,ENU_2,0.8
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_INF,NRM_INF_C,They think that girl will get married and go away so ther is no need of giving her education,,quote,E.6,,,ENU_2,0.8
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_INF,NRM_INF_C,They discriminate in matter of education otherwise there is same treatment,,quote,E.6,,,ENU_2,0.8
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,"Girls only take care of their home. They take care of their family, husband and children.",,quote,E.6,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,"They do different things like weeding, sowing. They also help in cotton picking. They help in harvesting.",,quote,E.7,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,ASP,ASP_NON,Our relatives were illiterate and poor. They are not wise then how can there be some goal.,They are not wise then how can there be some goal.,quote,E.10,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,ASP,ASP_UNSP,Everyone wants to progress. I also want to progress., I also want to progress,quote,E.10,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,Women also work with clay. ,,quote,E.11,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,They bring grass. ,,quote,E.11,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,They bring water. ,,quote,E.11,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,They bring wood. ,,quote,E.11,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,They also do stitching and other handy crafts. ,,quote,E.11,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,"They also work in farming like sowing, weeding, and cotton picking. ",,quote,E.11,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,They also help in sprays and fertilizing land.,,quote,E.11,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,ASP,ASP_TRAD,Will take care of the children,,quote,E.12,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,ASP,ASP_TRAD,She will bring up his children in a good way. ,bring up his children,quote,E.12,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_INF,NRM_INF_C,Opportunities are only available for men not for women.,only available for men not for women.,quote,E.15,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_INF,NRM_INF_O,Yes there are as they keep women with them on fields., they keep women with them on fields,quote,E.15,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_O,Men and women decide jointly that how to do the sowing and harvesting., decide jointly,quote,E.18,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_C,Only man does to market a women does not go the market for selling., women does not go the market,quote,E.19,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_AST,NRM_AST_C,We don’t have loan facility. Even if we get its interest is very high.,We don’t have loan facility,quote,E.19,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,We take care of the land from sowing till harvesting. ,,quote,E.20,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_C,We cannot go to market. This is not our tradition.,We cannot go,quote,E.20,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DIV,NRM_DIV_C,We take care of animals and go out to bring grass,,quote,E.20,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_C,we cannot go out to market for selling,we cannot go,quote,E.20,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_C,We are not allowed to go to market.,,quote,E.20,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_O,We decide together. ,decide together. ,quote,E.21,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_O,Husband and wife make decision jointly in our society.,make decision jointly,quote,E.21,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_INF,NRM_INF_C,She will ask her parents. ,ask,quote,E.24,"assuming they are seeking expert information, not permission from family members",,ENU_2,0.8
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_INF,NRM_INF_C,"She will also consult her brothers, husband and children if she has.",consult,quote,E.24,"assuming they are seeking expert information, not permission from family members",,ENU_2,0.8
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_INF,NRM_INF_C,I usually ask my brother ,ask,quote,E.24,"assuming they are seeking expert information, not permission from family members",,ENU_2,0.8
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_INF,NRM_INF_C,If family members are not available then they ask neighbors. ,ask,quote,E.24,"assuming they are seeking expert information, not permission from family members",,ENU_2,0.8
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_O,"They will not mind it, as when there will be some benefit it will be for both.",They will not mind it,quote,E.25,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_O,No one will stop them they will let her join.,they will let her join,quote,E.25,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_C,He will not allow her. It’s against our traditions that women will go to market.,against our traditions that women will go to market.,quote,E.26,,,ENU_2,
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_C,Women are not daring that she will do such thing.,,quote,E.26,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_C,[female spouse] will be regarded as a bad woman. ,bad woman,quote,E.28,,replaced Meeran with [female spouse],ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_C,People will give negative comments. , negative comments.,quote,E.28,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_N,Its husband decision to allow her. If he allows then no one will challenge. ,If he allows then no one will challenge. ,quote,E.28,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_N,"But she can’t go alone, someone will accompany her.",she can’t go alone,quote,E.28,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_N,If her guardian will allow or take her with him then no one will object.,,quote,E.28,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_N,People will taunt [male spouse] . They will stop him that you are giving liberty to your wife and you can’t control her. ,People will taunt ,quote,E.29,,replaced Shabir with [male spouse],ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_O,He will say you are very good and we are getting benefits due to your work.,,quote,E.30,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_O,He will be very happy. He will feel lucky. ,,quote,E.30,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_EQ,NRM_EQ_YS,They should be equal in all matters,,quote,E.31,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_EQ,NRM_EQ_YS,I think gender equality is a good thing.  ,a good thing.  ,quote,E.31,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_EQ,NRM_EQ_YS,We want that there should be equality in all matters.,,quote,E.31,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_EQ,NRM_EQ_YS,It will also give us some relief., give us some relief.,quote,E.31,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_EQ,NRM_EQ_YS,Equality is good it will also lead to education equality. ,Equality is good,quote,E.31,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_EQ,NRM_EQ_YS,Equality will also solve many problems.,,quote,E.31,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_EQ,NRM_EQ_YS,We also want to enjoy shopping and go to market. ,,quote,E.31,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_O,They would decide together. ,decide together,quote,E.32,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_O,It’s a collective decision always. No one decides all alone.,collective decision,quote,E.32,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_AST,NRM_AST_C,Husband is the most important. ,Husband,quote,E.33,,,ENU_2,0.8
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_O,They will be able to do this together.,,quote,E.34,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_C,it will be difficult for [female spouse],difficult,quote,E.35,,replaced Dini with [female spouse],ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_O,she will not give her own land to him.,,quote,E.37,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_C,No she will be confused. She will be scared. ,scared,quote,E.38,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_C,We never go out,,quote,E.38,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_O,She will not be confused. She will be relaxed.,relaxed,quote,E.39,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_AST,NRM_AST_C,It is difficult for them. ,difficult,quote,E.40,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_AST,NRM_AST_N,It is difficult and easy at the same time. If husband allows then it is easy otherwise not. ,If husband allows,quote,E.40,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_N,Women do not go to market in this village. Even she has permission still environment is not like that.,Even she has permission still environment is not like that.,quote,E.40,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_N,In case of emergency she will go but still she will be worried about her children. ,she will be worried about her children. ,quote,E.40,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_O,All women can go anywhere.,All women can go anywhere.,quote,E.41,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_N,if I get permission then I will go to the nearby village to train women how to do rally work,if I get permission then I will go,quote,E.42,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,ASP,ASP_COL,I will go to the nearby village to train women how to do rally work,rally work,quote,E.42,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_C,It is not possible. We don’t have such freedom. ,We don’t have such freedom. ,quote,E.42,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_C,They think that she is not nice person. ,she is not nice person. ,quote,E.43,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_MOB,NRM_MOB_C,If she wants to earn then she should live here and work here ,should live here and work here ,quote,E.43,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_O,People will say she has some skills that’s why she went out to do something. If she will get job then they will praise her, they will praise her,quote,E.43,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_O,There are many opportunities,,quote,E.43,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_C,"Girls can’t do it, they can’t marry of their own choice.","Girls can’t do it, ",quote,E.44,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_C,Family decides that who should marry whom. ,Family decides ,quote,E.45,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_C,We should be allowed to marry someone whom we like   ,We should be allowed,quote,E.46,,,ENU_2,0.9
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_C,who gets marry of her own choice is lucky,lucky,quote,E.46,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_C,When there is no child people starts taunting her,people starts taunting her,quote,E.47,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_STIG,NRM_STIG_C,If she doesn’t have a child in early years then she is not valued,she is not valued,quote,E.48,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_C,Its man’s decision,,quote,E.50,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_C,The women express their wish but they don’t have authority. ,they don’t have authority,quote,E.50,,,ENU_2,0.95
+PK,PK7,GENNOVATE_PK7.xlsx,FG_E_Aspirations of Youth,PK7_F,female,NRM_DEC,NRM_DEC_C,A woman cannot decide.,,quote,E.50,,,ENU_2,0.95
