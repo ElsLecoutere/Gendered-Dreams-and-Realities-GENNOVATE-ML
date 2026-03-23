@@ -1,0 +1,343 @@
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,page number,container,background information,comments,enumerator_id,confidence interval
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,under parents’ responsibility,parental control,quote,2,E.2,,Young men say parents control major life decisions,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,dependent on them,dependence,quote,2,E.2,,Youth dependence limits own decision-making,ENU_3,0.85
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,cannot decide major issues,no autonomy,quote,2,E.2,,Respondent says major life choices are not his own,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,only obey parents,obedience,quote,2,E.2,,Youth expected to obey family instructions,ENU_3,0.85
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,cannot live as wanted,constrained life,quote,2,E.2,,Personal freedom is limited by household authority,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_N,some things we decide,partial agency,quote,2,E.2,,Respondent notes some areas of partial agency,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,join college if resources,college plan,quote,2,E.2,,Going to college is possible only if resources allow,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,many things we cannot decide,limited choice,quote,2,E.2,,Youth still face strong limits despite some freedom,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_SML,can go anywhere to work,work mobility,quote,2,E.2,,Young men report some work-related mobility,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,cannot decide things needing money,money constraint,quote,2,E.2,,Financial dependence limits choices,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,school is a good thing,education good,quote,2,E.3,,Education is viewed positively,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,education gives knowledge,knowledge,quote,2,E.3,,Schooling valued for knowledge gain,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,educated man gets what he wants,education-success,quote,2,E.3,,Education linked to future success,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,did not go far in education,low attainment,quote,2,E.3,,Respondent did not progress far in school,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,give children education,children’s schooling,quote,2,E.3,,Education is seen as the best thing for children,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,boys study only to grade 8,low schooling ceiling,quote,2,E.4,,Most boys stop around grade 8,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,few reach grade 10,limited continuation,quote,2,E.4,,Only a minority progress to grade 10,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,economic difficulties stop schooling,poverty barrier,quote,2,E.4,,Poverty blocks continued education,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,no secondary school nearby,school access,quote,2,E.4,,Lack of local secondary school constrains education,ENU_3,0.85
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,must go far and stay there,distance cost,quote,2,E.4,,Distance requires relocation and extra costs,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,rent and food needed,schooling costs,quote,2,E.4,,School continuation requires money for living costs,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,"girls marry younger, stop school",early marriage barrier,quote,3,E.4,,Early marriage disrupts girls’ education,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,better to reach college and university,higher education,quote,3,E.5,,Men say boys and girls should study as far as possible,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,education gives good job,good job,quote,3,E.5,,Education linked to formal employment,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_NO,boys get more chance than girls,son preference,quote,3,E.6,,Parents invest more in sons’ education,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,educated boy may support parents,son provider,quote,3,E.6,,Boys are valued as future providers,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,girls marry and serve own family,girls marry out,quote,3,E.6,,Girls expected to shift loyalty to husband’s family,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,girl will belong to husband,daughter transfer,quote,3,E.6,,Parents see daughters as leaving the natal household,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,parents give land to boys,land to sons,quote,3,E.6,,"Boys inherit land, girls do not",ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,boys use land income for education,land funds schooling,quote,3,E.6,,Male land access supports continued education,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,girls do not get land,girls no land,quote,3,E.6,,Girls are excluded from land inheritance,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,girls depend on family,dependence,quote,3,E.6,,Lack of land leaves girls dependent,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_INF,NRM_INF_O,learn farming from fathers,fathers teach,quote,3,E.7,,Boys gain agricultural knowledge from fathers,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_MEN,NRM_MEN_C,fathers teach us farming because we help them,boys as farmers,quote,3,E.7,,Boys are prepared for farming roles,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_INF,NRM_INF_O,anything they know we know,full access to farm knowledge,quote,3,E.7,,Boys claim direct access to fathers’ farming knowledge,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_INF,NRM_INF_O,"father teaches plowing, planting, harvesting",male training,quote,3,E.7,,Boys are mentored in all major field tasks,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,top reason is family economic problem,poverty,quote,3,E.9,,Family poverty is ranked as main reason for ending school,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,peer pressure from dropouts,peer pressure,quote,3,E.9,,Discouragement from others contributes to school exit,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,"goal was college, university, engineer",engineer goal,quote,4,E.10,,Respondent’s aspiration was higher education and engineering,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,forced to stop because of illness,illness barrier,quote,4,E.10,,Illness blocked attainment of aspiration,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,had great vision to be doctor,doctor goal,quote,4,E.10,,Respondent aspired to be a doctor,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,fell in love and stopped school,romance dropout,quote,4,E.10,,Romantic relationship led to school exit,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,"married, had children, forgot education",family interrupted school,quote,4,E.10,,Marriage and children ended aspiration,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,also wanted to be doctor,doctor aspiration,quote,4,E.10,,Another respondent also aspired to medicine,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_UNSP,hated to be farmer,reject farming,quote,4,E.10,,Farming was not the desired occupation,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,did not get result for college,exam result barrier,quote,4,E.10,,Poor exam result blocked college entry,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,joined military then returned to farming,failed alternative,quote,4,E.10,,Nonfarm alternative failed; respondent returned to unwanted farming,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,dreamed to be teacher,teacher goal,quote,4,E.10,,Respondent aspired to teaching,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,dream shattered by low points,shattered dream,quote,4,E.10,,Teacher aspiration failed due to marks,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,now married and still farmer,aspiration replacement,quote,4,E.10,,Marriage and farming replaced prior aspiration,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,many stop after grade 10 and return home,school-to-idleness,quote,4,E.11,,Many youth fail to transition successfully after school,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_UNSP,some go to cities for jobs,city jobs,quote,4,E.11,,Youth pursue employment by migrating to cities,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,some sit around doing nothing,inactivity,quote,4,E.11,,Unemployment/idleness after school is common,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_N,youth with large family land start farming,land advantage,quote,4,E.11,,Access to family land shapes post-school livelihood,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_BUSS,some organize into association and start business,association business,quote,4,E.11,,Some youth form associations and begin enterprises,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_BUSS,wood workshop,workshop business,quote,4,E.11,,Example of youth business activity,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,half of youth sit idly and get addicted,addiction/idleness,quote,4,E.11,,School exit often followed by idleness and addiction,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_UNSP,did not want laborer or farmer jobs,avoid labor/farm,quote,5,E.11,,Youth reject hard manual and farm work,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_UNSP,prefer tea house or video shop work,easy work,quote,5,E.11,,Youth prefer less physically demanding work,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_NON,really prefer to do nothing,no aspiration,quote,5,E.11,,Some youth are described as preferring no work,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,want factory and construction jobs,factory/construction,quote,5,E.11,,Preferred jobs are industrial or construction-based,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,jobs available only in towns and not easy to get,urban access barrier,quote,5,E.11,,Youth need help/connections to secure urban jobs,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,parents value government job highly,office job prestige,quote,5,E.11,,Public-sector work is highly admired,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,father wanted education then government job,father’s expectation,quote,5,E.11,,Father discouraged marriage and pushed formal employment,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,"clerk, secretary or AEA",job models,quote,5,E.11,,Example of socially valued jobs,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_BUSS,finish school should not be end; create own business,own business,quote,5,E.12,,Youth should build self-employment/businesses,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,better than dependence on family,avoid dependence,quote,5,E.12,,Return to family dependence is seen negatively,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,creating jobs needs money and initiative,startup barrier,quote,5,E.12,,Business creation is limited by capital and initiative,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_UNSP,better to go to towns and take whatever work,practical fallback,quote,5,E.12,,Migration for available work is preferred to dependence,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_BUSS,potato has huge market,market crop,quote,6,E.14,,Potato is valued for market demand,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_BUSS,boosts household economy quickly,quick income,quote,6,E.14,,Potato quickly improves household income,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_BUSS,most income comes from potato sale,sale income,quote,6,E.14,,Potato sales are a major present-day income source,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_N,maize requires much work and transport,labor burden,quote,6,E.14,,Maize is described as labor-intensive compared with potato,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_BUSS,potato sold directly on plot,easier sale,quote,6,E.14,,Potato marketing is easier than maize marketing,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_N,potato reliable for food and income,reliable crop,quote,6,E.14,,Crop valued for both subsistence and income,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,planted in backyard so women can attend it,backyard women,quote,6,E.14,,Crop is linked to women because of location and care pattern,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,girls learn from mothers in vegetable gardens and dairy,girls’ training,quote,7,E.15,,Young women are socialized into female-coded productive roles,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,girls did not get land from family,no land to practice,quote,7,E.15,,Women cannot practice farming equally because they lack land,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,girls stay at home or go to school,home-based girls,quote,7,E.15,,Girls’ daily sphere is more home-centered than boys’,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_INF,NRM_INF_C,girls not involved like brothers,less ag exposure,quote,7,E.15,,Girls’ involvement in agriculture is lower than boys’,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,"no decision-making power, no own responsibility",no responsibility,quote,7,E.16,,Youth lacked authority over crops/livestock in parental household,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,everything decided by parents,parents decide,quote,7,E.16,,Parents controlled agricultural responsibility,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_INF,NRM_INF_O,new wheat seed and Gudene potato are changes,new seed,quote,8,E.17,,Men discuss agricultural innovation and new varieties,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_BUSS,Gudene potato has high market demand,market demand,quote,8,E.17,,New variety is valued for demand and profit,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,women work in vegetable garden and dairy,women’s tasks,quote,8,E.18,,Women’s work is concentrated in specific productive spheres,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,women help men by weeding and bringing seed,helper role,quote,8,E.18,,Women support men’s plots rather than lead them,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_MEN,NRM_MEN_C,farming is generally a man’s job,man’s job,quote,8,E.18,,Respondent explicitly defines core farming as male work,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,"women recently work as men do, even plow",changing roles,quote,8,E.18,,Men report a gradual shift toward women doing male tasks,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,thinking about women’s farming capacity is changing,changing capacity,quote,8,E.18,,Views about women as farmers are becoming more favorable,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_N,widow/divorcee with land can do what she wants,widow exception,quote,8,E.19,,Some autonomy is recognized for widows/divorcees with land,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,married woman with husband cannot do anything,husband veto,quote,8,E.19,,Married women’s actions are constrained by husbands,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,farming is his job and he does it,male farming authority,quote,8,E.19,,Male household head is considered farming authority,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,men have every right to raise or sell livestock,men’s rights,quote,8,E.20,,Men are assumed to control family livestock and sales,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,no such thing as her livestock or crop,no women’s ownership,quote,8,E.20,,Women’s separate ownership is denied,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,vegetable garden exclusively for woman,women’s domain,quote,8,E.20,,Vegetable garden is designated as women’s sphere,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,taboo for men to sell vegetables,taboo,quote,9,E.20,,Men face stigma for crossing into women’s market roles,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,no separate plots; all land belongs to man,all land male-owned,quote,9,E.21,,Group agrees land is family land under male ownership,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_INF,NRM_INF_N,widow consults farmers or AEAs; older son may take responsibility,widow consults,quote,9,E.24,,Access to information for women is conditional and exceptional,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,married woman leaves issue to husband,leave to husband,quote,9,E.24,,Married women defer crop decisions to husbands,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_INF,NRM_INF_O,men consult friends or AEAs,men’s advice access,quote,9,E.24,,Men have easier access to advisory networks,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,wives may be talked to but not for advice,wife not adviser,quote,9,E.24,,Women’s knowledge is not treated as authoritative,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_MOB,NRM_MOB_C,stay in your own home,stay home,quote,9,E.25,,Husband would restrict woman’s movement outside home,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,break your leg if you join them,violent sanction,quote,9,E.25,,Threatened violence enforces conformity,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,he will forbid her to sell,forbid selling,quote,10,E.26,,Husband prevents woman from selling produce herself,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_INF,NRM_INF_C,you know nothing about the market,market ignorance,quote,10,E.26,,Women are framed as lacking market knowledge,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,do what you are supposed to do in the house,house role,quote,10,E.26,,Woman is directed back to domestic duties,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,he is accustomed to her support,expected support,quote,10,E.27,,Her labor support to his plot is taken for granted,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,people suspect adultery if woman markets often,adultery suspicion,quote,10,E.28,,Market-active women risk sexualized suspicion,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,husbands may forbid wives to associate with her,bad influence,quote,10,E.28,,Norm-breaking woman seen as contaminating influence,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,he was hypnotized by her,emasculation,quote,10,E.29,,Male role reversal draws ridicule and pity,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,overpowered by a woman; chores are woman’s job,role reversal stigma,quote,10,E.29,,Household chores by men are seen as unacceptable,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,she is controlling him and household,woman controls man,quote,10,E.30,,Female economic success is reframed as domination,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,maybe he should be happy if wife brings income,supportive alternative,quote,11,E.30,,One respondent offers a more egalitarian reaction,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,group laughed: happy when wife brings money?,group rejection,quote,11,E.30,,Group reaction rejects wife-as-provider norm,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,father and mother are equal to me,equality basic,quote,11,E.31,,Respondent expresses a general equality ideal,ENU_3,0.85
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,equality is men and women talking equally in meetings,equal voice,quote,11,E.31,,Equality defined as equal public participation,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,"if women work a man’s job, she is equal",women doing men’s work,quote,11,E.31,,Equality is associated with women entering male domains,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,"if women have equal opportunity, they can change country",equal opportunity,quote,11,E.31,,Positive statement about women’s potential under equality,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_N,they have to discuss and decide how much to sell,joint decision,quote,11,E.32,,Respondent describes cooperative decision-making,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_N,good couples discuss what is best,discussion,quote,11,E.32,,Joint discussion framed as ideal behavior,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,he will sell because she has house responsibilities,domestic burden,quote,11,E.33,,Housework burden keeps women from market role,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,women are careful with money; men waste it,women careful with cash,quote,11,E.33,,Counter-stereotype about women’s money management,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_N,they first discuss new practice and advantage,discuss innovation,quote,12,E.34,,New practices may be jointly discussed,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_INF,NRM_INF_N,first test if wife’s idea is good,test woman’s idea,quote,12,E.34,,Wife-origin knowledge may be tried cautiously,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,he will not accept such advice,reject wife’s advice,quote,12,E.34,,Husband may refuse innovation if it comes from wife,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,impossible for her to act without his consent,his consent,quote,12,E.36,,Women’s independent financial decisions are constrained,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,acting without approval may cause fight,conflict sanction,quote,12,E.36,,Disobedience triggers conflict,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_N,woman can try to win his vote,persuasion not authority,quote,12,E.36,,"Woman’s influence is framed as persuasion, not decision power",ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,if inheritance is his he can do whatever he wants,male inheritance control,quote,12,E.37,,Men’s control over assets is taken for granted,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,she will not raise claim on his money,wife no claim,quote,12,E.37,,Wife seen as lacking entitlement to husband’s inheritance,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,as husband and wife it is their money,joint money ideal,quote,13,E.37,,One respondent frames marital assets as jointly owned,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,man gets what he wants in the end,final male authority,quote,13,E.37,,Male spouse seen as final authority in disputes,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,whether with her consent or not,consent bypassed,quote,13,E.37,,Woman’s consent may be overridden,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,he may bring neighbors or marry another wife,coercion threat,quote,13,E.37,,Community mediation and polygyny threaten women’s bargaining power,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,women’s right is protected,rights discourse,quote,13,E.38,,Respondent cites women’s rights language,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_MOB,NRM_MOB_O,nothing prevents women to sell in market,market mobility,quote,13,E.40,,Local market selling is described as open to women,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,majority traders are women in vegetables and household foods,women traders,quote,13,E.40,,Women dominate certain market niches,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,women do not sell cattle or equipment,product boundary,quote,13,E.40,,Market roles are gendered by commodity,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_MOB,NRM_MOB_C,some women have family restriction not to go alone,family restriction,quote,14,E.41,,Mobility is constrained by family rules,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_MOB,NRM_MOB_N,some women are shy and move in groups,group movement,quote,14,E.41,,"Even where possible, women self-restrict mobility",ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,married women fear in-laws will see and talk ill,gossip,quote,14,E.41,,Surveillance and gossip constrain movement,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_UNSP,can go anywhere to find a job,go for jobs,quote,14,E.42,,Men see themselves as mobile for employment,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,transport and expenses are obstacle,transport cost,quote,14,E.42,,Migration for work is limited by cash needs,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_INF,NRM_INF_C,lack of information on jobs is a problem,no job info,quote,14,E.42,,Information shortage constrains migration/job search,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,"need ID, clearance, language, and family support",migration barriers,quote,14,E.42,,Multiple barriers limit work migration,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_SML,successful returnees accepted with open hands,success return,quote,14,E.43,,Successful migrants gain status on return,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,menial jobs have negative effect on return,menial job stigma,quote,14,E.43,,Low-status migrant work harms reputation,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,many return empty-handed and not accepted,failed migrant stigma,quote,14,E.43,,Failed migration brings low social regard,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_SML,"if changed positively, return is good",positive return,quote,15,E.43,,Community judges returnees by outcomes,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,"if not changed positively, people uncomfortable",negative return stigma,quote,15,E.43,,Failed return carries discomfort and stigma,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,"men marry above 18, women above 15",younger brides,quote,15,E.44,,Community norm sets lower marriage age for girls,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,poor families marry girls early,poverty marriage,quote,15,E.45,,Poverty pushes early marriage for girls,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,some parents push sons to marry for more children,push son to marry,quote,15,E.45,,Parents pressure sons into marriage for lineage growth,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,girls are a good investment,girls as investment,quote,15,E.45,,Daughters are valued as financial assets,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,dowry brings family income,dowry income,quote,15,E.45,,Marriage payments are important family resources,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_AST,NRM_AST_C,daughter’s dowry can help marry son,transfer to son,quote,15,E.45,,Resources from girls’ marriage support boys’ marriage,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,nowadays men and women decide whom they marry,choose spouse,quote,15,E.46,,Respondent says young people now choose partners more often,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,previously parents selected husband or wife,parental choice,quote,15,E.46,,Earlier marriage decisions were controlled by parents,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,now no obligation for girl or boy,less coercion,quote,15,E.46,,Respondent sees reduced coercion in marriage choice,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DIV,NRM_DIV_C,girl married at 15 has first child at 17,early first child,quote,15,E.47,,Early marriage quickly leads to first birth,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,girls are tiny and not ready to give birth,too young,quote,16,E.48,,Respondent argues young girls are not ready for childbirth,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_EQ,NRM_EQ_YS,best age for first child settled at 23,preferred later birth,quote,16,E.49,,Group consensus favors later first childbirth,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,women have no say when they give birth,no reproductive say,quote,16,E.50,,Women’s fertility decisions are controlled,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,she must discuss with husband,husband approval,quote,16,E.50,,Husband approval is required for fertility decisions,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_STIG,NRM_STIG_C,if he disagrees he may marry another,second-wife threat,quote,16,E.50,,Threat of another marriage pressures women to comply,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,NRM_DEC,NRM_DEC_C,she gets pregnant against her will,coerced pregnancy,quote,16,E.50,,Woman is compelled into pregnancy to keep marriage,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_UNSP,want a youth center,youth center,quote,16,E.51,,Desired change is a place for youth to gather,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_COL,need secondary school here,school access,quote,16,E.51,,Community wants local secondary school to reduce dropout,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,GAP,GAP_WID,youth quit at grade 8 without local school,school barrier,quote,16,E.51,,Lack of local school contributes to dropout,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_UNSP,need job opportunities,job opportunity,quote,16,E.51,,Youth want employment after schooling,ENU_3,0.95
+ET,ET2,"	
+GENNOVATE_ET2.xlsx",FG_E_Aspirations of Youth,ET2E_M,Male,ASP,ASP_BUSS,need training for different businesses,business training,quote,16,E.51,,Youth request training to create businesses,ENU_3,0.95
