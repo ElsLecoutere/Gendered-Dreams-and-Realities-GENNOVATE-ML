@@ -6,208 +6,139 @@ context_id,context_type,context_text,indicators
 E_F_E.10,question,"When you finished your education, did you have a special goal for your future? If so, what was it? ",ASP;GAP;NRM_DEC
 E_F_E.11,question,"Generally speaking, what do most young women of the village do with their lives when they are no longer students?",ASP;GAP;NRM_DEC;NRM_DIV
 E_F_E.12,question,What do you think young women should do when they finish studying?,ASP;GAP;NRM_DIV;NRM_INF
-E_F_E.13,question,"Now I?d like to focus on new local practices surrounding agriculture and managing natural resources like the forests, water, and soils which surround this village. Thinking back over the past five years or so, what new cropping or livestock practices or ways of managing local natural resources or organizing agricultural activities have people here tried out or experimented with?",NRM_INF
-E_F_E.14,,,ASP;NRM_DIV;NRM_INF;NRM_MEN;NRM_STIG
-E_F_E.15,,,ASP;GAP;NRM_AST;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.16,,,NRM_AST;NRM_DEC;NRM_DIV
-E_F_E.17,,,GAP;NRM_INF;NRM_MEN
-E_F_E.18,,,NRM_DIV;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.19,,,GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB
+E_F_E.13,question,"Now I'd like to focus on new local practices surrounding agriculture and managing natural resources like the forests, water, and soils which surround this village. Thinking back over the past five years or so, what new cropping or livestock practices or ways of managing local natural resources or organizing agricultural activities have people here tried out or experimented with?",NRM_INF
+E_F_E.14,question,Which of these new agricultural practices have been the most important for the women in the community? Why important? And which have been most important for the men? Why? ,ASP;NRM_DIV;NRM_INF;NRM_MEN;NRM_STIG
+E_F_E.15,question,Do you think that the young women of the village have the same opportunities as the young men to learn about and try out new farming practices or agricultural organizations? Why or why not?    ,ASP;GAP;NRM_AST;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
+E_F_E.15.a,question,Is it possible for women to be organized and work on farming?,
+E_F_E.16,question,"Now we are going to look at the different traditions or customs from the past that surround agricultural activities.  And then we?ll discuss the more common practices of today.
+What are the two or three most important crops or animals that women cultivate or raise in this community? And what were the most important crops or animals that women were responsible for 10 years ago? ",NRM_AST;NRM_DEC;NRM_DIV
+E_F_E.17,question,[If agricultural practices have changed]:  What caused these changes over the past 10 years?,GAP;NRM_INF;NRM_MEN
+E_F_E.18,question,Do the young people around here follow local customs of women doing certain agricultural activities and men doing others? Why or why not?,NRM_DIV;NRM_MEN;NRM_MOB;NRM_STIG
+E_F_E.19,question,What would happen if a young men tried to grow and then sell on their own [name one of the major activities in the table]?  What difficulties could they face? ,GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB
 E_F_E.2,question,"Please imagine a 5-step ladder, where at the bottom, on the first step, stand the individual women of this community with little capacity to make their own decisions about important affairs in their lives. These women have little say about if or where they will work, or about starting or ending a relationship with a man. On the highest step, the fifth, stand those who have great capacity to make important decisions for themselves, including about their working life and whether to start or end a relationship in their personal life. Why?",ASP;NRM_AST;NRM_DEC;NRM_EQ;NRM_INF;NRM_MOB
-E_F_E.20,,,GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.21,,,NRM_AST;NRM_DEC;NRM_DIV
-E_F_E.22,,,NRM_AST;NRM_DEC;NRM_DIV
-E_F_E.23,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_EQ;NRM_STIG
-E_F_E.24,,,NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN
-E_F_E.25,,,NRM_DEC;NRM_DIV;NRM_INF;NRM_MOB;NRM_STIG
-E_F_E.26,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.27,,,NRM_DEC;NRM_DIV;NRM_STIG
-E_F_E.28,,,NRM_EQ;NRM_MOB;NRM_STIG
-E_F_E.29,,,NRM_EQ;NRM_STIG
-E_F_E.3,question,Now I?d like to turn to the topic of education. What do you think about going to school? Is it useful to get an education?,ASP;GAP
-E_F_E.30,,,NRM_AST;NRM_DIV;NRM_EQ;NRM_STIG
-E_F_E.31,,,NRM_DEC;NRM_EQ;NRM_STIG
-E_F_E.32,,,NRM_AST;NRM_DEC;NRM_STIG
-E_F_E.33,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.34,,,NRM_DEC;NRM_INF;NRM_MEN;NRM_STIG
-E_F_E.35,,,NRM_AST;NRM_DEC
-E_F_E.36,,,ASP;NRM_AST;NRM_DEC;NRM_EQ;NRM_STIG
-E_F_E.37,,,NRM_AST;NRM_DEC;NRM_STIG
-E_F_E.38,,,NRM_DIV;NRM_MOB;NRM_STIG
-E_F_E.39,,,NRM_MOB
+E_F_E.20,question,And what would happen if women tried to raise and sell on their own [name a major crop or animal associated with the men]?  What difficulties could they face?,GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
+E_F_E.21,question,"How is it decided who farms which plot? In general in this community, are some household members responsible for some farm plots while other household members are responsible for other plots? ",NRM_AST;NRM_DEC;NRM_DIV
+E_F_E.22,question,"[If men and women generally have separate plots:] How often do men typically work on their wives? plots? 
+  How often do women typically work on their husbands? plots? ",NRM_AST;NRM_DEC;NRM_DIV
+E_F_E.23,question,How often do other household members work on women?s plots? And on men?s plots?,NRM_AST;NRM_DEC;NRM_DIV;NRM_EQ;NRM_STIG
+E_F_E.24,question,"Generally, if a woman wanted to plant a new crop, would she consult someone first?  If so, who?   
+ And would a man consult someone first before planting a new crop?  If so, who?  ",NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN
+E_F_E.25,vignette,"Now I?m going to talk about different young couples who live in this village.   Let?s call the first couple [female spouse1] and [male spouse1].  [female spouse1] helps her husband with his crops, and she also has her own home garden.  [male spouse1], however, sells her produce from the garden to a neighbor who works in the market.  Even though [female spouse1] could earn more money if she sold her produce herself, [male spouse1] feels strongly that [female spouse1] belongs at home, and he considers the household and children to be [female spouse1]?s job, and earning money to be his job.      
+How do you think [male spouse1] would respond if [female spouse1] asks if she can join a local group of women who grow vegetables like she does?",NRM_DEC;NRM_DIV;NRM_INF;NRM_MOB;NRM_STIG
+E_F_E.25.a,vignette,"What is he afraid of, what happens if he lets her [go] out?",
+E_F_E.26,vignette,How do you think [male spouse1] would respond if [female spouse1] asks to sell her vegetables herself?,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
+E_F_E.27,vignette,Do you think [male spouse1] will ask [female spouse1] for less help on his plot now that she is busier with her own activities?   ,NRM_DEC;NRM_DIV;NRM_STIG
+E_F_E.28,vignette,"Let?s move next to our second couple, and we will call them [female spouse2] and [male spouse2].  [female spouse2] also helps on her husband?s farm, and has her own home garden.  But unlike [female spouse1], [female spouse2] has been working for a long time in the market, selling the produce herself from her garden.  And [male spouse2] helps out around the house and with caring for their children.  [female spouse2] and  [male spouse2] , then, share some of the provider and housework responsibilities in their household. 
+What kind of reputation do you think that [female spouse2] has in the village because she is a seller in the market?",NRM_EQ;NRM_MOB;NRM_STIG
+E_F_E.29,vignette,"And [male spouse2], what kind of reputation does he have in the village and among his friends?",NRM_EQ;NRM_STIG
+E_F_E.3,question,Now I'd like to turn to the topic of education. What do you think about going to school? Is it useful to get an education?,ASP;GAP
+E_F_E.30,vignette,"If [female spouse2] is very successful with her small enterprise, how do you imagine that [male spouse2] will react?",NRM_AST;NRM_DIV;NRM_EQ;NRM_STIG
+E_F_E.31,question,What comes to mind when you think of the term gender equality?  Do you think gender equality is a good or a bad thing?  Why?    ,NRM_DEC;NRM_EQ;NRM_STIG
+E_F_E.32,vignette,"Now let?s talk about the third and last couple.  We will call them [male spouse3] and [female spouse3] 
+How would [male spouse3] and [female spouse3]  make decisions about how much of  [female spouse3]?s home garden to sell and how much to keep to feed the family?  Would  [female spouse3] decide how much to sell and how much to keep?  Would  [male spouse3] decide?  Or would they decide together?  How would their discussion about this go?",NRM_AST;NRM_DEC;NRM_STIG
+E_F_E.32.a,vignette,What would happen if they don?t agree?,
+E_F_E.33,vignette,Who would be more likely to sell the vegetables?  [male spouse3]? [female spouse3]?  Why?,NRM_AST;NRM_DEC;NRM_DIV;NRM_MEN;NRM_MOB;NRM_STIG
+E_F_E.34,vignette,Let?s say [female spouse3] learns from her sister about new farming practices that increase yield and profits.  She wants to try planting a new variety and using more fertilizer.  What do you think will happen? Do you think [female spouse3] and [male spouse3] will make these changes?    ,NRM_DEC;NRM_INF;NRM_MEN;NRM_STIG
+E_F_E.35,vignette,"Now let?s say that [female spouse3] recently inherited some money that would allow her to purchase a plot of land right near the homestead to expand her vegetable garden. [male spouse3], however, has other plans for his wife?s inheritance. He would like to buy a motorbike. How easy or difficult will it be for [female spouse3] to go ahead and purchase the plot of land in the absence of [male spouse3]?s support? ",NRM_AST;NRM_DEC
+E_F_E.36,vignette,Why?    ,ASP;NRM_AST;NRM_DEC;NRM_EQ;NRM_STIG
+E_F_E.36.a,vignette,"How about both don?t agree, what will she do?",
+E_F_E.37,vignette,What if we reversed the situation?  What if [male spouse3] inherited money instead of [female spouse3]?  How easy or difficult would it be for [male spouse3] to move forward on purchasing a motorbike without [female spouse3]?s support? Why?,NRM_AST;NRM_DEC;NRM_STIG
+E_F_E.37a,vignette,What if she doesn?t accept?,
+E_F_E.37b,vignette,What will happen he came with the bike?,
+E_F_E.38,question,Next I'd like to discuss a few factors that can affect women's working lives.  Can a young woman walk comfortably alone to the local market?     ,NRM_DIV;NRM_MOB;NRM_STIG
+E_F_E.39,question,How does this change once a woman becomes married?  Can a young married woman walk around on her own comfortably to the market?     ,NRM_MOB
 E_F_E.4,question,Until what grade do boys generally study in this community? And girls?,ASP;GAP;NRM_DIV;NRM_EQ
-E_F_E.40,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.41,,,NRM_DEC;NRM_DIV;NRM_MOB;NRM_STIG
-E_F_E.42,,,ASP;GAP;NRM_DEC;NRM_DIV;NRM_MOB;NRM_STIG
-E_F_E.43,,,ASP;GAP;NRM_MOB;NRM_STIG
-E_F_E.44,,,ASP;NRM_DEC;NRM_EQ;NRM_STIG
-E_F_E.45,,,ASP;NRM_DEC;NRM_STIG
-E_F_E.46,,,ASP;NRM_DEC;NRM_EQ
-E_F_E.47,,,NRM_DEC;NRM_DIV;NRM_EQ;NRM_STIG
-E_F_E.48,,,GAP;NRM_DIV;NRM_EQ;NRM_STIG
-E_F_E.49,,,NRM_DEC;NRM_EQ;NRM_STIG
-E_F_E.5,question,What level of education do you think boys and girls of this village should have? Why? What level of education do you think boys and girls of this village should have? Why?,ASP;GAP;NRM_DEC;NRM_DIV;NRM_EQ
-E_F_E.50,,,NRM_DEC;NRM_EQ;NRM_INF;NRM_STIG
-E_F_E.51,,,ASP;GAP;NRM_DEC;NRM_EQ;NRM_MOB;NRM_STIG
+E_F_E.40,question,Is it easy or hard for a woman to sell in the local market?  Why?,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
+E_F_E.41,question,"Out of every 10 women in your community, how many of them move about freely on their own in the public spaces of the community?",NRM_DEC;NRM_DIV;NRM_MOB;NRM_STIG
+E_F_E.42,question,"Now let's say for some reason a young woman in this community really wants to find better work, and they decided that they need to move away to live and work in a city where there were more opportunities.   How easy would this be for them?  Do many young women from here migrate? ",ASP;GAP;NRM_DEC;NRM_DIV;NRM_MOB;NRM_STIG
+E_F_E.42.a,question,Do many boys form this area migrate to other places to look for job?,
+E_F_E.42.b,question,Let?s say how many of them migrate out of ten boys to look for job?,
+E_F_E.43,question,What do people think about a young woman who has migrated for work and then returns to live in the village?    What opportunities do they have?,ASP;GAP;NRM_MOB;NRM_STIG
+E_F_E.43.a,question,What will they do then?,
+E_F_E.44,question,"At what age does a young woman and man typically come together to start their own family in this community? 
+  ",ASP;NRM_DEC;NRM_EQ;NRM_STIG
+E_F_E.44.a,question,How about the girls?,
+E_F_E.44.b,question,"In this communityb that has polygamy, is it preferable to be in a monogamous or polygamous relationship?  Why?    ",
+E_F_E.45,question,How are decisions made about who a woman and a man will marry?  ,ASP;NRM_DEC;NRM_STIG
+E_F_E.45.a,question,"In this community that has polygamy, how are decisions made about co-wives?  Do women have a say in whether they want to be in a polygamous marriage?    ",
+E_F_E.46,question,How do you think decisions should be made about marriage?      ,ASP;NRM_DEC;NRM_EQ
+E_F_E.47,question,At what age do women typically have their first child?,NRM_DEC;NRM_DIV;NRM_EQ;NRM_STIG
+E_F_E.48,question,Do you think this is a good age for the new mother and baby? Why or why not?,GAP;NRM_DIV;NRM_EQ;NRM_STIG
+E_F_E.49,question,What age do you think would be best for a woman to have her first child?  Why? ,NRM_DEC;NRM_EQ;NRM_STIG
+E_F_E.5,question,What level of education do you think boys and girls of this village should have? Why? ,ASP;GAP;NRM_DEC;NRM_DIV;NRM_EQ
+E_F_E.50,question,"Do women in this village decide when to have children and how many children to have?  If not, how is this decision made?",NRM_DEC;NRM_EQ;NRM_INF;NRM_STIG
+E_F_E.51,question,"And for my final question, what changes would you like to see in the village for the young men and women who live here?",ASP;GAP;NRM_DEC;NRM_EQ;NRM_MOB;NRM_STIG
 E_F_E.6,question,Do parents show the same commitment to educating their daughters as their sons? Why or why not?,GAP;NRM_DIV;NRM_EQ;NRM_INF;NRM_STIG
 E_F_E.7,question,What different agricultural activities do girls learn about when they are young in this village? ,ASP;GAP;NRM_DIV;NRM_INF;NRM_MEN
 E_F_E.8,question,What are the main reasons why girls in this village end their education?,GAP;NRM_MOB
 E_F_E.9,question,Which are the two most important reasons on this list why girls end their education. ,GAP;NRM_MOB;NRM_STIG
 E_M_E.10,question,"When you finished your education, did you have a special goal for your future? If so, what was it?",ASP;GAP
-E_M_E.11,,,ASP;GAP;NRM_AST;NRM_DIV
-E_M_E.11.a,,,ASP
-E_M_E.12,,,ASP;GAP;NRM_DIV
-E_M_E.13,,,NRM_INF;NRM_MEN
-E_M_E.14,,,ASP;NRM_AST;NRM_DIV;NRM_EQ;NRM_INF;NRM_MEN
-E_M_E.15,,,NRM_AST;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB
-E_M_E.16,,,NRM_DEC
-E_M_E.17,,,ASP;NRM_INF
-E_M_E.18,,,NRM_DIV;NRM_EQ;NRM_INF;NRM_MEN
-E_M_E.19,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_M_E.2,,,ASP;GAP;NRM_AST;NRM_DEC;NRM_STIG
-E_M_E.20,,,GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_M_E.21,,,NRM_AST;NRM_DEC;NRM_DIV
-E_M_E.22,,,NRM_AST;NRM_DEC;NRM_DIV
-E_M_E.23,,,NRM_AST;NRM_DEC;NRM_DIV
-E_M_E.24,,,NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN
-E_M_E.25,,,NRM_DEC;NRM_DIV;NRM_INF;NRM_MOB;NRM_STIG
-E_M_E.26,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MOB;NRM_STIG
-E_M_E.27,,,NRM_DEC;NRM_DIV;NRM_EQ;NRM_MOB;NRM_STIG
-E_M_E.28,,,NRM_DIV;NRM_EQ;NRM_STIG
-E_M_E.29,,,NRM_STIG
-E_M_E.3,,,ASP;GAP;NRM_EQ;NRM_INF
-E_M_E.30,,,ASP;NRM_AST;NRM_DIV;NRM_EQ;NRM_STIG
-E_M_E.31,,,NRM_DEC;NRM_DIV;NRM_EQ
-E_M_E.32,,,NRM_AST;NRM_DEC;NRM_EQ
-E_M_E.33,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_EQ;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_M_E.34,,,GAP;NRM_AST;NRM_DEC;NRM_EQ;NRM_INF
-E_M_E.35,,,NRM_AST;NRM_DEC
-E_M_E.36,,,NRM_AST;NRM_DEC;NRM_STIG
-E_M_E.37,,,NRM_AST;NRM_DEC;NRM_EQ;NRM_STIG
-E_M_E.38,,,NRM_EQ;NRM_MOB;NRM_STIG
-E_M_E.39,,,NRM_DEC;NRM_MOB;NRM_STIG
-E_M_E.4,,,GAP;NRM_DEC;NRM_EQ;NRM_INF
-E_M_E.40,,,NRM_AST;NRM_DIV;NRM_EQ;NRM_MOB;NRM_STIG
-E_M_E.41,,,NRM_MOB;NRM_STIG
-E_M_E.42,,,ASP;GAP;NRM_INF;NRM_MOB
-E_M_E.43,,,ASP;GAP;NRM_STIG
-E_M_E.44,,,NRM_AST;NRM_DIV;NRM_EQ
-E_M_E.45,,,NRM_AST;NRM_DEC;NRM_STIG
-E_M_E.46,,,NRM_DEC;NRM_EQ
-E_M_E.47,,,NRM_DEC;NRM_DIV;NRM_EQ
-E_M_E.48,,,GAP;NRM_DEC;NRM_EQ
-E_M_E.49,,,NRM_EQ;NRM_STIG
-E_M_E.5,,,ASP;GAP;NRM_EQ;NRM_MOB
-E_M_E.50,,,NRM_DEC;NRM_STIG
-E_M_E.51,,,ASP;GAP;NRM_DEC;NRM_EQ;NRM_INF;NRM_MOB
-E_M_E.6,,,ASP;GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_EQ;NRM_INF;NRM_MOB
-E_M_E.7,,,NRM_DIV;NRM_INF;NRM_MEN
-E_M_E.8,,,GAP
-E_M_E.9,,,GAP;NRM_DIV;NRM_INF;NRM_MOB
-=======,,,
-domain,Gender and social inclusion,,
-project,Gendered Dreams and Realities,,
-database,GENNOVATE,,
-,,,
-context_id,context_type,context_text,indicators
-E_F_E.10,question,"When you finished your education, did you have a special goal for your future? If so, what was it? ",ASP;GAP;NRM_DEC
-E_F_E.11,question,"Generally speaking, what do most young women of the village do with their lives when they are no longer students?",ASP;GAP;NRM_DEC;NRM_DIV
-E_F_E.12,question,What do you think young women should do when they finish studying?,ASP;GAP;NRM_DIV;NRM_INF
-E_F_E.13,question,"Now I?d like to focus on new local practices surrounding agriculture and managing natural resources like the forests, water, and soils which surround this village. Thinking back over the past five years or so, what new cropping or livestock practices or ways of managing local natural resources or organizing agricultural activities have people here tried out or experimented with?",NRM_INF
-E_F_E.14,,,ASP;NRM_DIV;NRM_INF;NRM_MEN;NRM_STIG
-E_F_E.15,,,ASP;GAP;NRM_AST;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.16,,,NRM_AST;NRM_DEC;NRM_DIV
-E_F_E.17,,,GAP;NRM_INF;NRM_MEN
-E_F_E.18,,,NRM_DIV;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.19,,,GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB
-E_F_E.2,question,"Please imagine a 5-step ladder, where at the bottom, on the first step, stand the individual women of this community with little capacity to make their own decisions about important affairs in their lives. These women have little say about if or where they will work, or about starting or ending a relationship with a man. On the highest step, the fifth, stand those who have great capacity to make important decisions for themselves, including about their working life and whether to start or end a relationship in their personal life. Why?",ASP;NRM_AST;NRM_DEC;NRM_EQ;NRM_INF;NRM_MOB
-E_F_E.20,,,GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.21,,,NRM_AST;NRM_DEC;NRM_DIV
-E_F_E.22,,,NRM_AST;NRM_DEC;NRM_DIV
-E_F_E.23,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_EQ;NRM_STIG
-E_F_E.24,,,NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN
-E_F_E.25,,,NRM_DEC;NRM_DIV;NRM_INF;NRM_MOB;NRM_STIG
-E_F_E.26,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.27,,,NRM_DEC;NRM_DIV;NRM_STIG
-E_F_E.28,,,NRM_EQ;NRM_MOB;NRM_STIG
-E_F_E.29,,,NRM_EQ;NRM_STIG
-E_F_E.3,question,Now I?d like to turn to the topic of education. What do you think about going to school? Is it useful to get an education?,ASP;GAP
-E_F_E.30,,,NRM_AST;NRM_DIV;NRM_EQ;NRM_STIG
-E_F_E.31,,,NRM_DEC;NRM_EQ;NRM_STIG
-E_F_E.32,,,NRM_AST;NRM_DEC;NRM_STIG
-E_F_E.33,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.34,,,NRM_DEC;NRM_INF;NRM_MEN;NRM_STIG
-E_F_E.35,,,NRM_AST;NRM_DEC
-E_F_E.36,,,ASP;NRM_AST;NRM_DEC;NRM_EQ;NRM_STIG
-E_F_E.37,,,NRM_AST;NRM_DEC;NRM_STIG
-E_F_E.38,,,NRM_DIV;NRM_MOB;NRM_STIG
-E_F_E.39,,,NRM_MOB
-E_F_E.4,question,Until what grade do boys generally study in this community? And girls?,ASP;GAP;NRM_DIV;NRM_EQ
-E_F_E.40,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_F_E.41,,,NRM_DEC;NRM_DIV;NRM_MOB;NRM_STIG
-E_F_E.42,,,ASP;GAP;NRM_DEC;NRM_DIV;NRM_MOB;NRM_STIG
-E_F_E.43,,,ASP;GAP;NRM_MOB;NRM_STIG
-E_F_E.44,,,ASP;NRM_DEC;NRM_EQ;NRM_STIG
-E_F_E.45,,,ASP;NRM_DEC;NRM_STIG
-E_F_E.46,,,ASP;NRM_DEC;NRM_EQ
-E_F_E.47,,,NRM_DEC;NRM_DIV;NRM_EQ;NRM_STIG
-E_F_E.48,,,GAP;NRM_DIV;NRM_EQ;NRM_STIG
-E_F_E.49,,,NRM_DEC;NRM_EQ;NRM_STIG
-E_F_E.5,question,What level of education do you think boys and girls of this village should have? Why? What level of education do you think boys and girls of this village should have? Why?,ASP;GAP;NRM_DEC;NRM_DIV;NRM_EQ
-E_F_E.50,,,NRM_DEC;NRM_EQ;NRM_INF;NRM_STIG
-E_F_E.51,,,ASP;GAP;NRM_DEC;NRM_EQ;NRM_MOB;NRM_STIG
-E_F_E.6,question,Do parents show the same commitment to educating their daughters as their sons? Why or why not?,GAP;NRM_DIV;NRM_EQ;NRM_INF;NRM_STIG
-E_F_E.7,question,What different agricultural activities do girls learn about when they are young in this village? ,ASP;GAP;NRM_DIV;NRM_INF;NRM_MEN
-E_F_E.8,question,What are the main reasons why girls in this village end their education?,GAP;NRM_MOB
-E_F_E.9,question,Which are the two most important reasons on this list why girls end their education. ,GAP;NRM_MOB;NRM_STIG
-E_M_E.10,question,"When you finished your education, did you have a special goal for your future? If so, what was it?",ASP;GAP
-E_M_E.11,,,ASP;GAP;NRM_AST;NRM_DIV
-E_M_E.11.a,,,ASP
-E_M_E.12,,,ASP;GAP;NRM_DIV
-E_M_E.13,,,NRM_INF;NRM_MEN
-E_M_E.14,,,ASP;NRM_AST;NRM_DIV;NRM_EQ;NRM_INF;NRM_MEN
-E_M_E.15,,,NRM_AST;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB
-E_M_E.16,,,NRM_DEC
-E_M_E.17,,,ASP;NRM_INF
-E_M_E.18,,,NRM_DIV;NRM_EQ;NRM_INF;NRM_MEN
-E_M_E.19,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_M_E.2,,,ASP;GAP;NRM_AST;NRM_DEC;NRM_STIG
-E_M_E.20,,,GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_M_E.21,,,NRM_AST;NRM_DEC;NRM_DIV
-E_M_E.22,,,NRM_AST;NRM_DEC;NRM_DIV
-E_M_E.23,,,NRM_AST;NRM_DEC;NRM_DIV
-E_M_E.24,,,NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN
-E_M_E.25,,,NRM_DEC;NRM_DIV;NRM_INF;NRM_MOB;NRM_STIG
-E_M_E.26,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MOB;NRM_STIG
-E_M_E.27,,,NRM_DEC;NRM_DIV;NRM_EQ;NRM_MOB;NRM_STIG
-E_M_E.28,,,NRM_DIV;NRM_EQ;NRM_STIG
-E_M_E.29,,,NRM_STIG
-E_M_E.3,,,ASP;GAP;NRM_EQ;NRM_INF
-E_M_E.30,,,ASP;NRM_AST;NRM_DIV;NRM_EQ;NRM_STIG
-E_M_E.31,,,NRM_DEC;NRM_DIV;NRM_EQ
-E_M_E.32,,,NRM_AST;NRM_DEC;NRM_EQ
-E_M_E.33,,,NRM_AST;NRM_DEC;NRM_DIV;NRM_EQ;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
-E_M_E.34,,,GAP;NRM_AST;NRM_DEC;NRM_EQ;NRM_INF
-E_M_E.35,,,NRM_AST;NRM_DEC
-E_M_E.36,,,NRM_AST;NRM_DEC;NRM_STIG
-E_M_E.37,,,NRM_AST;NRM_DEC;NRM_EQ;NRM_STIG
-E_M_E.38,,,NRM_EQ;NRM_MOB;NRM_STIG
-E_M_E.39,,,NRM_DEC;NRM_MOB;NRM_STIG
-E_M_E.4,,,GAP;NRM_DEC;NRM_EQ;NRM_INF
-E_M_E.40,,,NRM_AST;NRM_DIV;NRM_EQ;NRM_MOB;NRM_STIG
-E_M_E.41,,,NRM_MOB;NRM_STIG
-E_M_E.42,,,ASP;GAP;NRM_INF;NRM_MOB
-E_M_E.43,,,ASP;GAP;NRM_STIG
-E_M_E.44,,,NRM_AST;NRM_DIV;NRM_EQ
-E_M_E.45,,,NRM_AST;NRM_DEC;NRM_STIG
-E_M_E.46,,,NRM_DEC;NRM_EQ
-E_M_E.47,,,NRM_DEC;NRM_DIV;NRM_EQ
-E_M_E.48,,,GAP;NRM_DEC;NRM_EQ
-E_M_E.49,,,NRM_EQ;NRM_STIG
-E_M_E.5,,,ASP;GAP;NRM_EQ;NRM_MOB
-E_M_E.50,,,NRM_DEC;NRM_STIG
-E_M_E.51,,,ASP;GAP;NRM_DEC;NRM_EQ;NRM_INF;NRM_MOB
-E_M_E.6,,,ASP;GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_EQ;NRM_INF;NRM_MOB
-E_M_E.7,,,NRM_DIV;NRM_INF;NRM_MEN
-E_M_E.8,,,GAP
-E_M_E.9,,,GAP;NRM_DIV;NRM_INF;NRM_MOB
+E_M_E.11,question,"Generally speaking, what do most young men of the village do with their lives when they are no longer students?",ASP;GAP;NRM_AST;NRM_DIV
+E_M_E.11.a,question,What would most young men of the village prefer to do with their lives when they are no longer students? ,ASP
+E_M_E.12,question,What do you think young men should do when they finish studying?,ASP;GAP;NRM_DIV
+E_M_E.13,question,"Now I'd like to focus on new local practices surrounding agriculture and managing natural resources like the forests, water, and soils which surround this village. Thinking back over the past five years or so, what new cropping or livestock practices or ways of managing local natural resources or organizing agricultural activities have people here tried out or experimented with?",NRM_INF;NRM_MEN
+E_M_E.14,question,Which of these new agricultural practices have been the most important for the men in the community? Why important? And which have been most important for the women? Why? ,ASP;NRM_AST;NRM_DIV;NRM_EQ;NRM_INF;NRM_MEN
+E_M_E.15,question,Do you think that the young women of the village have the same opportunities as the young men to learn about and try out new farming practices or agricultural organizations? Why or why not?    ,NRM_AST;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB
+E_M_E.15.a,question,Is it possible for women to be organized and work on farming?,
+E_M_E.16,question,"Now we are going to look at the different traditions or customs from the past that surround agricultural activities.  And then we?ll discuss the more common practices of today.
+What are the two or three most important crops or animals that women cultivate or raise in this community? And what were the most important crops or animals that men were responsible for 10 years ago? ",NRM_DEC
+E_M_E.17,question,[If agricultural practices have changed]:  What caused these changes over the past 10 years?,ASP;NRM_INF
+E_M_E.18,question,Do the young people around here follow local customs of women doing certain agricultural activities and men doing others? Why or why not?,NRM_DIV;NRM_EQ;NRM_INF;NRM_MEN
+E_M_E.19,question,What would happen if a young women tried to grow and then sell on their own [name one of the major activities in the table]?  What difficulties could they face? ,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
+E_M_E.2,question,"Please imagine a 5-step ladder, where at the bottom, on the first step, stand the individual men of this community with little capacity to make their own decisions about important affairs in their lives. These men have little say about if or where they will work, or about starting or ending a relationship with a woman. On the highest step, the fifth, stand those who have great capacity to make important decisions for themselves, including about their working life and whether to start or end a relationship in their personal life. Why?",ASP;GAP;NRM_AST;NRM_DEC;NRM_STIG
+E_M_E.20,question,And what would happen if men tried to raise and sell on their own [name a major crop or animal associated with the women]?  What difficulties could they face?,GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
+E_M_E.21,question,"How is it decided who farms which plot? In general in this community, are some household members responsible for some farm plots while other household members are responsible for other plots? ",NRM_AST;NRM_DEC;NRM_DIV
+E_M_E.22,question,"[If men and women generally have separate plots:] How often do men typically work on their wives? plots? 
+  How often do women typically work on their husbands? plots? ",NRM_AST;NRM_DEC;NRM_DIV
+E_M_E.23,question,How often do other household members work on women?s plots? And on men?s plots?,NRM_AST;NRM_DEC;NRM_DIV
+E_M_E.23a,question,"What about women headed families, how do they do the farming?",
+E_M_E.24,question,"Generally, if a woman wanted to plant a new crop, would she consult someone first?  If so, who?   
+ And would a man consult someone first before planting a new crop?  If so, who?  ",NRM_DEC;NRM_DIV;NRM_INF;NRM_MEN
+E_M_E.25,vignette,"Now I?m going to talk about different young couples who live in this village.   Let?s call the first couple [female spouse1] and [male spouse1].  [female spouse1] helps her husband with his crops, and she also has her own home garden.  [male spouse1], however, sells her produce from the garden to a neighbor who works in the market.  Even though [female spouse1] could earn more money if she sold her produce herself, [male spouse1] feels strongly that [female spouse1] belongs at home, and he considers the household and children to be [female spouse1]?s job, and earning money to be his job.      
+How do you think [male spouse1] would respond if [female spouse1] asks if she can join a local group of women who grow vegetables like she does?",NRM_DEC;NRM_DIV;NRM_INF;NRM_MOB;NRM_STIG
+E_M_E.25.a,vignette,"What is he afraid of, what happens if he lets her [go] out?",
+E_M_E.26,vignette,How do you think [male spouse1] would respond if [female spouse1] asks to sell her vegetables herself?,NRM_AST;NRM_DEC;NRM_DIV;NRM_INF;NRM_MOB;NRM_STIG
+E_M_E.27,vignette,Do you think [male spouse1] will ask [female spouse1] for less help on his plot now that she is busier with her own activities?   ,NRM_DEC;NRM_DIV;NRM_EQ;NRM_MOB;NRM_STIG
+E_M_E.28,vignette,"Let?s move next to our second couple, and we will call them [female spouse2] and [male spouse2].  [female spouse2] also helps on her husband?s farm, and has her own home garden.  But unlike [female spouse1], [female spouse2] has been working for a long time in the market, selling the produce herself from her garden.  And [male spouse2] helps out around the house and with caring for their children.  [female spouse2] and  [male spouse2] , then, share some of the provider and housework responsibilities in their household. 
+What kind of reputation do you think that [female spouse2] has in the village because she is a seller in the market?",NRM_DIV;NRM_EQ;NRM_STIG
+E_M_E.29,vignette,"And [male spouse2], what kind of reputation does he have in the village and among his friends?",NRM_STIG
+E_M_E.3,question,Now I'd like to turn to the topic of education. What do you think about going to school? Is it useful to get an education?,ASP;GAP;NRM_EQ;NRM_INF
+E_M_E.30,vignette,"If [female spouse2] is very successful with her small enterprise, how do you imagine that [male spouse2] will react?",ASP;NRM_AST;NRM_DIV;NRM_EQ;NRM_STIG
+E_M_E.31,question,What comes to mind when you think of the term gender equality?  Do you think gender equality is a good or a bad thing?  Why?    ,NRM_DEC;NRM_DIV;NRM_EQ
+E_M_E.32,vignette,"Now let?s talk about the third and last couple.  We will call them [male spouse3] and [female spouse3] 
+How would [male spouse3] and [female spouse3]  make decisions about how much of  [female spouse3]?s home garden to sell and how much to keep to feed the family?  Would  [female spouse3] decide how much to sell and how much to keep?  Would  [male spouse3] decide?  Or would they decide together?  How would their discussion about this go?",NRM_AST;NRM_DEC;NRM_EQ
+E_M_E.32.a,vignette,What would happen if they don?t agree?,
+E_M_E.33,vignette,Who would be more likely to sell the vegetables?  [male spouse3]? [female spouse3]?  Why?,NRM_AST;NRM_DEC;NRM_DIV;NRM_EQ;NRM_INF;NRM_MEN;NRM_MOB;NRM_STIG
+E_M_E.34,vignette,Let?s say [female spouse3] learns from her sister about new farming practices that increase yield and profits.  She wants to try planting a new variety and using more fertilizer.  What do you think will happen? Do you think [female spouse3] and [male spouse3] will make these changes?    ,GAP;NRM_AST;NRM_DEC;NRM_EQ;NRM_INF
+E_M_E.35,vignette,"Now let?s say that [female spouse3] recently inherited some money that would allow her to purchase a plot of land right near the homestead to expand her vegetable garden. [male spouse3], however, has other plans for his wife?s inheritance. He would like to buy a motorbike. How easy or difficult will it be for [female spouse3] to go ahead and purchase the plot of land in the absence of [male spouse3]?s support? ",NRM_AST;NRM_DEC
+E_M_E.36,vignette,Why?    ,NRM_AST;NRM_DEC;NRM_STIG
+E_M_E.37,vignette,What if we reversed the situation?  What if [male spouse3] inherited money instead of [female spouse3]?  How easy or difficult would it be for [male spouse3] to move forward on purchasing a motorbike without [female spouse3]?s support? Why?,NRM_AST;NRM_DEC;NRM_EQ;NRM_STIG
+E_M_E.37a,vignette,What if she doesn?t accept?,
+E_M_E.37b,vignette,What will happen he came with the bike?,
+E_M_E.38,question,Next I'd like to discuss a few factors that can affect women's working lives.  Can a young woman walk comfortably alone to the local market?     ,NRM_EQ;NRM_MOB;NRM_STIG
+E_M_E.39,question,How does this change once a woman becomes married?  Can a young married woman walk around on her own comfortably to the market?     ,NRM_DEC;NRM_MOB;NRM_STIG
+E_M_E.4,question,Until what grade do boys generally study in this community? And girls?,GAP;NRM_DEC;NRM_EQ;NRM_INF
+E_M_E.40,question,Is it easy or hard for a woman to sell in the local market?  Why?,NRM_AST;NRM_DIV;NRM_EQ;NRM_MOB;NRM_STIG
+E_M_E.41,question,"Out of every 10 women in your community, how many of them move about freely on their own in the public spaces of the community?",NRM_MOB;NRM_STIG
+E_M_E.42,question,"Now let's say for some reason a young man in this community really wants to find better work, and they decided that they need to move away to live and work in a city where there were more opportunities.   How easy would this be for them?  Do many young men from here migrate? ",ASP;GAP;NRM_INF;NRM_MOB
+E_M_E.42.a,question,Do many boys form this area migrate to other places to look for job?,
+E_M_E.42.b,question,Let?s say how many of them migrate out of ten boys to look for job?,
+E_M_E.43,question,What do people think about a young man who has migrated for work and then returns to live in the village?    What opportunities do they have?,ASP;GAP;NRM_STIG
+E_M_E.43.a,question,What will they do then?,
+E_M_E.44,question,"At what age does a young woman and man typically come together to start their own family in this community? 
+  ",NRM_AST;NRM_DIV;NRM_EQ
+E_M_E.44.a,question,How about the girls?,
+E_M_E.44.b,question,"In this community that has polygamy, could also ask: Is it preferable to be in a monogamous or polygamous relationship?  Why?]   ",
+E_M_E.45,question,How are decisions made about who a woman and a man will marry?  ,NRM_AST;NRM_DEC;NRM_STIG
+E_M_E.45.a,question,"In this community that has polygamy, could also ask:  And how are decisions made about co-wives?  Do women have a say in whether they want to be in a polygamous marriage?   ",
+E_M_E.46,question,How do you think decisions should be made about marriage?      ,NRM_DEC;NRM_EQ
+E_M_E.47,question,At what age do women typically have their first child?,NRM_DEC;NRM_DIV;NRM_EQ
+E_M_E.48,question,Do you think this is a good age for the new mother and baby? Why or why not?,GAP;NRM_DEC;NRM_EQ
+E_M_E.49,question,What age do you think would be best for a woman to have her first child?  Why? ,NRM_EQ;NRM_STIG
+E_M_E.5,question,What level of education do you think boys and girls of this village should have? Why? ,ASP;GAP;NRM_EQ;NRM_MOB
+E_M_E.50,question,"Do women in this village decide when to have children and how many children to have?  If not, how is this decision made?",NRM_DEC;NRM_STIG
+E_M_E.51,question,"And for my final question, what changes would you like to see in the village for the young men and women who live here?",ASP;GAP;NRM_DEC;NRM_EQ;NRM_INF;NRM_MOB
+E_M_E.6,question,Do parents show the same commitment to educating their daughters as their sons? Why or why not?,ASP;GAP;NRM_AST;NRM_DEC;NRM_DIV;NRM_EQ;NRM_INF;NRM_MOB
+E_M_E.7,question,What different agricultural activities do boys learn about when they are young in this village? ,NRM_DIV;NRM_INF;NRM_MEN
+E_M_E.8,question,What are the main reasons why boys in this village end their education?,GAP
+E_M_E.9,question,Which are the two most important reasons on this list why boys end their education. ,GAP;NRM_DIV;NRM_INF;NRM_MOB
