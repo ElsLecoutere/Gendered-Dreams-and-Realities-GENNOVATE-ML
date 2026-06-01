@@ -1,0 +1,297 @@
+indicator_id,classification_id,context_id,provenance,text_fragment,classification_id_rev
+NRM_EQ,NRM_EQ_NO,E_F_E.31,BD3E_F,"Even if men and women are equal, if a man forbids his woman to do anything, it is best not to do it.",
+NRM_EQ,NRM_EQ_NO,E_F_E.31,BD3E_F,"We have all heard about equal rights of men and women, it may sound good but in reality this never stays okay. Men and women never receive equal rights.",
+NRM_EQ,NRM_EQ_NO,E_F_E.31,ET2E_F,there is no equality in our area all the decision is for men.,
+NRM_EQ,NRM_EQ_NO,E_F_E.31,PK2E_F,R1: Remains to only bookish discussion and findings,
+NRM_EQ,NRM_EQ_NO,E_F_E.31,PK2E_F,R.2: Society set up never allow any equality,
+NRM_EQ,NRM_EQ_NO,E_F_E.31,PK2E_F,R.5: Verbally they are in favor but not practically. Still gents have important position in villages,
+NRM_EQ,NRM_EQ_NO,E_F_E.31,PK2E_F,"R.5: But here in village, man has more importance as compare with women status",
+NRM_EQ,NRM_EQ_NO,E_M_E.31,BD3E_M,Equality is good in some extent but not at all respects,
+NRM_EQ,NRM_EQ_NO,E_M_E.31,BD3E_M,Islam religion allows equality between man and woman but our society does not accept it,
+NRM_EQ,NRM_EQ_NO,E_M_E.31,BD3E_M,Women have to maintain their seclusions (purdah) first then they can do everything,
+NRM_EQ,NRM_EQ_NO,E_M_E.31,BD6E_M,Equality is good in some extent but not at all respects.,
+NRM_EQ,NRM_EQ_NO,E_M_E.31,ET1E_M,inheritance of other property but not land because the portion of land is small and the woman may leave the house,
+NRM_EQ,NRM_EQ_NO,E_M_E.31,ET4E_M,"I would like to say something to my friends who said it is good. I think it is hard for me. It was easier and simple previously, now things are truly complicated as for every single simple things you have to consult your wife, it is too much and I fell it is slower",
+NRM_EQ,NRM_EQ_NO,E_M_E.31,IN7E_M,"There is no gender equality, at least not in our village",
+NRM_EQ,NRM_EQ_NO,E_M_E.31,PK7E_M,"The tasks done by male or the institutions to which he has access, it is not necessary for the females to do such works or have an access to such institutions.",
+NRM_EQ,NRM_EQ_NO,E_M_E.31,PK7E_M,there must be a limit.,
+NRM_EQ,NRM_EQ_NO,E_F_E.2,ET2E_F,"education is not important for a girl, because you will get married to somebody else soon.",
+NRM_EQ,NRM_EQ_NO,E_F_E.4,ET2E_F,some cases they prefer male child to finish school.,
+NRM_EQ,NRM_EQ_NO,E_F_E.6,ET2E_F,school for girls become as a place of misbehaving.,
+NRM_EQ,NRM_EQ_NO,E_F_E.6,UZ3E_F,but there is another part of parents who think that girls dont need education so much as boys,
+NRM_EQ,NRM_EQ_NO,E_M_E.6,ET2E_M,boys get more chance than girls,
+NRM_EQ,NRM_EQ_NO,E_M_E.6,IN4E_M,"No, parents are not equally committed; if they have to choose between the two then they prefer to educate their sons",
+NRM_EQ,NRM_EQ_NO,E_M_E.6,IN4E_M,It is difficult to find a groom for girls who are too educated,
+NRM_EQ,NRM_EQ_NO,E_F_E.44,IN4E_F,Girls get married at 16 and boys at 18,[exclude]
+NRM_EQ,NRM_EQ_NO,E_F_E.44,IN7E_F,Girls get married at 18-19 and boys at 24-25,[exclude]
+NRM_EQ,NRM_EQ_NO,E_F_E.44,NP1E_F,girls get married at age of 20 years or above and boys at the 25 years or above,[exclude]
+NRM_EQ,NRM_EQ_NO,E_F_E.44,UZ3E_F,we think that for girls  19-23 years old and for boys 23  26 years old,[exclude]
+NRM_EQ,NRM_EQ_NO,E_M_E.44,IN4E_M,Girls get married at 17-18 while boys at 20-21,[exclude]
+NRM_EQ,NRM_EQ_NO,E_M_E.44,IN7E_M,Boys get married at 25 and girls at 20,[exclude]
+NRM_EQ,NRM_EQ_NO,E_M_E.44,UZ3E_M,"We think that for girls of 19-21 years of ages, and boys 22  25 years of ages",[exclude]
+NRM_EQ,NRM_EQ_NO,E_M_E.3,IN7E_M,Only if we are educated will we get an educated wife,[exclude]
+NRM_EQ,NRM_EQ_NO,E_F_E.36,IN9E_F,We talk of gender equality but it is still a male dominated society even in the rich families,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,BD3E_F,"If men and women could get equal education, then that is equality.",
+NRM_EQ,NRM_EQ_YS,E_F_E.31,BD3E_F,"If men and women could do equal jobs, then that is equality.",
+NRM_EQ,NRM_EQ_YS,E_F_E.31,BD6E_F,We think there should be equality between male and female because the family improves then,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,ET1E_F,", it is about being equally free like a boy. Free to play and work.",
+NRM_EQ,NRM_EQ_YS,E_F_E.31,ET1E_F,"the right to go to school as the boys, the right to elect and be elected.",
+NRM_EQ,NRM_EQ_YS,E_F_E.31,ET1E_F,"it is important to respect each other, and to equally work both outside of the house and inside the house.",
+NRM_EQ,NRM_EQ_YS,E_F_E.31,ET2E_F,Both men and women get things equally.,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,ET2E_F,Both men and women are equal in which the man will not think that women are subordinate.,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,ET2E_F,our family sends both boys and girls to school.,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,ET4E_F,equality between men and women is about many issues such as decision making on their day to day life particularly at marriage,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,ET4E_F,"equal participation of men and women in political, social life, work and education",
+NRM_EQ,NRM_EQ_YS,E_F_E.31,ET4E_F,both men and women are equal in relation to work opportunities,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,ET4E_F,its equal opportunity between men and women and its important when both live together because he or she may not influence and disrespect each other rather both have common understanding and decision making power at the house,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN1E_F,Boys and girls should be treated equally,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN1E_F,They are being treated equally which is a very good thing,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN1E_F,If both study well then both will grow and the nation will grow along with them,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN1E_F,If boys and girls are treated at par then they will both think alike which will be for the larger good of the society,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN1E_F,Gender equality is a good concept; girls should be as wise as their male counterparts,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN1E_F,Girls should get the same freedom as boys,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN3E_F,There is difference in the rights that they have,NRM_EQ_NO
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN3E_F,Girls have equal rights before marriage which changes once she gets married,NRM_EQ_NO
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN3E_F,Women don’t have the same rights that girls enjoy,NRM_EQ_NO
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN3E_F,But gender equality is important and we should ensure it in every society,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN3E_F,A girl should have the same rights after marriage,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN4E_F,Gender equality is a great concept,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN4E_F,Men and women should be treated equally,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN4E_F,We watch on television how women are also working in big companies and drive around in cars,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN4E_F,Earlier girls were not allowed to work whereas today we have female teachers at our school,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN4E_F,In our civics subject we are taught that we all have equal rights and opportunities,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN4E_F,"We should also have the freedom to study, to play, to eat and live as we want",
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN4E_F,Given a chance we can also prove that we are as good as the boys in every respect,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN4E_F,We are not weak by any means,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN7E_F,Today girls can be found in every profession,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN7E_F,Gender equality is important for the society,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN9E_F,Men and women should be treated at par; they are both human beings,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN9E_F,Both should get equal opportunities in every walk of life,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN9E_F,The elders in the women reprimand a young girl if she is caught talking to a boy; why is it so? If there is gender equality then we should be allowed to talk to them,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN9E_F,We are mature enough to distinguish between the right and the wrong,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,IN9E_F,Earlier female feticide was rampant but it is not so any more; s we are moving towards gender equality,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,NP1E_F,gender equality is good thing there will be no more discrimination between men and women,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,NP1E_F,equal rights for women and girls as well,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,NP2E_F,we have heard about gender equality and it is a good thing,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,NP2E_F,both husband and wife should help each other in work,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,NP2E_F,no discrimination between son and daughter,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,NP2E_F,women are capable of any doing work that men can do,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK2E_F,R.2: Islam considered that both man and women have equal rights and there is discrimination,NRM_EQ_NO
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK2E_F,(a) Very good thing and should be visible clearly in social set up,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK2E_F,R.3: A very good change,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK2E_F,R.2: Islam considered that both man and women have equal rights,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK7E_F,They should be equal in all matters,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK7E_F,I think gender equality is a good thing.,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK7E_F,We want that there should be equality in all matters.,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK7E_F,It will also give us some relief.,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK7E_F,Equality is good it will also lead to education equality.,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK7E_F,Equality will also solve many problems.,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,PK7E_F,We also want to enjoy shopping and go to market.,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,UZ3E_F,gender equality is a good thing,
+NRM_EQ,NRM_EQ_YS,E_F_E.31,UZ3E_F,but we need gender equality for societys development,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,BD3E_M,When a husband gives rights to his wife and his wife does the same that is equality.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,BD3E_M,Equality means if a man goes one place and when a woman is also allowed there that is equality,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,BD3E_M,Both man and woman have same rights and enjoy the same.  A man can do a certain things and similarly if she also can do the same,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,BD3E_M,"It is highly essential for a households progress. When there is no such relationship between husband and wife then quarrels and clash prevails. But if there is good understanding and respect for each other, sharing everything they can go ahead smoothly",
+NRM_EQ,NRM_EQ_YS,E_M_E.31,BD6E_M,I think the country would not be developed if there is no equality between men and women,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,BD6E_M,I think equality is an understanding between couples or men and women.  A household cannot progress if there is no such condition,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,BD6E_M,This is equality when a wife helps her husband in light work in the field and similarly husband also help her domestic work.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET1E_M,"women learn agricultural skill and health issues from agricultural and health extension agents equally with men. Therefore, both can work together for change.",
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET1E_M,working and participating together without neglecting woman from opportunities for better development and improvement,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET1E_M,encourage girls to go to school not only educating boys and empower girls to attend school regularly.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET1E_M,"equal opportunity in terms of education, skill trainings",
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET1E_M,currently both have equally attending and work together using their skills. Then equality is important to improve their life.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET2E_M,father and mother are equal to me,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET2E_M,equality is men and women talking equally in meetings,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET2E_M,"if women work a mans job, she is equal",
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET2E_M,"if women have equal opportunity, they can change country",
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET4E_M,if the level of their understanding is the same I say that is equality,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET4E_M,if the man does what is traditionally a womens job and when the womans does men job that is equality.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET4E_M,if the woman assists the man on his farm that is equality,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET4E_M,if they both discuss and solve problems together that is equality,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET4E_M,when the right of man and woman is respected I say that is equality,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,ET4E_M,"[So do you think this kind of equality is good?]
+[All responded in one] 
+Yes we do. When a man and his wife are communicating and discussing over issues, that means they will be successful in their life",[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN1E_M,Gender equality if good and necessary for a healthy society,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN1E_M,Both men and women should get equal pay for equal work,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN1E_M,Earlier parents did not attach much importance to their daughters education but this has changed in the past 2-3 years and now girls also go to school,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN1E_M,Both boys and girls should get proper education and girls should also be allowed to get technical education,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN1E_M,Both should have right of education and equal work opportunities,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN1E_M,If both husband and wife are educated and working then they can take better care of their family,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN1E_M,Women should be allowed right in their fathers property,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN3E_M,Equal opportunities in education and job,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN3E_M,Women should be able to help their husband in farming too,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN3E_M,Gender equality will ensure that women become independent,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN3E_M,Girls should get the same respect at home as boys,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN3E_M,Only then will women stop being hesitant and will have the courage to come forward and work and do well,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN4E_M,Both men and women should be meted out the same treatment by society,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN4E_M,They should both be given equal respect,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN4E_M,Both should have equal say in their marriage decisions,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN4E_M,Parents should consult both boys and girls in every decision that concerns them,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN4E_M,Both should be allowed to graduate before getting married,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN4E_M,Both should be given equal love and care in the family,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN4E_M,Girls should also have a right to speak their mind,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN4E_M,Both should have freedom of thought and expression,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN7E_M,Gender equality is very important for societys development,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN7E_M,There should be gender equality in every walk of life,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN7E_M,Women should get reservation in jobs,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN7E_M,They both deserve equal respect,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN9E_M,It implies equal treatment of boys and girls,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN9E_M,There should be equality in education,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN9E_M,Both should be given the same freedom in every sphere of life,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN9E_M,There should be more work opportunities for women,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN9E_M,Girls should get a share in their fathers property; they are legally entitled to but in practice ether dont get it,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,IN9E_M,Now times are changing and parents are trying to treat their boys and girls at par,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,NP2E_M,women and male should have equal freedom,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,NP2E_M,women should be educated to be equal.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,NP2E_M,all the work and roles should be equal for men and women,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,NP2E_M,"this is good, because the work that is done only by men is now done by women also",
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK2E_M,"R1. Islam stresses upon gender equality, it should be followed in its true spirit.",
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK2E_M,R3. Gender equality is a good thing and both man and woman shall have same rights.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK7E_M,There must be equality between male and female.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK7E_M,The girls and boys both should be given the equal rights.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK7E_M,females must enjoy equality in each walk of life.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK7E_M,This is a very good thing.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK7E_M,there should be no compulsion of any kind for a girl or woman.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK7E_M,There must be equal opportunities for the boys and girls.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK7E_M,"At home, some importance and respect should be given to the girls and women which is given to the boys or men.",
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK7E_M,I think gender equality is a good thing,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK7E_M,If a boy marries by his choice. The girl should also be permitted to do so,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,PK7E_M,we do not consider gender equality a bad thing.,
+NRM_EQ,NRM_EQ_YS,E_M_E.31,UZ3E_M,Gender equality is good,
+NRM_EQ,NRM_EQ_YS,E_M_E.51,BD3E_M,All members of our village must be aware about planed family and ensure rights for all,
+NRM_EQ,NRM_EQ_YS,E_M_E.51,IN1E_M,Both should be allowed to study as much as they want,
+NRM_EQ,NRM_EQ_YS,E_M_E.51,IN1E_M,We should be given more power and freedom,
+NRM_EQ,NRM_EQ_YS,E_M_E.51,IN1E_M,Our parents should allow both their sons and daughters whatever it is we want,
+NRM_EQ,NRM_EQ_YS,E_M_E.51,IN1E_M,Women should be allowed the same freedom and rights as men,
+NRM_EQ,NRM_EQ_YS,E_M_E.51,IN1E_M,Women should be allowed the liberty to work if they so desire,
+NRM_EQ,NRM_EQ_YS,E_M_E.51,IN4E_M,Both men and women should get equal work opportunities,
+NRM_EQ,NRM_EQ_YS,E_M_E.51,IN4E_M,Both should get equal education opportunities,
+NRM_EQ,NRM_EQ_YS,E_M_E.51,PK2E_M,There should be schools and colleges for boys and girls because the available colleges and schools are insufficient.,
+NRM_EQ,NRM_EQ_YS,E_M_E.51,PK7E_M,Equal opportunities should be available for both the genders.,
+NRM_EQ,NRM_EQ_YS,E_F_E.46,ET1E_F,"Almost all said equally, based on consensus between the marrying couples. based on consensus between the marrying couples",[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.46,ET2E_F,I prefer if it is in agreement between the boy and the girl based on love.,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.46,IN4E_F,Both the prospective partners must agree to the alliance,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.46,IN4E_F,Girls should also have the right to accept/reject her marriage proposal,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.50,ET1E_F,I would like to see all this injustice removed from our lives.,
+NRM_EQ,NRM_EQ_YS,E_F_E.50,ET1E_F,I would like to see job opportunities created for both boys and girls,
+NRM_EQ,NRM_EQ_YS,E_F_E.50,ET1E_F,"I would like to see boys respecting women and living in harmony with one wife,",
+NRM_EQ,NRM_EQ_YS,E_F_E.50,ET1E_F,having less children and working together and changing their lives.,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.5,ET1E_M,its the same for girls to study up to college and university to improve their social and economic opportunities. This is linked to later marriage and self employment. Many young boys who are employed want to marry employed girls. So girls should study.,
+NRM_EQ,NRM_EQ_YS,E_F_E.23,ET2E_F,Now a days young couples work equally in their land.,
+NRM_EQ,NRM_EQ_YS,E_F_E.30,ET2E_F,He would be proud because he allows his wife to work.,
+NRM_EQ,NRM_EQ_YS,E_F_E.30,IN4E_F,Mark will be happy at his wifes success,
+NRM_EQ,NRM_EQ_YS,E_F_E.30,IN4E_F,He will be happy he let her work,
+NRM_EQ,NRM_EQ_YS,E_F_E.30,IN4E_F,He will support her and encourage her to do better,
+NRM_EQ,NRM_EQ_YS,E_F_E.30,NP1E_F,Hari would be happy seeing her success and motive for more success in future,
+NRM_EQ,NRM_EQ_YS,E_F_E.30,UZ3E_F,he will be very glad,
+NRM_EQ,NRM_EQ_YS,E_F_E.49,ET2E_F,When she is mature at least reached 20-23 years of age.,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.49,IN4E_F,22 is the right age,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.49,IN4E_F,25 is the right age,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.49,IN4E_F,24 should be okay I guess,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.49,IN7E_F,Women should have their first child at 23-24,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.49,NP1E_F,22 years or above is a right age for a new mother to give birth,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.49,NP1E_F,at this age a woman become physically fit as well as can take care of new born baby,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.49,UZ3E_F,from 21-22 years girls could give a birth to a child,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.49,UZ3E_F,we think that at this age its not badly influence on our reproductive health,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.49,UZ3E_F,Because besides birth she will take care for that child for a long time,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.18,ET2E_M,"women recently work as men do, even plow",
+NRM_EQ,NRM_EQ_YS,E_M_E.18,ET2E_M,thinking about womens farming capacity is changing,
+NRM_EQ,NRM_EQ_YS,E_M_E.30,ET2E_M,maybe he should be happy if wife brings income,
+NRM_EQ,NRM_EQ_YS,E_M_E.30,IN4E_M,Mark will be very happy,
+NRM_EQ,NRM_EQ_YS,E_M_E.30,IN4E_M,He will now have more money to enjoy,
+NRM_EQ,NRM_EQ_YS,E_M_E.30,IN4E_M,He will praise her and encourage her to do better,
+NRM_EQ,NRM_EQ_YS,E_M_E.30,IN7E_M,He will be very happy with his wifes achievement,
+NRM_EQ,NRM_EQ_YS,E_M_E.30,IN7E_M,He may in fact start working with her then,
+NRM_EQ,NRM_EQ_YS,E_M_E.30,IN7E_M,He will support and motivate her,
+NRM_EQ,NRM_EQ_YS,E_M_E.30,NP1E_M,he further encourage wife,
+NRM_EQ,NRM_EQ_YS,E_M_E.30,UZ3E_M,He will be very glad,
+NRM_EQ,NRM_EQ_YS,E_M_E.33,ET2E_M,women are careful with money; men waste it,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.37,ET2E_M,as husband and wife it is their money,
+NRM_EQ,NRM_EQ_YS,E_M_E.38,ET2E_M,womens right is protected,
+NRM_EQ,NRM_EQ_YS,E_M_E.46,ET2E_M,nowadays men and women decide whom they marry,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.46,ET2E_M,now no obligation for girl or boy,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.46,IN4E_M,But they should also always consult their daughters,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.46,IN7E_M,love marriage should also be accepted,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.46,IN7E_M,If both the girl and the boy are good and love each other then parents should give consent,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.49,ET2E_M,best age for first child settled at 23,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.49,IN4E_M,After 23,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.49,IN4E_M,Between 23-25 years of age,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.49,IN4E_M,Both husband and wife need time to understand each other before starting a family,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.49,IN4E_M,Then they will be better prepared to raise kids,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.49,IN7E_M,Women should have their first child at 25,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.49,IN7E_M,They will be better prepared physically and mentally,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.49,IN7E_M,They will also be well settled in their married life by then,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.49,UZ3E_M,21-22 year old girls could have their first children,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.40,ET4E_M,"It is easy for her to sell or to purchase in the market, because today equality of man and woman is respected",
+NRM_EQ,NRM_EQ_YS,E_F_E.51,IN1E_F,Both boys and girls should be allowed to study,
+NRM_EQ,NRM_EQ_YS,E_F_E.51,IN1E_F,Both boys and girls should be allowed to work,
+NRM_EQ,NRM_EQ_YS,E_F_E.51,IN1E_F,Girls should have the freedom to study and their mobility should not be restricted,
+NRM_EQ,NRM_EQ_YS,E_F_E.51,IN1E_F,Restrictions should be only as much as is required and appropriate,
+NRM_EQ,NRM_EQ_YS,E_F_E.51,IN9E_F,"People should not misinterpret if a young man and woman talk to each other; they are not doing anything wrong
+Perceptions need to change in such matters",
+NRM_EQ,NRM_EQ_YS,E_F_E.51,IN9E_F,Women should be encouraged to make an identity of their own,
+NRM_EQ,NRM_EQ_YS,E_F_E.51,IN9E_F,Both should be allowed freedom of choice and expression,
+NRM_EQ,NRM_EQ_YS,E_F_E.51,PK2E_F,R.5: Education for all,
+NRM_EQ,NRM_EQ_YS,E_F_E.51,PK2E_F,R.2: Employment opportunities and gender equality,
+NRM_EQ,NRM_EQ_YS,E_F_E.2,IN4E_F,Television as a medium has helped us by showing us how women in big cities live and behave,
+NRM_EQ,NRM_EQ_YS,E_F_E.6,IN4E_F,"Yes, parents are as committed to their daughters education as to their sons",
+NRM_EQ,NRM_EQ_YS,E_F_E.6,IN4E_F,"Yes, there is no gender partiality here",
+NRM_EQ,NRM_EQ_YS,E_F_E.6,IN4E_F,Our parents want us to study,
+NRM_EQ,NRM_EQ_YS,E_F_E.6,NP1E_F,now every parent treats their children equally,
+NRM_EQ,NRM_EQ_YS,E_F_E.6,NP1E_F,now equal for both of them,
+NRM_EQ,NRM_EQ_YS,E_F_E.6,UZ3E_F,most of our parents understand the importance of education,
+NRM_EQ,NRM_EQ_YS,E_F_E.28,IN4E_F,But she is working for her family and hence no one should have any problem,
+NRM_EQ,NRM_EQ_YS,E_F_E.28,IN4E_F,"Yes, she is doing it to support her family and so people should respect her for that",
+NRM_EQ,NRM_EQ_YS,E_F_E.28,NP1E_F,people will appreciate Sita for hard working,
+NRM_EQ,NRM_EQ_YS,E_F_E.44,IN4E_F,We believe in monogamy; we dont want to marry 10 times,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.48,IN4E_F,No. sometimes at that tender age complications arise and then they have to undergo an operation; it is very risky,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.48,IN4E_F,She should be mature enough to be able to birth and nurture a new life,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.48,IN7E_F,No they are too young to have babies at this age,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.48,NP1E_F,at this age a woman become physically fit to have first baby,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.48,NP1E_F,a new mother mentally prepared herself to take care of new born baby,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.48,UZ3E_F,we think its good age,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.48,UZ3E_F,at present time we have no cases of early marriage,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.48,UZ3E_F,usually girls married after finishing of college,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.6,IN4E_M,"Yes, parents show same commitment to educating their daughters as their sons",
+NRM_EQ,NRM_EQ_YS,E_M_E.6,IN4E_M,Education is important for marriage too,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.6,IN4E_M,It will be good for the family if both sons and daughters are educated,
+NRM_EQ,NRM_EQ_YS,E_M_E.6,IN7E_M,today educating girls is equally important,
+NRM_EQ,NRM_EQ_YS,E_M_E.6,IN7E_M,Today boys also want educated wives,
+NRM_EQ,NRM_EQ_YS,E_M_E.6,IN7E_M,Parents are more conscious about girls education today,
+NRM_EQ,NRM_EQ_YS,E_M_E.6,IN7E_M,today all girls study,
+NRM_EQ,NRM_EQ_YS,E_M_E.6,NP1E_M,no any discrimination within son and daughter. Now every parent treats their children equally,
+NRM_EQ,NRM_EQ_YS,E_M_E.6,UZ3E_M,"Yes, of course",
+NRM_EQ,NRM_EQ_YS,E_M_E.6,UZ3E_M,This is what life requires,
+NRM_EQ,NRM_EQ_YS,E_M_E.6,UZ3E_M,All parents want to be proud of their children,
+NRM_EQ,NRM_EQ_YS,E_M_E.27,IN4E_M,He will let her concentrate on her work,
+NRM_EQ,NRM_EQ_YS,E_M_E.28,IN4E_M,Some may praise her for taking up the family responsibilities,
+NRM_EQ,NRM_EQ_YS,E_M_E.28,IN4E_M,people will admire her for taking care of her family,
+NRM_EQ,NRM_EQ_YS,E_M_E.28,NP1E_M,they are helping each other so it is very good,
+NRM_EQ,NRM_EQ_YS,E_M_E.34,IN4E_M,David will trust Diana and will implement the changes,
+NRM_EQ,NRM_EQ_YS,E_M_E.34,IN7E_M,Since Diana also is also a farmer so he will trust her decision,
+NRM_EQ,NRM_EQ_YS,E_M_E.48,IN4E_M,I think women should get married at 23 and have their first child at 25,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.48,IN7E_M,"Yes, 21 is the right age",[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.48,IN7E_M,They should have their first child at 25,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.48,IN7E_M,They should enjoy married life for some time before taking on the responsibility of children,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.48,UZ3E_M,Yes. At present time we have no cases of early marriage,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.48,UZ3E_M,Usually girls are married after completing colleges,[exclude]
+NRM_EQ,NRM_EQ_YS,E_F_E.5,IN7E_F,Girls should also be allowed to study till class 12th,
+NRM_EQ,NRM_EQ_YS,E_F_E.5,IN9E_F,Both should be allowed to study as much as they want and get as many degress as they want,
+NRM_EQ,NRM_EQ_YS,E_F_E.5,PK7E_F,There should be equal level of education for both girls and boys.,
+NRM_EQ,NRM_EQ_YS,E_F_E.29,NP1E_F,friends who understand Hari will appreciate him for supporting wife,
+NRM_EQ,NRM_EQ_YS,E_F_E.47,NP1E_F,at the age 22 or above women typically do have their first child,
+NRM_EQ,NRM_EQ_YS,E_M_E.44,NP1E_M,trend is changing,[exclude]
+NRM_EQ,NRM_EQ_YS,E_M_E.4,UZ3E_M,Thats the same with girls,
+NRM_EQ,NRM_EQ_YS,E_M_E.14,UZ3E_M,the same way both for girls and for boys,
+NRM_EQ,NRM_EQ_YS,E_M_E.32,UZ3E_M,"They will decide everything jointly, in cooperation with each other",
+NRM_EQ,NRM_EQ_N,E_M_E.48,IN4E_M,I think 20 is the right age for a woman to have babies,[exclude]
+NRM_EQ,NRM_EQ_N,E_F_E.6,IN7E_F,boys are given a preference because boys will take care of parents,NRM_EQ_NO
+NRM_EQ,NRM_EQ_N,E_M_E.31,IN7E_M,reservation is also a kind of discrimination,NRM_EQ_NO
+NRM_EQ,NRM_EQ_N,E_M_E.31,NP1E_M,female should stay at home but these days the rate of female going to abroad is increasing,NRM_EQ_NO
+NRM_EQ,NRM_EQ_N,E_M_E.31,UZ3E_M,"Of course, it can be less pleasant for men since they are the heads in the family",NRM_EQ_NO
+NRM_EQ,NRM_EQ_N,E_M_E.6,NP1E_M,previously son is admitted to boarding school and daughter to government school. But now equal for both,NRM_EQ_YS
+NRM_EQ,NRM_EQ_N,E_F_E.31,UZ3E_F,but it seems to me that its uncomfortable for man,NRM_EQ_NO
+NRM_EQ,NRM_EQ_N,E_F_E.47,UZ3E_F,women typically wait for a first child from 20  24 years,[exclude]
+NRM_EQ,NRM_EQ_N,E_M_E.47,UZ3E_M,Women typically have their first child at the ages of 20  21,[exclude]

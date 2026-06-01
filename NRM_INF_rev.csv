@@ -1,0 +1,215 @@
+indicator_id,classification_id,context_id,provenance,text_fragment,classification_id_rev
+NRM_INF,NRM_INF_C,E_M_E.15,BD3E_M,female youths do not have opportunity to get new or old agricultural training and livestock related training due to the local norms or customs,
+NRM_INF,NRM_INF_C,E_M_E.15,BD3E_M,"Moreover, women cannot take additional advantages compare to men. This is not possible and cannot be possible here",
+NRM_INF,NRM_INF_C,E_M_E.15,BD6E_M,The female youths do not have opportunity to get new or old agricultural trainings related wheat cultivation.,
+NRM_INF,NRM_INF_C,E_M_E.15,BD6E_M,The local norms and customs do not permit womens participation as like as men.,
+NRM_INF,NRM_INF_C,E_M_E.15,BD6E_M,Most families do not allow their daughters participation here,
+NRM_INF,NRM_INF_C,E_M_E.15,BD6E_M,Most training programs or information dissemination mainly target the men,
+NRM_INF,NRM_INF_C,E_M_E.15,BD6E_M,women and adolescent girls cannot attend in those programs.,
+NRM_INF,NRM_INF_C,E_M_E.15,ET1E_M,agricultural development workers visits men,
+NRM_INF,NRM_INF_C,E_M_E.15,ET2E_M,girls not involved like brothers,
+NRM_INF,NRM_INF_C,E_M_E.15,IN3E_M,No young women dont get the same opportunities as young men to learn new things in agriculture,
+NRM_INF,NRM_INF_C,E_M_E.15,IN4E_M,Young women dont do much agricultural work here,
+NRM_INF,NRM_INF_C,E_M_E.15,IN9E_M,Young women are not interested in learning anything about agriculture,
+NRM_INF,NRM_INF_C,E_M_E.15,NP1E_M,we havent got such opportunity or any trainings,
+NRM_INF,NRM_INF_C,E_M_E.15,PK2E_M,"R1. In village, women do not have any opportunities to learn because women are not allowed to work outside their homes (Agreed by all)",
+NRM_INF,NRM_INF_C,E_M_E.15,PK7E_M,"No! it is the man who has access to the fertilizer, seeds, use of tractor and information. A female cannot do this.",
+NRM_INF,NRM_INF_C,E_M_E.15,PK7E_M,than a woman who is limited to the home. She has no more information.,
+NRM_INF,NRM_INF_C,E_M_E.18,BD3E_M,"For social reasons, women cannot participate in practical agricultural activities and official training",
+NRM_INF,NRM_INF_C,E_M_E.18,NP2E_M,not having enough technical knowledge may hinder the work,
+NRM_INF,NRM_INF_C,E_F_E.12,BD6E_F,"parents in our village do not understand the importance of education, those girls who can study well and get a job later, should make the parents understand so that they let them study.",[exclude]
+NRM_INF,NRM_INF_C,E_F_E.15,BD6E_F,Young women do not get as much opportunity as young men when they try to learn about new practices/ technologies/ knowledge/ information,
+NRM_INF,NRM_INF_C,E_F_E.15,ET1E_F,I think the opportunity is limited for girls.,
+NRM_INF,NRM_INF_C,E_F_E.15,ET1E_F,as girls we would not even have the chance to get information because we stay back home most of the time,
+NRM_INF,NRM_INF_C,E_F_E.15,ET2E_F,one woman did not know how many times to plow she was waiting the whole day.,[exclude]
+NRM_INF,NRM_INF_C,E_F_E.15,ET2E_F,agriculture extension agents prefer to approach rich and influential men not the poor and women.,
+NRM_INF,NRM_INF_C,E_F_E.15,ET4E_F,I think its difficult for the women to learn new farming skill if the husband is around because he will be responsible and expected to participate with regard to farming,
+NRM_INF,NRM_INF_C,E_F_E.15,IN1E_F,No they dont get the same opportunities; society is partial towards men,
+NRM_INF,NRM_INF_C,E_F_E.15,IN1E_F,Problem is with women; dont blame the society; women simply dont want to learn; they want the money without doing any work,
+NRM_INF,NRM_INF_C,E_F_E.15,IN1E_F,Womens lack the desire to learn and working,
+NRM_INF,NRM_INF_C,E_F_E.15,IN1E_F,"If people come from outside to spread awareness regarding different things, women avoid going since they think these people are bad and will teach useless stuff",
+NRM_INF,NRM_INF_C,E_F_E.15,IN1E_F,Therefore now no one calls them; men go to such meetings and events,
+NRM_INF,NRM_INF_C,E_F_E.15,IN4E_F,I dont agree. I want to learn to use the machines that boys do but my father doesnt permit,
+NRM_INF,NRM_INF_C,E_F_E.15,IN7E_F,Young men have more exposure,
+NRM_INF,NRM_INF_C,E_F_E.15,PK2E_F,R.1:  Not at all. The women folk have not the same opportunities. They only help in farming activities like planting of seeds etc. The information we get only from my husband and brothers.,
+NRM_INF,NRM_INF_C,E_F_E.15,PK2E_F,R.3: we are neither associated with any group or organization nor anyone of the village attached with these organization.,
+NRM_INF,NRM_INF_C,E_F_E.15,PK2E_F,R.5: wheat plant by man and we only support them in their farming activities. Here no organization works to provide us information.,
+NRM_INF,NRM_INF_C,E_F_E.15,PK7E_F,Opportunities are only available for men not for women.,
+NRM_INF,NRM_INF_C,E_M_E.19,BD6E_M,there is also problem for young women participating with men in a training session or other activities.,
+NRM_INF,NRM_INF_C,E_M_E.19,IN4E_M,They dont have full knowledge to be able to grow themselves and they have no market knowledge to be able to sell,
+NRM_INF,NRM_INF_C,E_M_E.19,IN7E_M,They will not be able to use the machines; they dont know how to use them,
+NRM_INF,NRM_INF_C,E_M_E.19,IN7E_M,They definitely cannot sell because they will know nothing about bargaining and market prices,
+NRM_INF,NRM_INF_C,E_F_E.25,ET1E_F,"How would he allow her to get into such association. He will think this is very dangerous"". She will learn from other women who think they are assertive",
+NRM_INF,NRM_INF_C,E_F_E.25,ET1E_F,He would never allow her to join. He wants her to remain in the house,
+NRM_INF,NRM_INF_C,E_F_E.25,ET1E_F,"Going to such association and becoming a member means she will be communicating with people. She will know about price and better techniques of growing vegetable, she will be more informed and knowledgeable than her husband. That is something men does not like. They like to be the only knowledgeable person.",
+NRM_INF,NRM_INF_C,E_F_E.25,ET2E_F,He will never allow her to join the group because she knows nothing about the market.,
+NRM_INF,NRM_INF_C,E_F_E.25,IN9E_F,If he has allowed her to have a vegetable garden of her own then why would he object to her joining a group of women doing the same thing?,NRM_INF_N
+NRM_INF,NRM_INF_C,E_F_E.25,IN9E_F,If she joins she will learn new things and ways to do better in her vegetable garden and so Adam will not object,NRM_INF_O
+NRM_INF,NRM_INF_C,E_M_E.4,ET1E_M,uneducated parents may not send their girls to school to support them on household chores,[exclude]
+NRM_INF,NRM_INF_C,E_F_E.34,ET2E_F,If the idea comes from her he will never accept it.,
+NRM_INF,NRM_INF_C,E_F_E.34,ET2E_F,secretly he will go to agriculture extension agents as if the idea is his own.,
+NRM_INF,NRM_INF_C,E_F_E.34,IN4E_F,But he may say that her sisters success doesnt necessarily imply that they will succeed too,
+NRM_INF,NRM_INF_C,E_M_E.26,ET2E_M,you know nothing about the market,
+NRM_INF,NRM_INF_C,E_M_E.42,ET2E_M,lack of information on jobs is a problem,
+NRM_INF,NRM_INF_C,E_F_E.17,IN1E_F,Machines are almost always used by the men since women dont want to learn and men dont want them to either,
+NRM_INF,NRM_INF_C,E_F_E.17,IN4E_F,We dont have any machine in our village. The men get them on rent from XX,[exclude]
+NRM_INF,NRM_INF_C,E_M_E.25,IN3E_M,Most men will not allow their wives because that will be against the rules of the society,
+NRM_INF,NRM_INF_C,E_M_E.25,NP2E_M,the husband does not allow,
+NRM_INF,NRM_INF_C,E_M_E.25,NP2E_M,she wants to join the group but she is not allowed,
+NRM_INF,NRM_INF_C,E_F_E.7,IN4E_F,We want to learn to operate the machines that boys do but we are not allowed,
+NRM_INF,NRM_INF_C,E_F_E.13,IN4E_F,Women dont use machines,
+NRM_INF,NRM_INF_C,E_F_E.13,IN7E_F,Women dont work with machines,
+NRM_INF,NRM_INF_C,E_F_E.19,IN4E_F,They may not find it easy since though they also move around a lot but they are not involved in selling and so may not be aware of market prices and bargaining etc,
+NRM_INF,NRM_INF_C,E_F_E.20,IN4E_F,Girls will find selling a major handicap since they are not exposed and informed,
+NRM_INF,NRM_INF_C,E_F_E.26,IN4E_F,He will not trust her to get money for her produce and therefore he will sell himself,
+NRM_INF,NRM_INF_C,E_F_E.40,IN4E_F,She will not know how to bargain and will generally find it tough since marketplace is dominated by men,
+NRM_INF,NRM_INF_C,E_M_E.13,NP1E_M,"we know about fertilizer urea, DAP, but how and how much to use we dont know",
+NRM_INF,NRM_INF_C,E_M_E.13,NP1E_M,we just heard but we havent brought and cultivate,
+NRM_INF,NRM_INF_C,E_M_E.51,NP1E_M,information is not reaching up to the grass root level,
+NRM_INF,NRM_INF_C,E_M_E.14,PK2E_M,"R1. As mentioned earlier, the women do not have any role in farming activities and they have no knowledge and information about the farming activities. They might be involve in rearing of cattle but that is in their own homes",
+NRM_INF,NRM_INF_C,E_F_E.6,PK7E_F,Yes they do discriminate between girls and boys.,[exclude]
+NRM_INF,NRM_INF_C,E_F_E.6,PK7E_F,They think that girl will get married and go away so ther is no need of giving her education,[exclude]
+NRM_INF,NRM_INF_C,E_F_E.6,PK7E_F,They discriminate in matter of education otherwise there is same treatment,[exclude]
+NRM_INF,NRM_INF_C,E_F_E.24,PK7E_F,She will ask her parents.,
+NRM_INF,NRM_INF_C,E_F_E.24,PK7E_F,"She will also consult her brothers, husband and children if she has.",
+NRM_INF,NRM_INF_C,E_F_E.24,PK7E_F,I usually ask my brother,
+NRM_INF,NRM_INF_C,E_F_E.24,PK7E_F,If family members are not available then they ask neighbors.,
+NRM_INF,NRM_INF_C,E_F_E.24,UZ3E_F,Man will ask from other specialists but not from women,
+NRM_INF,NRM_INF_C,E_M_E.3,PK7E_M,There is no Girls School in the village that is why their girls cannot get education,[exclude]
+NRM_INF,NRM_INF_C,E_M_E.6,PK7E_M,The parents do not care for the education of girls.,[exclude]
+NRM_INF,NRM_INF_C,E_M_E.6,PK7E_M,they pay more heed to the education of the boys,[exclude]
+NRM_INF,NRM_INF_C,E_M_E.6,PK7E_M,the folks of our village do not consider the girls education a good thing,[exclude]
+NRM_INF,NRM_INF_C,E_M_E.6,PK7E_M,they think if the girls get education they will go astray,[exclude]
+NRM_INF,NRM_INF_C,E_M_E.9,PK7E_M,the biggest reason of giving up the education by the girls is the unavailability of school in our village.,[exclude]
+NRM_INF,NRM_INF_C,E_M_E.9,PK7E_M,the parents do not let her go to school.,[exclude]
+NRM_INF,NRM_INF_C,E_M_E.20,PK7E_M,but she cannot assess the trend to make herself able to sell her agricultural product or animal. men keep on visiting the market and becomes aware of the rates of the things,
+NRM_INF,NRM_INF_C,E_M_E.33,PK7E_M,He is familiar with the dealings of the market. He can also know the rates of different markets before time. But the female does not have any experience in this regard.,
+NRM_INF,NRM_INF_N,E_M_E.15,BD3E_M,Families do not allow here. But older women from all social groups may participate in farmers association and trainings,
+NRM_INF,NRM_INF_N,E_M_E.15,BD3E_M,Women and female youths could have joined such training if it does conducted by female personnel,
+NRM_INF,NRM_INF_N,E_M_E.15,BD6E_M,Young women or female youths could have joined such training organized separately and the programs conducted by female personnel. This type of program can encourage women to participate,
+NRM_INF,NRM_INF_N,E_M_E.15,ET4E_M,they have the right to participate in every development as long have they have the time,
+NRM_INF,NRM_INF_N,E_M_E.15,IN4E_M,Women have the same opportunities as men but they prefer to work manually,
+NRM_INF,NRM_INF_N,E_F_E.15,ET2E_F,both have the opportunity to learn but men who are closer to the agriculture extension agent are selected.,
+NRM_INF,NRM_INF_N,E_F_E.15,IN1E_F,Now there is a perceptible change; some women are keen to learn and are becoming broad minded,
+NRM_INF,NRM_INF_N,E_F_E.15,IN4E_F,Women have the opportunities but they dont want to make an effort to learn,
+NRM_INF,NRM_INF_N,E_F_E.15,IN7E_F,Young women do have the same opportunities but many dont want to learn,
+NRM_INF,NRM_INF_N,E_F_E.15,UZ3E_F,but our opportunities are different,
+NRM_INF,NRM_INF_N,E_M_E.24,ET2E_M,widow consults farmers or AEAs; older son may take responsibility,
+NRM_INF,NRM_INF_N,E_M_E.24,IN7E_M,Women also consult their other farmer friends,
+NRM_INF,NRM_INF_N,E_M_E.24,PK7E_M,"if that woman has the responsibility of nourishing and nurturing her children, then there is no need to consult anybody. But she can consult her family members.",
+NRM_INF,NRM_INF_N,E_M_E.24,PK7E_M,"If she has a husband then she will consult him but if she does not have any then she will consult with her father, her brother and sisters.",
+NRM_INF,NRM_INF_N,E_M_E.34,ET2E_M,first test if wifes idea is good,
+NRM_INF,NRM_INF_N,E_M_E.34,IN7E_M,If her sister has tried these new varieties successfully then he will agree to try them too,
+NRM_INF,NRM_INF_N,E_M_E.34,NP1E_M,they have to test in small area,[exclude]
+NRM_INF,NRM_INF_N,E_F_E.24,NP1E_F,"agriculture office, husband and family members",
+NRM_INF,NRM_INF_N,E_M_E.7,NP1E_M,compare to boys girls are well informed and they know more than the boys,
+NRM_INF,NRM_INF_N,E_M_E.25,PK7E_M,if such a group is already working and she wants to know about that then she can join it but at the village level.,
+NRM_INF,NRM_INF_O,E_M_E.25,BD3E_M,All FGD participants agreed that Adam will accept Anas joining a local womens group. There is no contradiction in her joining because she is a vegetable grower like other women. The participants think this joining is positive for her work. She may get new ideas or training which will enrich vegetable cultivation.,
+NRM_INF,NRM_INF_O,E_M_E.25,BD6E_M,[male spouse]  will accept [female spouse]  joining a local womens group. There is no contradiction in her joining because she is a vegetable grower like other women and she wants develop her production.,
+NRM_INF,NRM_INF_O,E_M_E.25,BD6E_M,joining is positive for their household. She may get new ideas or training which will enrich vegetable cultivation and income.,
+NRM_INF,NRM_INF_O,E_M_E.25,IN3E_M,He will let her join this group,
+NRM_INF,NRM_INF_O,E_M_E.25,IN7E_M,She will learn from such a group,
+NRM_INF,NRM_INF_O,E_F_E.15,BD6E_F,Women can join in wheat-related training too,
+NRM_INF,NRM_INF_O,E_F_E.15,IN1E_F,Men and women have the same opportunities,
+NRM_INF,NRM_INF_O,E_F_E.15,IN3E_F,Yes they have the same opportunities and both try to learn,
+NRM_INF,NRM_INF_O,E_F_E.15,IN3E_F,There is no difference in the opportunities given to them,
+NRM_INF,NRM_INF_O,E_F_E.15,IN3E_F,They both have the same opportunities,
+NRM_INF,NRM_INF_O,E_F_E.15,IN4E_F,"Yes, both young men and women have equal opportunities to learn",
+NRM_INF,NRM_INF_O,E_F_E.15,NP1E_F,"women are getting more opportunities such as girls do further education, opportunities to join trainings and excursions, forming groups and associations in the village",
+NRM_INF,NRM_INF_O,E_F_E.15,NP2E_F,girls are getting more opportunities in the village,
+NRM_INF,NRM_INF_O,E_F_E.15,NP2E_F,"women are not much educated. Hence, they send daughters to participate in trainings",
+NRM_INF,NRM_INF_O,E_F_E.15,NP2E_F,we get chance to learn new things,
+NRM_INF,NRM_INF_O,E_F_E.15,PK7E_F,Yes there are as they keep women with them on fields.,
+NRM_INF,NRM_INF_O,E_F_E.15,UZ3E_F,Yes boys and girls could apply to the same organizations because we have equal access,
+NRM_INF,NRM_INF_O,E_M_E.15,BD6E_M,There is no social restriction here. There is only restriction not to sit both men and women in the same training venue.,
+NRM_INF,NRM_INF_O,E_M_E.15,ET1E_M,they have equal opportunity and women can participate on trainings,
+NRM_INF,NRM_INF_O,E_M_E.15,ET1E_M,they can participate in meetings,
+NRM_INF,NRM_INF_O,E_M_E.15,ET4E_M,"yes, for example they are in charge of milking the improved cow variety, so they are involved",
+NRM_INF,NRM_INF_O,E_M_E.15,IN9E_M,"Yes, women do have the same opportunities as the men to learn and grow",
+NRM_INF,NRM_INF_O,E_M_E.15,NP2E_M,women works equally as men,
+NRM_INF,NRM_INF_O,E_M_E.15,NP2E_M,more women are into new technologies than men here,
+NRM_INF,NRM_INF_O,E_M_E.15,NP2E_M,Women are getting more opportunity than men.,
+NRM_INF,NRM_INF_O,E_M_E.15,NP2E_M,They are going to trainings,
+NRM_INF,NRM_INF_O,E_M_E.15,UZ3E_M,"Yes, if they have the opportunities and are interested in it, then yes they do",
+NRM_INF,NRM_INF_O,E_M_E.24,BD6E_M,Some women were received training from BRAC,
+NRM_INF,NRM_INF_O,E_M_E.24,ET2E_M,men consult friends or AEAs,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.24,IN3E_M,She will ask other successful farmers,
+NRM_INF,NRM_INF_O,E_M_E.24,IN4E_M,Men will also consult their farmer friends,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.24,IN7E_M,Men will consult their friends and Gram Sevaks,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.24,IN7E_M,Men can also call up the Kissan Call centre for advice,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.6,ET1E_M,parents acknowledged the advantage of education and send both sons and daughters to school.,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.7,ET2E_M,learn farming from fathers,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.7,ET2E_M,anything they know we know,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.7,ET2E_M,"father teaches plowing, planting, harvesting",NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.7,IN4E_M,Most of us know all agricultural activities,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.7,IN4E_M,"We help our fathers in the field and hence know all agricultural activities  sowing, irrigating, harvesting and everything else",NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.7,UZ3E_M,We know what to do in the field,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.7,UZ3E_M,"Digging, cleaning water lines, removing the tops of plants, opening water lines and many others",
+NRM_INF,NRM_INF_O,E_M_E.17,ET2E_M,new wheat seed and Gudene potato are changes,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.17,IN4E_M,When people started migrating for better work then they learnt many new things and they brought back all this new information to the village,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.17,IN4E_M,because people started migrating so there was shortage of labor in the village which forced many people to adopt labor saving technologies,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.17,IN4E_M,Technology spread when people saw its benefits,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.17,IN4E_M,Technology and machines have become our need today,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.17,IN4E_M,There is more information access today as compared to ten years ago,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.17,IN7E_M,There is always resistance to change but once people see the results then adoption is much faster,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.17,IN7E_M,Now there is much more information,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.17,UZ3E_M,A lot of new kinds of seeds appeared in our district,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.17,UZ3E_M,Wheat is planted more and more last 10 years,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.20,ET4E_M,"[Do women participated on trainings?]
+P5: Yes they do. For example they have participated on the training about fattening. Among the 50 participants 15 of them were women.",[exclude]
+NRM_INF,NRM_INF_O,E_M_E.20,ET4E_M,"[What about on poultry training?]
+P6: yes, there were 12 women among the 30 participants on the training. The rest were men.",[exclude]
+NRM_INF,NRM_INF_O,E_M_E.20,IN4E_M,But we will not face any problem in growing since we know the entire process,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.20,IN4E_M,But we are aware enough to be able to do it on our own,NRM_INF_N
+NRM_INF,NRM_INF_O,E_M_E.20,IN7E_M,we go to the market with our parents and are aware of the way a market works,NRM_INF_N
+NRM_INF,NRM_INF_O,E_F_E.24,IN3E_F,She will ask a good farmer who is well aware of such things,NRM_INF_N
+NRM_INF,NRM_INF_O,E_F_E.24,IN3E_F,They will ask the people in the agriculture department and at CSISA farm,NRM_INF_N
+NRM_INF,NRM_INF_O,E_F_E.24,IN4E_F,Man will his friends and his father,NRM_INF_N
+NRM_INF,NRM_INF_O,E_F_E.24,NP2E_F,consult with JTA (junior technical assistant),
+NRM_INF,NRM_INF_O,E_F_E.24,NP2E_F,with innovator farmers,
+NRM_INF,NRM_INF_O,E_F_E.24,UZ3E_F,she will ask from specialists too,
+NRM_INF,NRM_INF_O,E_F_E.24,UZ3E_F,she could apply to professional organizations too,
+NRM_INF,NRM_INF_O,E_F_E.25,IN3E_F,He will let her join since he knows it will benefit them,NRM_INF_N
+NRM_INF,NRM_INF_O,E_F_E.25,IN3E_F,He will let her join,
+NRM_INF,NRM_INF_O,E_F_E.25,IN3E_F,He knows that it will benefit them and so he will let her join,NRM_INF_N
+NRM_INF,NRM_INF_O,E_F_E.25,NP2E_F,[male spouse] might allow [female spouse] to join a local group of women,NRM_INF_N
+NRM_INF,NRM_INF_O,E_F_E.34,IN3E_F,"Yes, [male spouse] will also be excited about the idea since it has the potential to increase their production",NRM_INF_N
+NRM_INF,NRM_INF_O,E_F_E.34,IN4E_F,Yes they will implement the change,
+NRM_INF,NRM_INF_O,E_F_E.34,IN4E_F,It is not bad to take risks and experiment,
+NRM_INF,NRM_INF_O,E_F_E.34,IN4E_F,There doesnt seem to be much risk in this since her sister has already tried it out successfully,
+NRM_INF,NRM_INF_O,E_F_E.34,NP1E_F,Durga and Shyam will do new farming practices to make more profits,
+NRM_INF,NRM_INF_O,E_F_E.34,UZ3E_F,"Sure, because this spouse more thinking about effectiveness of the innovation",
+NRM_INF,NRM_INF_O,E_F_E.17,IN4E_F,Science has developed a lot today and there is a machine for everything,
+NRM_INF,NRM_INF_O,E_F_E.17,NP2E_F,because of trainings organized by agriculture office and other organizations,
+NRM_INF,NRM_INF_O,E_F_E.17,NP2E_F,"due to access on informations though trainings, television and radio",
+NRM_INF,NRM_INF_O,E_F_E.17,UZ3E_F,a lot of new kinds of seeds appeared in our district,[exclude]
+NRM_INF,NRM_INF_O,E_F_E.17,UZ3E_F,Wheat and rice are planted more and more in the last 10 years,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.13,IN4E_M,Seed driller,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.13,IN4E_M,Rotavator,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.13,IN4E_M,Tractor,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.13,IN4E_M,Thresher,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.13,IN4E_M,Seeds like Lokmanya,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.13,UZ3E_M,Development of greenhouses,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.13,UZ3E_M,New kind of wheat,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.13,UZ3E_M,New tractors and combines,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.14,IN4E_M,Machines save time and labor,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.14,IN4E_M,We need less seeds for same production when we sow with seed driller,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.14,IN4E_M,It also saves money on fertilizer since we need less fertilizer when we sow with seed driller,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.34,IN4E_M,"Yes, David will agree to make the changes",[exclude]
+NRM_INF,NRM_INF_O,E_M_E.34,IN4E_M,They will make the change in a small portion of their land,[exclude]
+NRM_INF,NRM_INF_O,E_M_E.34,UZ3E_M,"Sure, because the spouse would be thinking more about effectiveness of the innovation",
+NRM_INF,NRM_INF_O,E_F_E.2,NP1E_F,our mothers participate in trainings and do share their experiences at home,
+NRM_INF,NRM_INF_O,E_F_E.7,NP1E_F,young boys and girls also got opportunity to participate in 1 PM training,
+NRM_INF,NRM_INF_O,E_F_E.7,NP1E_F,"our parents, young girls and boys had participated in this training",
+NRM_INF,NRM_INF_O,E_F_E.7,UZ3E_F,"we know how plant wheat and vegetables, cotton and fruits and the process of their growing",
+NRM_INF,NRM_INF_O,E_F_E.13,NP1E_F,village women are getting opportunity to participate in trainings and excursions for agricultural development,
+NRM_INF,NRM_INF_O,E_F_E.13,NP1E_F,off season farming,[exclude]
+NRM_INF,NRM_INF_O,E_F_E.13,UZ3E_F,"Development of local markets, new shops",[exclude]
+NRM_INF,NRM_INF_O,E_F_E.13,UZ3E_F,Development of farms,[exclude]
+NRM_INF,NRM_INF_O,E_F_E.13,UZ3E_F,Development of greenhouses,[exclude]
+NRM_INF,NRM_INF_O,E_F_E.13,UZ3E_F,"New kind of seeds from Holland, Turkey",[exclude]
+NRM_INF,NRM_INF_O,E_F_E.13,UZ3E_F,New tractors and combines,[exclude]
+NRM_INF,NRM_INF_O,E_F_E.13,UZ3E_F,Selling of milk production,[exclude]
+NRM_INF,NRM_INF_O,E_F_E.14,NP1E_F,now calf are born through IBF fertilization,[exclude]
+NRM_INF,NRM_INF_O,E_F_E.6,NP2E_F,"Yes, now parents show same commitment to educating their daughters as their sons",[exclude]
+NRM_INF,NRM_INF_O,E_F_E.50,UZ3E_F,young families could apply to doctors and advice with them too,[exclude]
