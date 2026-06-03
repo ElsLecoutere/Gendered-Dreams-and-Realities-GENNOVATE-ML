@@ -1,0 +1,209 @@
+document_code,indicator_label,category_label,text,quote or transcriber's summary,data_container,confidence,enumerator,explanation
+e.g. IN7E_F,[see codebook],[see codebook],<from transcript>,{choose quote or transcriber's summary},e.g. E.4,[0.65-0.95],{ENU1-ENU3},[optional] <brief explanation why the indicator and category fit the text fragment in the specirfic context.>
+synthetic,[see codebook],[see codebook],<made up>,{choose quote or transcriber's summary},e.g. E.4,[0.65-0.95],{ENU1-ENU3},[optional] brief explanation why the indicator and category fit the text fragment in the specirfic context.
+synthetic,NRM_STIG,NRM_STIG_C,"If a woman sells crops without her husband's permission, she will be in trouble and be beaten by the man.",quote,E.19,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,the law empowers women and they can participate in meetings but they don't have the capacity to face challenges as men.,quote,E.15,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,"the man has the overall power on maize or the other crops. If she sells without his permission, she will be in trouble and can be beaten by the man.",quote,E.19,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,The land belongs to the man... traditionally women don't plow if a man is in the house.,quote,E.21,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,he won't let her join even if she is the one who grows the vegetables.,quote,E.25,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,"If Ana were to ask to sell her vegetables herself, Adam would respond 'what a surprising thing you learned? he may get angry with the idea and argue with her. Finally, if she doesn't accept what he is saying he will beat her.",quote,E.26,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,"no, he doesn't even recognize that she is working exhaustively; he only focused on the income and meeting the labor demand.",quote,E.27,0.9,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,"The community label her as disobedient, and him as crazy./ They said she is a thief. She is robbing him off what is supposed to be his.",quote,E.28,0.9,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,he is a kind of foolish and unwise person. Label him as lazy one and is a 'woman' who can't decide over his life. / he is like a property not a man.,quote,E.29,0.9,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,men are better than women on calculation of price.,quote,E.33,0.9,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,"She belongs to him, she is his asset and therefore, whatever she brings to the household is also his asset.",quote,E.36,0.9,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,women don't usually travel alone scared of rape and their husband don't allow them to walk alone. it's not positively perceived by the community if a woman travels alone (labeled as mentally unstable),quote,E.38,0.9,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,"she would not be positively seen by the community if she has a husband, family and expected to stay at home taking care of her family.",quote,E.39,0.9,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,she has to reach home early to be safe from rape and violence from her husband.,quote,E.40,0.9,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,woman has to give birth at the early of her twenties because those children from older women (above 22) will be mentally unstable.,quote,E.43,0.9,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,if we do not learn we will be illiterate and have limited access to job opportunities. It is obvious that uneducated person stays at home,quote,E.3,0.9,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_C,"If not, they often turn out to be thieves and addicts. Their father is a farmer and they will end up being a farmer",quote,E.43,0.9,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"If you are female they already have decided on your fate. Even in some families, female children are considered as source of income. So her fate whether she liked it or not is decided.",quote,E.2,0.9,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,Women do not own any livestock or crop. They are not allowed to sell anything beyond what she can handle with small basket.,quote,E.16,0.9,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"He will say, 'who is the man here. How do you know better than me about agriculture?",quote,E.24,0.9,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,She will consult him and even he may refuse. He will replace the father practically so once her boy grows up she will go back to her position and be led by her child.,quote,E.24,0.9,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,He never allows her to go anywhere. How would he allow her to get into such association. He will think 'this is very dangerous. She will learn from other women who think they are assertive,quote,E.25,0.9,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,They like to be the only knowledgeable person.,quote,E.25,0.9,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"In our culture, men are kings of the house. The father is the main king and the rest are smaller kings… So she cannot feel tired. It is a taboo.",quote,E.26,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"Even if he told her to sit, she will never because, she knows that he will call her lazy tomorrow… A woman never has time to sit. It is a taboo",quote,E.27,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"In our culture, a woman never go beyond her husband's will… it is his money. He has the right to make decision on the money.",quote,E.28,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,She is also considered as his property let alone what she brought. Once she is married she no longer is her own person. She has to submit totally to him.,quote,E.36,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"In the market, they would not buy from her. They may think that she is a thief. Or she must be somebody her husband and whole family have abandoned because of some bad things.",quote,E.20,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,People will hate her. Women also would put lots of pressure on her to stop… They will even spread some unfounded stories about her. The neighbors would not want to associate themselves with her.,quote,E.28,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,They will say she has dominated him and put him home as if he is a woman.,quote,E.28,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,If a woman takes her husband to court that is considered a very bad thing. She may even be out casted.,quote,E.37,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"If she gets robbed or raped, there is no one who would understand her, she will be blamed for going out or dressing up like what she did.",quote,E.38,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,What they fear is that others will say some bad things about the daughter and she would be unable to get married on the appropriate time.,quote,E.41,0.9,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"No one respect girls in any case, even family members will tell her to find her own ways once she is at that age.",quote,E.43,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"The women will say 'are you a man? How come you call yourself a man?' while the men will bully him a lot by calling him names such as 'a woman', change your clothes you are not a man and dress up like a woman",quote,E.29,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"They will tell them that 'he has become sick with some kind of mental illness, that is not something acceptable and to be emulated. So be careful. Do not associate yourself with him.",quote,E.29,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,They prefer their girls to get married younger because if she is virgin she will get better 'gebera' (dowry).,quote,E.6,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"They will tell us 'even the boys get nowhere with education, let alone girls, you better stop going to school.'",quote,E.6,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,girls will go to the town… they will start giving less attention to their education and get into a relationship with boys and end up pregnant. So other families will see this and prohibit other girls from continuing school.,quote,E.6,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,My father is unhappy now because I was not able to pass the school leaving exam… He thinks I have wasted my time.,quote,E.3,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"If she is at school, they fear the dowry would be less as she may no longer be virgin.",quote,E.44,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"Immediately she stops getting more children, the man is going to marry another woman because she is no longer giving him children.",quote,E.50,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,If she is only giving girls he will continue to marry another woman until he gets plenty of boys.,quote,E.50,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_C,"Here women's labor is not given any kind of value. She is expected to work all the time, no one will understand her needs and if she is tired. She should never complain from working so hard. If she does she is considered lazy.",quote,E.18,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_O,"now days we are educated, trained and follow mass media. We make some major decisions on our life and I put myself on step 3.",quote,E.2,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_O,"I do not agree with them, what I think is that we are at stage three. Because there are things girls are deciding on. Some girls are deciding and marrying whom they choose.",quote,E.2,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_O,"if they agreed at the beginning, he will be happy with her accomplishment. He doesn't complain if she is successful even she didn't consult him at the initial stage.",quote,E.30,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_O,"of course, they have equal opportunity and women can participate on trainings because when there are training opportunities it is not men specific it is available for both.",quote,E.15,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_O,"early times, men were the only ones attending meetings but currently both are equally attending and work together using their skills. Then equality is important to improve their life.",quote,E.31,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_O,"I have same perception about equality at this time women learn agricultural skill and health issues from agricultural and health extension agents equally with men. Therefore, both can work together for change.",quote,E.31,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_O,you can't find uneducated young girls at this kebele under 30 years of age now days because the parents acknowledged the advantage of education and send both sons and daughters to school.,quote,E.6,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_O,"previously, parents don't even send their sons to school. However, they know that educated person can have better opportunity and improve his living status. As a result, currently parents are showing better commitment to send their children both girls and boys to school.",quote,E.6,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_O,it's the same for girls to study up to college and university to improve their social and economic opportunities.,quote,E.5,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_O,"uneducated parents may not send their girls to school to support them on household chores Previously. However, currently, parents are aware of the importance of education and send their girls to school.",quote,E.4,0.95,ENU_2,inspired by answers in the data
+ET1E_M,NRM_STIG,NRM_STIG_O,"no one will touch her, because they are afraid of the consequence if they face her husband and in respect of her husband. She is free from any danger in respect of her husband.",quote,E.39,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_O,"It is normal. Many women go out and sell vegetables, fire wood, and fruits in small markets around the village.",quote,E.40,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_O,"I feel, it is about being equally free like a boy. Free to play and work.",quote,E.31,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_O,"it is about the right to go to school as the boys, the right to elect and be elected.",quote,E.31,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_O,"to be equal with men, it is important to respect each other, and to equally work both outside of the house and inside the house.",quote,E.31,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_O,I would like to see all this injustice removed from our lives.,quote,E.51,0.95,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_O,"I would like to see boys respecting women and living in harmony with one wife, having less children and working together and changing their lives.",quote,E.51,0.9,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_O,"Previously, women mainly stay at home… when they started sedentary farming they both engaged in agriculture. There is no surprise to see a woman tilling land or planting which I heard are some things in other areas where women are not working.",quote,E.18,0.9,ENU_2,inspired by answers in the data
+ET1E_F,NRM_STIG,NRM_STIG_O,"When it comes to agriculture, there is no difference. They work together on both the larger plot where they produce crops and vegetable garden. There is no division.",quote,E.21,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,No woman will suggest that her husband let her sell vegetables. But if they do then men will not allow them.,quote,E.26,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,If husband is busy he may send his neighbor to sell the produce but in no case will he allow his wife to go.,quote,E.26,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,If some woman defies her husband and goes to sell then he will have nothing to do with her.,quote,E.26,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,It will not be difficult for women to sell in the local market but they will never get permission from their family.,quote,E.40,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,Only those women who don't have any men at home go to sell in the local market.,quote,E.40,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,Women will not be able to do it on their own.,quote,E.19,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,Girls will not run around to find right rates while boys will do it and sell at the best price.,quote,E.19,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,"No, young women don't have the same learning opportunities as the young men since the former are busy with household work.",quote,E.15,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,"Yes, Mary's reputation will definitely be affected and people will comment that in spite of having husband and other elders at home she is stepping out to work.",quote,E.28,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,People will also blame the guardian at home for allowing her to work.,quote,E.28,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,If you delay having a baby then people start talking and call you infertile.,quote,E.48,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,The elders in the family will give him a tight slap to bring him back to his senses.,quote,E.29,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,How can he sit at home and allow his wife to work.,quote,E.29,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,People will say he is a good for nothing husband and will ridicule him.,quote,E.29,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,A newly married woman will herself not go alone to the market. Her family will also not allow her. This is primarily because of age old traditions and not because of any security concerns.,quote,E.39,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,"But, yet some parents send their sons to private school and daughters to government schools.",quote,E.6,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,We will also get more dowry if we are educated.,quote,E.3,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,A doctor will like to marry a doctor and not a laborer.,quote,E.3,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,Our parents/guardians take marriage related decisions. If someone has a love marriage he is thrown out of the community.,quote,E.45,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,Since it is his father's money therefore the man will buy the bike he wants.,quote,E.37,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_C,"If he is an alcoholic, then he will ignore his wife and buy his bike.",quote,E.36,0.95,ENU_2,inspired by answers in the data
+synthetic,NRM_STIG,NRM_STIG_C,women do not have the position to make decisions in many families,quote,E.50,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_N,It depends on what this group is like; if the husband thinks that the group and its members are good and so his wife will benefit then he will let her join.,quote,E.25,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_N,"Yes, he will let Diana implement these changes provided she has all the technical information.",quote,E.34,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_N,"Yes, a young woman can walk comfortably alone to the market. If her character is good then she will have no problem.",quote,E.38,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_N,She can go if she has a reason for going to the market; but there is no reason to go to the market without any work.,quote,E.38,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_N,If wife is of a good character and is running her business well then he will be happy for her and encourage her.,quote,E.30,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_N,It will not be easy because his wife will resist and he will find it hard to convince her; but in the end he will buy a bike,quote,E.37,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_N,Our parents are more experienced and they should take such decisions. But there is no harm in asking us since we are the ones who will marry.,quote,E.46,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_N,"They can go if they have some work. But there is no security concern as such since every man in the community is uncle, grandfather or related in some way.",quote,E.41,0.95,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_O,"Yes, parents are equally dedicated to the education of their sons and daughters. That is because parents are more aware now of the importance of education.",quote,E.6,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_O,Both should at least complete their graduation. They should also have some technical training.,quote,E.5,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_O,Women have reservation in government jobs.,quote,E.5,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_O,Men and women should have same opportunities in education and job.,quote,E.31,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_O,We should not look at women condescendingly.,quote,E.31,0.9,ENU_2,inspired by answers in the data
+IN10E_M,NRM_STIG,NRM_STIG_O,There should be gender equality in marriage too; both boys and girls should be consulted and their opinions valued.,quote,E.31,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,Young women don't know much about agriculture and hence will find it extremely tough. They cannot do it alone. They will not want to do it.,quote,E.20,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,People will comment that they are acting 'smart.,quote,E.20,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,But he may not want her to enter an area dominated by men.,quote,E.26,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,David is more likely to sell the vegetables. Vegetable basket is too heavy to carry and hence David will take it to sell.,quote,E.33,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,"No, young men and women don't have the same opportunities to learn new agricultural practices.",quote,E.15,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,Men and women are made differently and so how can they do the same things?,quote,E.15,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,Young women don't know much about agriculture and hence will find it extremely tough. They may be able to grow with a little help from their fathers but may find it more difficult to sell since they don't know anything about the market rates.,quote,E.19,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,There is no work delegation as such; it is combined effort of all male members of the family and sometimes women help too.,quote,E.21,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,The villagers will say that she has breached the society rules by working when she has her husband at home.,quote,E.28,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,He will be the laughing joke in the community.,quote,E.29,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,His friends will poke fun at him and comment that he should have a sex change.,quote,E.29,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,Practically no women move freely on their own in the village.,quote,E.41,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,No young women cannot migrate to the city without their elder's permission. Young women will face too many problems if they migrate alone. No young women goes anywhere outside the village unless her parents move or she gets married.,quote,E.42,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,Young women don't migrate.,quote,E.43,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,Parents take all decisions related to marriage. They start thinking about a girl's marriage as soon as she turns 18.,quote,E.45,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,Women don't have any say in when they want their first child. Women become mothers within a year of their marriage.,quote,E.50,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,I don't know if I will be allowed to work at my husband's place.,quote,E.10,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,Parents educated their girls but don't allow them to work; this needs to change; why should only boys be allowed to work.,quote,E.51,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,If we don't go to school we will only be rolling chapatis and bearing children.,quote,E.3,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_C,Parents consider girls as 'parayi' — not their own since they will marry and go to their husband's home.,quote,E.6,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,"He may let her join since she already has a home garden. Yes, and she may benefit from joining such a group. But he will fear that she may be negatively influenced joining this group.",quote,E.25,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,He will let her sell. She grows these vegetables herself and so has the right to sell them too.,quote,E.26,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,It will be difficult for her if her husband doesn't agree to let her buy it.,quote,E.36,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,It will not be easy for him either without his wife's consent. If he loves his wife then he will definitely ask for her consent.,quote,E.37,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,If her husband becomes rigid then she will not buy the land she so wants and will not let him buy the bike either.,quote,E.37,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,We will not stop going to the market simply because boys pass comments.,quote,E.38,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,She has the 'marriage' license and she can move around easily. There are no boundaries after marriage.,quote,E.39,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,It will depend upon the mentality of the people — some may appreciate while others will chastise her.,quote,E.28,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,We should be asked about our choice when choosing our life partner.,quote,E.46,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,Girls should be allowed to ask questions the way boys do when they come to 'see' prospective brides. Girls should be given the freedom to decide about their future.,quote,E.46,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,Women who don't have men at home have no choice but to use these machines.,quote,E.14,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_N,Some women whose husbands don't stay in the village or those who are widows take interest because they are responsible for their land.,quote,E.15,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_O,When our parents decided to send us to school they decided to empower us. Education has brought about a revolutionary change — we are wiser and more capable.,quote,E.2,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_O,Now parents are not partial to boys; that was the case many years ago; now they want both boys and girls to study. I think they are more conscious about girls' education.,quote,E.6,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_O,Men and women should be given equal treatment in society. Both should have equal rights and opportunities.,quote,E.31,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_O,Women should have the same privileges after marriage which they enjoy before.,quote,E.31,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_O,Gender equality is necessary for society's progress.,quote,E.31,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_O,Both should be allowed to go out and work for a better future.,quote,E.51,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_O,t is her father's money and she has a right to use it whatever way she can. She can buy the land she wants.,quote,E.36,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_O,She can sell in the market. She will not have any difficulty in selling in the market.,quote,E.40,0.9,ENU_2,inspired by answers in the data
+IN10E_F,NRM_STIG,NRM_STIG_O,young women should be allowed to go abroad.,quote,E.51,0.9,ENU_2,inspired by answers in the data
+synthetic,NRM_STIG,NRM_STIG_O,Women can also educated and have gainful employment.,quote,E.51,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,In this community it is not possible if she wants to sell her poultry products or embroidery outside the village herself.,quote,E.20,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,Adam may ask her to sell through someone else (male in family) but will not allow her to do this.,quote,E.26,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,Adam will regret and may beat her.,quote,E.26,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,"Will not think her good, and will call her Lagharhi, because she goes to market. In this area, people will consider her bad.",quote,E.28,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,"David will sell out the vegetables, because he knows how to sell. Women not protected outside home, so she cannot sell.",quote,E.33,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,"In village not a problem, however, in town women don't sell here, as it is not a custom here.",quote,E.40,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,"Wife doesn't know, no need benefit of asking her.",quote,E.24,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,What does woman know? Of course man can sell better.,quote,E.32,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,"Because man is powerful, it is compulsory for woman to obey man.",quote,E.36,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,If a woman does that then she will be responsible for the losses as well. She will be sent out of the home.,quote,E.19,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,"Will not think her good, and will call her Lagharhi, because she goes to market. In this area, people will consider her bad.",quote,E.28,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,"Her husband will be considered bad. Adam is not a male, obey orders of wife.",quote,E.29,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,Boy can study as much as he wants but the girls 8-10th class. Higher education not good for girls as they will have to go for jobs outside home.,quote,E.5,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,"No, boys education is preferred to girls, girls are allowed till 6 to 8 years education. Girls are to be married to go to others house, that's why they are not given preference, and boys will live with parents.",quote,E.6,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_C,"The girl's father decides. In a polygamous marriage, woman have no say, these women belong to poor families and for money they agreed to marry their girls as co wives.",quote,E.45,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,"Ok, its your own business, just do it as you like",quote,E.25,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,Adam will regard her and Ana will also regard him and will deal according to local customs.,quote,E.25,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,"If she brings in profit, then the man will not say anything.",quote,E.19,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,"Adam will care, and will call her when she finishes work at her own plot. If Adam is inhumane will call her otherwise will let her finish her work first.",quote,E.27,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,Not a bad thing if we see the changing world around us. Half people (educated) will say good and half (uneducated) will say bad,quote,E.29,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,"Will say good, you have brought profit, you earn I will look after the kids.",quote,E.30,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,"Experienced women however, do advise on wheat crop cultivation and then men usually hear to them.",quote,E.21,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,"Equal opportunities to get education. Good thing, but within the limits set by local norms and customs.",quote,E.31,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,The equality should be as determined by Islamic Sharia.,quote,E.31,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,"For now the customs are being followed but things are changing as education among male and female is on rise. Things will not change at once, will take time.",quote,E.18,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_N,David will respect her actions and will make the changes.,quote,E.34,0.9,ENU_2,inspired by answers in the data
+synthetic,NRM_STIG,NRM_STIG_O,Both boys and girls have equal education.,quote,E.5,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_O,"As a mother, an educated woman can be very good to her children.",quote,E.6,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_O,"Women's roles are indispensable in some areas such as health and education.""",quote,E.12,0.9,ENU_2,inspired by answers in the data
+PK5E_M,NRM_STIG,NRM_STIG_O,"Now schools are being constructed, other things will change with them, because only education can change things for both boys and girls",quote,E.18,0.9,ENU_2,inspired by answers in the data
+synthetic,NRM_STIG,NRM_STIG_O,Boy and girl are both asked for consent,quote,E.46,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,We here in village have no freedom in our lives.,quote,E.2,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Just have freedom at household chores/work nothing else.,quote,E.2,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,"We, sisters, don't study as we are not allowed. Our brother has studied till middle (grade 8th).",quote,E.4,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Boys can study until and up to whatever level they like. I wish we could have studied too.,quote,E.4,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,"Boys and girls are to be equally educated. Because if a boy can become a doctor so a girl doctor is also needed. Now girls are everywhere in military, police and every other field. I desire to join Pakistan Army but who considers our girls' wishes/decisions?",quote,E.5,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,What can I say if I myself couldn't get education? My parents didn't get me education.,quote,E.5,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,"Girls are to be married to go to others house, that's why they are not given preference, and boys will live with parents.",quote,E.6,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Local customs and norms are not helpful for girls to go outside home even to school or college.,quote,E.6,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,My brother didn't even allow me to go to this primary girls' school.,quote,E.8,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,My brother didn't permit me to go to school.,quote,E.8,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Gender stereotypes with regard to female education.,quote,E.9,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,I have a bit of interest in farming activities but I don't do it because this is considered as men's work here.,quote,E.15,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Women do not work in agriculture fields in this area… because of the deep-rooted gender division of labor and patriarchy.,quote,E.18,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Male never consult their wives for certain matters. Because they think that women lack certain knowledge and experiences in this respect.,quote,E.24,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Adam would rather say to Hawa 'You have said this today but do not say and think this next time.,quote,E.26,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,If Hawa will insist in this regard so Adam may abuse/beat her for this.,quote,E.26,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Adam will say to Hawa you are a woman so you are supposed to live like a woman.,quote,E.26,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Our men will feel themselves as embarrassed and disgraced when somebody would speak something bad i.e. 'We saw your family woman in the market today.' So this is really hard.,quote,E.40,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,First of all our own family men and community/village men will speak negative about such a woman who goes to the market for selling something.,quote,E.40,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Truly speaking here our community men would consider Bashir a greedy man who is letting his women his honor go out. Women are considered as one's honor here.,quote,E.29,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Bashir is a bad person. This is a wrong thing that he is allowing his wife to go out and work.,quote,E.29,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,What kind of man is Bashir that he doesn't think of his honor? He is doing bad to send his wife out to work.,quote,E.29,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,I think it is not easy because this is her own village and all people know each other here. All will see her and her this act as negativity.,quote,E.40,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Man has all the authority to make decisions. He can even take this money by his wife by forcing her. But a woman cannot do this.,quote,E.37,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,It is Deeno's money so he can do anything with his money. He can buy anything with that or even he can get another marriage.,quote,E.37,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Men/boys may decide their choices and desires for having a wife or whom they want to get married to but girls/women are never asked.,quote,E.45,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Women however have no say in this regard either they are going to be the first wife or co-wife no matter.,quote,E.45,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,We have only one man in this community who got a single wife perhaps because he has no money for having another one.,quote,E.45,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Women are never asked/consulted or given any right in this respect.,quote,E.50,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,"Honestly, here no man asks any woman while planning when to have a child and what should be the family size.",quote,E.50,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,If any woman wants two/less children man would definitely go for another marriage.,quote,E.50,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,We have a practice for planning marriages i.e. giving a girl for another girl whether there is a proper match for her or not. This practice is called as 'Sarraii' in our local context.,quote,E.51,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,Girls do sewing or embroidery work. Boys go outside to agricultural fields.,quote,E.11,0.9,ENU_2,inspired by answers in the data
+PK5E_F,NRM_STIG,NRM_STIG_C,We girls should focus on household tasks because we will not get any jobs I know.,quote,E.12,0.9,ENU_2,inspired by answers in the data
