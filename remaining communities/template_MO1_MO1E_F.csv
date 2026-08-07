@@ -1,0 +1,6 @@
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_level
+MO,MO1,,FG_E_Aspirations of Youth,MO1E_F,female,ASP,ASP_COL,I wish I studied till I became a teacher or a doctor.,teacher or a doctor,quote,E.10,,,ENU_1,95
+MO,MO1,,FG_E_Aspirations of Youth,MO1E_F,female,ASP,ASP_NON,I didn’t have any goals; I wanted a man and got him,didn’t have any goals,quote,E.10,,,ENU_1,95
+MO,MO1,,FG_E_Aspirations of Youth,MO1E_F,female,GAP,GAP_NON,I didn’t have any goals; I wanted a man and got him,I wanted a man and got him,quote,E.10,,,ENU_1,95
+MO,MO1,,FG_E_Aspirations of Youth,MO1E_F,female,GAP,GAP_WID,The girl has two directions normally: it’s either getting married or staying at home (the parents’),getting married or staying at home,quote,E.11,,,ENU_1,85
+MO,MO1,,FG_E_Aspirations of Youth,MO1E_F,female,NRM_MEN,NRM_MEN_C,"Here, it’s a shame if a woman interferes with agriculture, it’s like she deletes the existence of men",deletes the existence of men,quote,E.15,,,ENU_1,90

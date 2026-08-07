@@ -1,0 +1,5 @@
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_level
+MW,MW1,,FG_E_Aspirations of Youth,MW1E_F,female,ASP,ASP_COL,I would want to be in office as a clerk or as a nurse or doctor,nurse or doctor,quote,E.12,,,ENU_1,95
+MW,MW1,,FG_E_Aspirations of Youth,MW1E_F,female,GAP,GAP_WID,When one has finished school should work according to education attained many form 4 youth have not found employment yet,have not found employment,quote,E.12,,,ENU_1,85
+MW,MW1,,FG_E_Aspirations of Youth,MW1E_F,female,NRM_MEN,NRM_MEN_C,girls think they could not do the activities that boys do and they belittle themselves,could not do the activities that boys do,quote,E.18,,,ENU_1,85
+MW,MW1,,FG_E_Aspirations of Youth,MW1E_F,female,NRM_MEN,NRM_MEN_N,"Yes youth follow what men and women do  for example, there are jobs for girls such as plucking groundnuts ",jobs for girls,quote,E.18,,,ENU_1,80

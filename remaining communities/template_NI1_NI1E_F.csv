@@ -1,0 +1,4 @@
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_level
+NI,NI1,,FG_E_Aspirations of Youth,NI1E_F,female,ASP,ASP_COL,I want to become a doctor,doctor,quote,E.10,,,ENU_1,95
+NI,NI1,,FG_E_Aspirations of Youth,NI1E_F,female,GAP,GAP_SML,"the girls engage in hawking of fruits, drinks and vegetables.",,quote,E.11,,,ENU_1,80
+NI,NI1,,FG_E_Aspirations of Youth,NI1E_F,female,NRM_STIG,NRM_STIG_C,Mark’s friends will refer to him as ‘Mumu and boi-boi’ meaning fool and houseboy,fool and houseboy,quote,E.30,,,ENU_1,95

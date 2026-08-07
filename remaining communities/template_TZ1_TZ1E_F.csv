@@ -1,0 +1,5 @@
+country,commuTZty_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_level
+TZ,TZ1,,FG_E_Aspirations of Youth,TZ1E_F,female,ASP,ASP_BUSS,Becoming a businesswoman,businesswoman,quote,E.10,,,ENU_1,95
+TZ,TZ1,,FG_E_Aspirations of Youth,TZ1E_F,female,GAP,GAP_NON,"For me, becoming a businesswoman is a must. I am already doing something. So, I am on the right truck. ",on the right truck,quote,E.10,,truck should be track,ENU_1,95
+TZ,TZ1,,FG_E_Aspirations of Youth,TZ1E_F,female,GAP,GAP_WID,"I am not sure if I shall make it with becoming a doctor. No money, no good teachers at school no encouragement, no everything",not sure if I shall make it with becoming a doctor,quote,E.10,,,ENU_1,85
+TZ,TZ1,,FG_E_Aspirations of Youth,TZ1E_F,female,NRM_MEN,NRM_MEN_N,Worse is for us women: they make you grow crops for food to eat at home. You cannot have crops that will allow you become rich.,cannot have crops that will allow you become rich,quote,E.15,,,ENU_1,85
