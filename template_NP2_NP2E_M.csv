@@ -1,4 +1,4 @@
-country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_interval
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_level
 NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_M,male,GAP,GAP_WID,once they get married maybe they do not have chance to do further studies,they do not have chance to do further studies,quote,E.2,,,ENU_2,0.9
 NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_M,male,GAP,GAP_WID,mostly after marriage they do not study ,,quote,E.2,,,ENU_2,0.9
 NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_M,male,NRM_DIV,NRM_DIV_C,"mostly boys learn how to plant the rice, maize and wheat ",,quote,E.7,,,ENU_2,0.95

@@ -1,4 +1,4 @@
-country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence interval
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_level
 BD,BD6,GENNOVATE_BD6.xlsx,FG_E_Aspirations of Youth,BD6E_F,female,ASP,ASP_UNSP,I had a wish to be financially independent after finishing my education by entering a job ,entering a job ,quote,E.10,,,ENU_2,0.95
 BD,BD6,GENNOVATE_BD6.xlsx,FG_E_Aspirations of Youth,BD6E_F,female,GAP,GAP_WID,that did not happen and marriage took place before that. ,marriage took place,quote,E.10,"""that"" referring to ""entering a job""",,ENU_2,0.95
 BD,BD6,GENNOVATE_BD6.xlsx,FG_E_Aspirations of Youth,BD6E_F,female,ASP,ASP_COL,I wished to be a nurse after completing my studies,nurse,quote,E.10,,,ENU_2,0.95

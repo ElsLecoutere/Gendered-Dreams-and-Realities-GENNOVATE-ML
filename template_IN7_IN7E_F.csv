@@ -1,4 +1,4 @@
-country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence interval
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_level
 IN,IN7,GENNOVATE_IN7.xlsx,FG_E_Aspirations of Youth,IN7E_F,female,NRM_DEC,NRM_DEC_C,Our parents take most of the decisions for us,parents decide,Quote,E.2,,Shows limited agency of young women; parents make major life decisions.,ENU_3,0.95
 IN,IN7,GENNOVATE_IN7.xlsx,FG_E_Aspirations of Youth,IN7E_F,female,NRM_DEC,NRM_DEC_N,we must give our opinion at least in all matters,give opinion,Quote,E.2,,Indicates girls can express opinions but final authority not theirs ? nuanced decision-making power.,ENU_3,0.95
 IN,IN7,GENNOVATE_IN7.xlsx,FG_E_Aspirations of Youth,IN7E_F,female,NRM_DEC,NRM_DEC_N,we don’t keep quiet; we speak up when we think we should,speak up,Quote,E.2,,Shows increasing voice among girls ? nuanced agency.,ENU_3,0.95

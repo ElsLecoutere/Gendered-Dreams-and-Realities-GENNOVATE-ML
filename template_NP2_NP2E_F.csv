@@ -1,4 +1,4 @@
-country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_interval
+country,community_code,metadatafile,tool,document_code,gender,indicator_label,category_label,text,keyword,quote or transcriber's summary,data_container,background information,comments,enumerator_id,confidence_level
 NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_C,we are still dependent on parents because we are student not started job yet. ,we are student,quote,E.2,,,ENU_2,0.95
 NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,NRM_DEC,NRM_DEC_N,"because or urbanization parents become aware and more mobile. Hence, they do not put much restriction on us",they do not put much restriction on us,quote,E.2,,,ENU_2,0.95
 NP,NP2,GENNOVATE_NP2.xlsx,FG_E_Aspirations of Youth,NP2_F,female,ASP,ASP_UNSP,most of the boys in this village study till high school (+12) and go abroad for foreign employment,go abroad for foreign employment,quote,E.4,,,ENU_2,0.95
