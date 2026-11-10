@@ -1,54 +1,115 @@
-indicator_id,classification_id,context_id,provenance,text_fragment,classification_id_rev
-NRM_MEN,NRM_MEN_C,E_F_E.19,BD3E_F,"Working in the fields, selling crops in the market, a boy can do everything",
+indicator_id,classification_id,context_id,provenance,text_fragment,classification_id_rev,evidence_type
+NRM_MEN,NRM_MEN_C,E_F_E.19,BD3E_F,"Working in the fields, selling crops in the market, a boy can do everything",,
 NRM_MEN,NRM_MEN_C,E_F_E.19,IN9E_F,"Young women will be lost since they will not know where to begin
-	It will be impossible for them to do it",
-NRM_MEN,NRM_MEN_C,E_M_E.20,BD3E_M,"It is fully accepted and appreciated if a young man grows wheat, maize, rice and vegetables in the distant fields or nearby and chickens/ducks at home. Society accepted that men can grow and sell any products whether it is agricultural products or animals.",
-NRM_MEN,NRM_MEN_C,E_M_E.20,IN9E_M,We know mostly everything about agriculture and we will not face any difficulty,
-NRM_MEN,NRM_MEN_C,E_M_E.20,IN9E_M,We will be able to grow a good crop; we can drive the machine and do everything ourselves,
-NRM_MEN,NRM_MEN_C,E_F_E.24,ET1E_F,"He will say, who is the man here. How do you know better than me about agriculture?",
-NRM_MEN,NRM_MEN_C,E_F_E.14,ET2E_F,Men prefer row planting and improved seeds to get more crop and production and income.,
-NRM_MEN,NRM_MEN_C,E_F_E.14,IN4E_F,Women dont use machines because they think they are incapable of doing so,
-NRM_MEN,NRM_MEN_C,E_F_E.14,IN4E_F,Men prefer machines because it saves them time and physical stress,
-NRM_MEN,NRM_MEN_C,E_F_E.14,IN7E_F,Women cannot drive,
-NRM_MEN,NRM_MEN_C,E_F_E.14,NP1E_F,tractor and thresher are important for men because they can plough land with an ease,
-NRM_MEN,NRM_MEN_C,E_F_E.14,UZ3E_F,We think that these points more important for boys because they could find a lot of jobs that they like technical equipment and could drive it,
-NRM_MEN,NRM_MEN_C,E_M_E.7,ET2E_M,fathers teach us farming because we help them,
-NRM_MEN,NRM_MEN_C,E_M_E.7,NP1E_M,girls cant do but they know more activities than boys,
-NRM_MEN,NRM_MEN_C,E_M_E.18,ET2E_M,farming is generally a mans job,
-NRM_MEN,NRM_MEN_C,E_M_E.18,IN4E_M,"Yes, because women cannot do all agricultural activities",
-NRM_MEN,NRM_MEN_C,E_M_E.18,IN4E_M,We cannot expect women to drive tractors,
-NRM_MEN,NRM_MEN_C,E_F_E.34,ET4E_F,he will not accept because its believed men are more knowledgeable on farming than women,
-NRM_MEN,NRM_MEN_C,E_F_E.34,ET4E_F,I have also same thought that he will not accept her as he thinks she gets the new knowledge informally,
-NRM_MEN,NRM_MEN_C,E_F_E.15,IN1E_F,Men know more about agriculture than women,
-NRM_MEN,NRM_MEN_C,E_F_E.20,IN1E_F,Girls know nothing about selling in the market,
-NRM_MEN,NRM_MEN_C,E_F_E.20,IN1E_F,Girls will have to learn to drive the tractor; girls here dont know biking then how can they drive a tractor,
-NRM_MEN,NRM_MEN_C,E_F_E.33,IN1E_F,People think women know nothing about market practices and will get cheated,
-NRM_MEN,NRM_MEN_C,E_F_E.33,IN9E_F,Women dont know how to trade at the market; they have never done it and will easily be cheated,
-NRM_MEN,NRM_MEN_C,E_F_E.33,PK2E_F,R.3: David to sell because he go to market and know the market day to day changing prices,
-NRM_MEN,NRM_MEN_C,E_F_E.33,PK2E_F,R.2: Of course David because he knows the situation of market place and updates as compare with women.,
-NRM_MEN,NRM_MEN_C,E_M_E.19,IN1E_M,Women dont know anything about the market,
-NRM_MEN,NRM_MEN_C,E_M_E.19,IN1E_M,Marketplace is for men; they know their trade; they know the prices and they know how to haggle,
-NRM_MEN,NRM_MEN_C,E_M_E.19,IN7E_M,they cannot drive the tractor and get their field ready for sowing,
-NRM_MEN,NRM_MEN_C,E_M_E.19,IN9E_M,She will be lost since she would not know how and where to start,
-NRM_MEN,NRM_MEN_C,E_M_E.19,IN9E_M,She will face too many problems and herself quit,
-NRM_MEN,NRM_MEN_C,E_M_E.33,IN1E_M,Man will sell the vegetables as he has better idea about it; woman has no idea how transactions happen at marketplace,
-NRM_MEN,NRM_MEN_C,E_M_E.33,IN1E_M,A woman will be lost at marketplace,
-NRM_MEN,NRM_MEN_C,E_F_E.7,IN4E_F,We want to learn to operate the machines that boys do but we are not allowed,
-NRM_MEN,NRM_MEN_C,E_F_E.17,IN4E_F,Since machine is making the lives of men easier therefore they also like using them,
-NRM_MEN,NRM_MEN_C,E_F_E.17,IN4E_F,Women are scared to use machines,
-NRM_MEN,NRM_MEN_C,E_F_E.18,IN4E_F,Yes. Men use machines like tractor to get their plot ready for sowing which women do,
-NRM_MEN,NRM_MEN_C,E_F_E.18,PK2E_F,R.2: Our suggestions dont have much importance according to prevailed customs and traditions.,
-NRM_MEN,NRM_MEN_C,E_F_E.18,PK2E_F,"R.1: Yes, we follow them because they [men] have more practical experiences and more know how as compare to us.",
-NRM_MEN,NRM_MEN_C,E_F_E.18,PK2E_F,"R.6: If we dont follow them [men], then we will be in loss.",
-NRM_MEN,NRM_MEN_C,E_F_E.26,IN4E_F,Men always think they are more capable,
-NRM_MEN,NRM_MEN_C,E_M_E.13,IN4E_M,Women hardly work with machines,
-NRM_MEN,NRM_MEN_C,E_M_E.14,IN4E_M,Women dont work with machines,
-NRM_MEN,NRM_MEN_C,E_M_E.14,PK2E_M,"R1. As mentioned earlier, the women do not have any role in farming activities and they have no knowledge and information about the farming activities. They might be involve in rearing of cattle but that is in their own homes",
-NRM_MEN,NRM_MEN_C,E_M_E.14,UZ3E_M,New mechanisms will help in those businesses where men are mostly involved in,
-NRM_MEN,NRM_MEN_C,E_M_E.15,IN4E_M,Women are not comfortable with new technologies especially machines; they believe machines are meant for men,
-NRM_MEN,NRM_MEN_C,E_M_E.15,IN9E_M,Women cannot drive tractors like men,
-NRM_MEN,NRM_MEN_C,E_F_E.40,IN9E_F,She has to return home before dark; she will be constrained by many factors including lack of knowledge about the market prices,
-NRM_MEN,NRM_MEN_C,E_M_E.24,IN9E_M,Wives will in all likelihood not know much,
-NRM_MEN,NRM_MEN_N,E_M_E.20,IN9E_M,We can grow our own crop but will need the help [of] our parents in selling ate the marketplace,
-NRM_MEN,NRM_MEN_N,E_M_E.20,IN9E_M,We will need some guidance from our parents regarding seeds to use,
-NRM_MEN,NRM_MEN_N,E_F_E.14,NP1E_F,maize cultivation and buffalo raising are important practice for women in the community,
+	It will be impossible for them to do it",,
+NRM_MEN,NRM_MEN_C,E_M_E.20,BD3E_M,"It is fully accepted and appreciated if a young man grows wheat, maize, rice and vegetables in the distant fields or nearby and chickens/ducks at home. Society accepted that men can grow and sell any products whether it is agricultural products or animals.",,
+NRM_MEN,NRM_MEN_C,E_M_E.20,IN9E_M,We know mostly everything about agriculture and we will not face any difficulty,,
+NRM_MEN,NRM_MEN_C,E_M_E.20,IN9E_M,We will be able to grow a good crop; we can drive the machine and do everything ourselves,,
+NRM_MEN,NRM_MEN_C,E_F_E.24,ET1E_F,"He will say, who is the man here. How do you know better than me about agriculture?",,
+NRM_MEN,NRM_MEN_C,E_F_E.14,ET2E_F,Men prefer row planting and improved seeds to get more crop and production and income.,,
+NRM_MEN,NRM_MEN_C,E_F_E.14,IN4E_F,Women dont use machines because they think they are incapable of doing so,,
+NRM_MEN,NRM_MEN_C,E_F_E.14,IN4E_F,Men prefer machines because it saves them time and physical stress,,
+NRM_MEN,NRM_MEN_C,E_F_E.14,IN7E_F,Women cannot drive,,
+NRM_MEN,NRM_MEN_C,E_F_E.14,NP1E_F,tractor and thresher are important for men because they can plough land with an ease,,
+NRM_MEN,NRM_MEN_C,E_F_E.14,UZ3E_F,We think that these points more important for boys because they could find a lot of jobs that they like technical equipment and could drive it,,
+NRM_MEN,NRM_MEN_C,E_M_E.7,ET2E_M,fathers teach us farming because we help them,,
+NRM_MEN,NRM_MEN_C,E_M_E.7,NP1E_M,girls cant do but they know more activities than boys,,
+NRM_MEN,NRM_MEN_C,E_M_E.18,ET2E_M,farming is generally a mans job,,
+NRM_MEN,NRM_MEN_C,E_M_E.18,IN4E_M,"Yes, because women cannot do all agricultural activities",,
+NRM_MEN,NRM_MEN_C,E_M_E.18,IN4E_M,We cannot expect women to drive tractors,,
+NRM_MEN,NRM_MEN_C,E_F_E.34,ET4E_F,he will not accept because its believed men are more knowledgeable on farming than women,,
+NRM_MEN,NRM_MEN_C,E_F_E.34,ET4E_F,I have also same thought that he will not accept her as he thinks she gets the new knowledge informally,,
+NRM_MEN,NRM_MEN_C,E_F_E.15,IN1E_F,Men know more about agriculture than women,,
+NRM_MEN,NRM_MEN_C,E_F_E.20,IN1E_F,Girls know nothing about selling in the market,,
+NRM_MEN,NRM_MEN_C,E_F_E.20,IN1E_F,Girls will have to learn to drive the tractor; girls here dont know biking then how can they drive a tractor,,
+NRM_MEN,NRM_MEN_C,E_F_E.33,IN1E_F,People think women know nothing about market practices and will get cheated,,
+NRM_MEN,NRM_MEN_C,E_F_E.33,IN9E_F,Women dont know how to trade at the market; they have never done it and will easily be cheated,,
+NRM_MEN,NRM_MEN_C,E_F_E.33,PK2E_F,David to sell because he go to market and know the market day to day changing prices,,
+NRM_MEN,NRM_MEN_C,E_F_E.33,PK2E_F,Of course David because he knows the situation of market place and updates as compare with women.,,
+NRM_MEN,NRM_MEN_C,E_M_E.19,IN1E_M,Women dont know anything about the market,,
+NRM_MEN,NRM_MEN_C,E_M_E.19,IN1E_M,Marketplace is for men; they know their trade; they know the prices and they know how to haggle,,
+NRM_MEN,NRM_MEN_C,E_M_E.19,IN7E_M,they cannot drive the tractor and get their field ready for sowing,,
+NRM_MEN,NRM_MEN_C,E_M_E.19,IN9E_M,She will be lost since she would not know how and where to start,,
+NRM_MEN,NRM_MEN_C,E_M_E.19,IN9E_M,She will face too many problems and herself quit,,
+NRM_MEN,NRM_MEN_C,E_M_E.33,IN1E_M,Man will sell the vegetables as he has better idea about it; woman has no idea how transactions happen at marketplace,,
+NRM_MEN,NRM_MEN_C,E_M_E.33,IN1E_M,A woman will be lost at marketplace,,
+NRM_MEN,NRM_MEN_C,E_F_E.7,IN4E_F,We want to learn to operate the machines that boys do but we are not allowed,,
+NRM_MEN,NRM_MEN_C,E_F_E.17,IN4E_F,Since machine is making the lives of men easier therefore they also like using them,,
+NRM_MEN,NRM_MEN_C,E_F_E.17,IN4E_F,Women are scared to use machines,,
+NRM_MEN,NRM_MEN_C,E_F_E.18,IN4E_F,Yes. Men use machines like tractor to get their plot ready for sowing which women do,,
+NRM_MEN,NRM_MEN_C,E_F_E.18,PK2E_F,Our suggestions dont have much importance according to prevailed customs and traditions.,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,PK2E_F,"Yes, we follow them because they [men] have more practical experiences and more know how as compare to us.",,
+NRM_MEN,NRM_MEN_C,E_F_E.18,PK2E_F,"If we dont follow them [men], then we will be in loss.",,
+NRM_MEN,NRM_MEN_C,E_F_E.26,IN4E_F,Men always think they are more capable,,
+NRM_MEN,NRM_MEN_C,E_M_E.13,IN4E_M,Women hardly work with machines,,
+NRM_MEN,NRM_MEN_C,E_M_E.14,IN4E_M,Women dont work with machines,,
+NRM_MEN,NRM_MEN_C,E_M_E.14,PK2E_M,"R1. As mentioned earlier, the women do not have any role in farming activities and they have no knowledge and information about the farming activities. They might be involve in rearing of cattle but that is in their own homes",,
+NRM_MEN,NRM_MEN_C,E_M_E.14,UZ3E_M,New mechanisms will help in those businesses where men are mostly involved in,,
+NRM_MEN,NRM_MEN_C,E_M_E.15,IN4E_M,Women are not comfortable with new technologies especially machines; they believe machines are meant for men,,
+NRM_MEN,NRM_MEN_C,E_M_E.15,IN9E_M,Women cannot drive tractors like men,,
+NRM_MEN,NRM_MEN_C,E_F_E.40,IN9E_F,She has to return home before dark; she will be constrained by many factors including lack of knowledge about the market prices,,
+NRM_MEN,NRM_MEN_C,E_M_E.24,IN9E_M,Wives will in all likelihood not know much,,
+NRM_MEN,NRM_MEN_N,E_M_E.20,IN9E_M,We can grow our own crop but will need the help [of] our parents in selling ate the marketplace,,
+NRM_MEN,NRM_MEN_N,E_M_E.20,IN9E_M,We will need some guidance from our parents regarding seeds to use,,
+NRM_MEN,NRM_MEN_N,E_F_E.14,NP1E_F,maize cultivation and buffalo raising are important practice for women in the community,,
+NRM_MEN,NRM_MEN_C,E_M_E.21,PK2E_M,Women have no concern with the farming activities. All decisions are taken by men that which crops should be planted on which plot.,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.22,PK7E_M,In our village male is more authoritative because all the decisions are made by him because he has to do the work in the fields.,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.24,PK2E_M,women have no concern with the farming and it decide by men which crops on which plots be cultivated.,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.34,IN1E_M,Typically men do all agricultural work and so they know everything that is there to know about it and so they are the best one to decide on what is good or bad for their crop,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,BD6E_F,males will work at fields and females will work at home,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,BD6E_F,it is the responsibility of women to do household chores and working outside is the responsibility of men,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,ET4E_F,"men are more responsible on manual tasks such as land preparation, tillage with oxen, sowing; winnowing and threshing. All these need heavy manual tasks and women are more responsible for activities that need less power",,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,ET4E_F,men are mainly working on wheat and barely farms because it needs more power than cutting bean,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,IN1E_F,Women dont work much in the fields; even the young girls mostly do not go to work,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,IN1E_F,Young men do all the work their fathers do; they know all the agricultural activities including the machine,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.18,BD3E_M,"collecting fodder for cows, ploughing lands, transplanting, weeding, sowing, harvesting etc. is mens work. And carrying loads from field, selling agricultural products in market are also mens work.",,structural_inference
+NRM_MEN,NRM_MEN_N,E_M_E.18,BD3E_M,"Caring and raising chickens, duck and cultivating vegetables in the kitchen garden are task of woman",,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.18,IN3E_M,"Boys drive the zero tiller, do irrigation, use fawda (axe)",,structural_inference
+NRM_MEN,NRM_MEN_N,E_M_E.18,IN4E_M,Men do all agricultural activities but women only do some like sowing and harvesting,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.18,IN7E_M,Men also are responsible for selling their produce,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.18,IN9E_M,Young women dont do any agricultural work while most young men can do all farm activities including driving the tractor,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.18,PK2E_M,"The farming is not practice by women in the village, that is not the custom here.",,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.18,UZ3E_M,"Yes they are following, as there are separate works traditionally that are carried out by men (hardwork), by women (more household)",,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.19,BD6E_M,"In our village, no women are allowed to harvest wheat and rice. This is mens job and their domain where women cannot go and participate.",,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.19,BD6E_M,Women work in the field is not a regular practice in our village,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.19,ET2E_M,farming is his job and he does it,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.19,IN1E_M,Women are not actively involved in agriculture,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.19,IN1E_M,They [women] will not be able to do all the hard labor,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.19,PK2E_M,"In village, mostly farming works are carried out by men and women are not directly involved in such activities. Men sale out the yielded products in the market",,structural_inference
+NRM_MEN,NRM_MEN_N,E_M_E.20,ET2E_M,vegetable garden exclusively for woman,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.20,PK2E_M,Men carry out farming activities and sale out their products in the market.,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.15,BD6E_F,"women do not go to the fields to work, they do not need to know any agriculture-related information",,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.15,BD6E_F,women do not go to field to work,,structural_inference
+NRM_MEN,NRM_MEN_N,E_F_E.15,ET4E_F,"in many cases, it is not possible for the women even if she has the opportunity because traditionally its not customary for women to till with oxen but they are more responsible on threshing, winnowing sorting and storing",,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.15,IN9E_F,"Young women dont do any agricultural work
+Only boys do",,structural_inference
+NRM_MEN,NRM_MEN_N,E_M_E.23,IN4E_M,Men usually do the physically intensive work while women do the easier work like harvesting,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.7,ET1E_M,they dont mainly involve in agricultural tasks because it is believed that agriculture related tasks are for the man and requires power,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.7,PK2E_M,"The young also learn about the wheat harvest. There is no concept of girls working in the fields at all, they assist their mother in house chores. Some girls also learn how to rear cattle.",,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.14,PK2E_M,"As mentioned earlier, the women do not have any role in farming activities and they have no knowledge and information about the farming activities. They might be involve in rearing of cattle but that is in their own homes",,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.15,ET1E_M,agriculture is the main task for men,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.7,IN1E_F,"Boys work on farms but not girls
+Boys mostly learn all farm activities and are able to do everything
+Boys can do all agricultural activities from ploughing to harvesting
+Boys even work with machine",,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.7,IN9E_F,Boys do all agricultural work,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.7,IN9E_F,Boys drive tractors too; actually they should learn farming because then at least one means of livelihood is assured for them,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.14,IN1E_F,Women do not use machines,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.14,IN9E_F,Women dont use machines,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.22,ET4E_F,main task of the man is herding and farming,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.22,IN9E_F,they [women] dont do any agricultural work,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.24,IN1E_M,Women do not do much agricultural activity,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.24,IN9E_M,Women usually dont do any farm work,,structural_inference
+NRM_MEN,NRM_MEN_N,E_M_E.18,ET4E_M,"Farming is mainly mens job and the indoor work is mainly is for the women. However the women support the man on the farm by planting the seeds, by weeding and the like. The men also assist the women in the house by delivering water, making food, by chopping wood, taking grains to the grinding mills and the like.",,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.15,ET1E_M,agricultural development workers visits men,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.15,IN4E_M,Young women dont do much agricultural work here,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.15,PK7E_M,"No! it is the man who has access to the fertilizer, seeds, use of tractor and information. A female cannot do this.",,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.15,ET4E_F,I think its difficult for the women to learn new farming skill if the husband is around because he will be responsible and expected to participate with regard to farming,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.15,IN1E_F,Therefore now no one calls them; men go to such meetings and events,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.19,IN4E_M,They dont have full knowledge to be able to grow themselves and they have no market knowledge to be able to sell,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.19,IN7E_M,They will not be able to use the machines; they dont know how to use them,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.19,IN7E_M,They definitely cannot sell because they will know nothing about bargaining and market prices,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.13,IN4E_F,Women dont use machines,,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.13,IN7E_F,Women dont work with machines,,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.14,PK2E_M,"As mentioned earlier, the women do not have any role in farming activities and they have no knowledge and information about the farming activities. They might be involve in rearing of cattle but that is in their own homes",,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.33,PK7E_M,He is familiar with the dealings of the market. He can also know the rates of different markets before time. But the female does not have any experience in this regard.,,structural_inference
