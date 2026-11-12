@@ -1,0 +1,982 @@
+indicator_id,classification_id,context_id,provenance,text_fragment,evidence_type
+ASP,ASP_COL,E_F_E.11,IN9E_F,"girls will always think, given the right opportunities, the girls could have become engineers and doctors like city girls.",direct_inference
+ASP,ASP_MOD,E_F_E.51,ET4E_F,a young woman wishes the local administration would give youths land for plantation with irrigation.,structural_inference
+ASP,ASP_TRAD,E_F_E.52,ET4E_F,a young woman wishes the local administration would give youths land for plantation with irrigation.,structural_inference
+ASP,ASP_UNSP,E_F_E.12,ET4E_F,finding a job in another area after finishing education is better for both young women and young men than returning to the family.,structural_inference
+ASP,ASP_UNSP,E_F_E.51,ET4E_F,"youths need training and support from the government to become self-employed, like youths in other towns trained and organised by the government.",structural_inference
+ASP,ASP_UNSP,E_M_E.42,PK2E_M,most young men are always searching for suitable employment.,direct_inference
+ASP,ASP_UNSP,E_M_E.42,PK2E_M,young men want to get rid of farming work.,structural_inference
+ASP,ASP_UNSP,E_F_E.43,ET4E_F,many girls go to other towns looking for better opportunities.,direct_inference
+GAP,GAP_WID,E_F_E.10,IN9E_F,"girls will always think, given the right opportunities, the girls could have become engineers and doctors like city girls.",direct_inference
+NRM_AST,NRM_AST_C,E_M_E.26,ET4E_M,he does not want her to find out how much he sells the vegetables at the market,direct_evidence
+NRM_AST,NRM_AST_C,E_M_E.26,ET4E_M,he disapproves of her taking vegetables to the market,structural_inference
+NRM_AST,NRM_AST_O,E_F_E.36.a,ET4E_F,money inherited by a wife belongs to her,direct_evidence
+NRM_AST,NRM_AST_N,E_F_E.36.a,ET4E_F,"once a wife brings her money into the household, it becomes common property",direct_evidence
+NRM_AST,NRM_AST_O,E_F_E.21,BD3E_F,women can own land,structural_inference
+NRM_AST,NRM_AST_O,E_F_E.11,BD3E_F,girls open shops at home and work on sewing machines doing different kinds of sewing work.,structural_inference
+NRM_DEC,NRM_DEC_N,E_F_E.36.a,ET4E_F,money that has become common property requires husband and wife to decide together,direct_evidence
+NRM_DEC,NRM_DEC_C,E_F_E.36.a,ET4E_F,diana has to consult david before spending the inheritance,direct_evidence
+NRM_DEC,NRM_DEC_N,E_F_E.36.a,ET4E_F,diana can try to convince david to support her buying the land,direct_evidence
+NRM_DEC,NRM_DEC_N,E_F_E.36.a,ET4E_F,a wife can gradually change her husband’s priorities rather than overriding them,structural_inference
+NRM_DEC,NRM_DEC_N,E_F_E.36.a,ET4E_F,wise negotiation means persuading the husband gently and indirectly,direct_evidence
+NRM_DEC,NRM_DEC_C,E_F_E.36.a,ET4E_F,a wife must avoid showing that she is questioning her husband’s authority,direct_evidence
+NRM_DEC,NRM_DEC_C,E_F_E.36.a,ET4E_F,purchasing the land without david’s support is difficult,structural_inference
+NRM_DEC,NRM_DEC_O,E_F_E.21,BD3E_F,husband and wife make a mutual decision about whether crops are grown on their lands,direct_evidence
+NRM_DEC,NRM_DEC_C,E_F_E.21,BD3E_F,"decisions about farm expenses are made by men, even when women own the land",direct_evidence
+NRM_DEC,NRM_DEC_N,E_F_E.21,BD3E_F,either the men alone or together with their wives decide whether the land is farmed,direct_evidence
+NRM_DEC,NRM_DEC_C,E_F_E.21,BD3E_F,women can never decide anything alone,direct_evidence
+NRM_DEC,NRM_DEC_C,E_F_E.25,BD3E_F,adam would not allow ana to join a local women’s group of vegetable growers,direct_evidence
+NRM_DEC,NRM_DEC_C,E_M_E.11,BD3E_M,"the parents, not the girls, take the decision to stop a girl's education.",direct_inference
+NRM_DEC,NRM_DEC_C,E_M_E.11,BD3E_M,most parents start thinking about marriage for a daughter when the daughter is promoted to grade eight.,structural_inference
+NRM_DEC,NRM_DEC_C,E_M_E.12,IN1E_M,parents look for a suitable groom for a girl once the girl completes class 12.,direct_inference
+NRM_DEC,NRM_DEC_N,E_F_E.25,IN1E_F,a woman will first and foremost ask the husband when seeking agricultural information.,structural_inference
+NRM_DEC,NRM_DEC_N,E_F_E.43,ET4E_F,convincing the parents to allow a girl to leave will be easy if the girl knows the girl's future plan and the place to go.,direct_inference
+NRM_DEC,NRM_DEC_O,E_M_E.30,ET4E_M,the educated wife counts the money for the husband because the husband never went to school and cannot count.,structural_inference
+NRM_DEC,NRM_DEC_O,E_F_E.29,BD3E_F,the husband accepted the wife going to the market to sell vegetables.,structural_inference
+NRM_DIV,NRM_DIV_C,E_M_E.30,ET4E_M,men are expected to be the family’s breadwinners,direct_evidence
+NRM_DIV,NRM_DIV_C,E_M_E.30,ET4E_M,a wife’s business success can take away the husband’s breadwinner role,direct_evidence
+NRM_DIV,NRM_DIV_C,E_F_E.25,BD3E_F,adam believes ana should do only household chores,direct_evidence
+NRM_DIV,NRM_DIV_C,E_F_E.25,BD3E_F,adam believes ana was meant only for household chores,direct_evidence
+NRM_DIV,NRM_DIV_C,E_M_E.18,ET4E_M,farming is mainly men’s job,direct_evidence
+NRM_DIV,NRM_DIV_C,E_M_E.18,ET4E_M,indoor (household) work is mainly women’s job,direct_evidence
+NRM_DIV,NRM_DIV_N,E_M_E.18,ET4E_M,"women support men on the farm by planting seeds, weeding and similar tasks",direct_evidence
+NRM_DIV,NRM_DIV_N,E_M_E.18,ET4E_M,"men assist women in the house by fetching water, cooking, chopping wood and taking grain to the grinding mill",direct_evidence
+NRM_DIV,NRM_DIV_C,E_F_E.7,IN1E_F,"boys work on farms, but girls do not.",direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.7,IN1E_F,boys mostly learn all farm activities and are able to do everything on the farm.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.7,IN1E_F,boys can do all agricultural activities from ploughing to harvesting.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.7,IN1E_F,boys even work with machines on the farm.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.22,ET4E_F,the wife is regularly responsible for preparing lunch during the peak labour season.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.22,ET4E_F,the wife is regularly responsible for storing farm produce during the peak labour season.,direct_inference
+NRM_DIV,NRM_DIV_C,E_M_E.23,ET4E_M,women usually do not participate in the work on the plot.,direct_inference
+NRM_DIV,NRM_DIV_C,E_M_E.23,ET4E_M,women's role during the reciprocal labour arrangement is to prepare food and drink.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.23,IN9E_F,"earlier, during the paddy sowing season, the entire family except the daughters could be found on the plot.",direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.18,BD3E_F,boys go to work in the fields.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.18,BD3E_F,girls cannot go to work in the fields.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.18,BD3E_F,parents or husbands do not allow girls to work in the fields.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.18,BD3E_F,parents-in-law also restrict girls from working in the fields.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.18,BD6E_F,the responsibility of women is to do household chores.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.18,BD6E_F,working outside the home is the responsibility of men.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.20,BD3E_F,no woman has ever been seen to grow crops and sell the crops on the woman's own.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.29,BD3E_F,work outside the home is men's work.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.29,BD6E_F,"the people of the village expect the husband, not the wife, to go to the market.",structural_inference
+NRM_DIV,NRM_DIV_C,E_M_E.29,ET4E_M,"men working in the kitchen while women work outside was once impossible, as a proverb shows.",direct_inference
+NRM_DIV,NRM_DIV_C,E_M_E.19,BD3E_M,a woman still cannot sell the products from the kitchen garden in the local market on the woman's own.,direct_inference
+NRM_DIV,NRM_DIV_C,E_M_E.41,IN9E_M,no woman sells in the market.,direct_inference
+NRM_DIV,NRM_DIV_C,E_M_E.40,IN9E_M,only men trade in the market.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.11,BD3E_F,a few girls help the parents at home with house chores after leaving studies.,direct_inference
+NRM_DIV,NRM_DIV_C,E_F_E.11,BD3E_F,"girls also do different kinds of work such as sewing toupees, embroidery and sewing shahree.",structural_inference
+NRM_DIV,NRM_DIV_N,E_M_E.31,ET4E_M,the educated wife counts the money for the husband because the husband never went to school and cannot count.,structural_inference
+NRM_DIV,NRM_DIV_N,E_F_E.22,ET4E_F,the husband supports the wife when the husband is no longer busy with farm tasks.,direct_inference
+NRM_DIV,NRM_DIV_N,E_F_E.22,ET4E_F,the husband supports the wife particularly on holidays when the husband is at home.,direct_inference
+NRM_DIV,NRM_DIV_N,E_F_E.22,ET4E_F,the wife is regularly responsible for supporting the husband in cutting beans during the peak labour season.,direct_inference
+NRM_DIV,NRM_DIV_N,E_M_E.23,ET4E_M,"women participate in the work on the plot when there is real need for labour, especially during planting.",direct_inference
+NRM_DIV,NRM_DIV_N,E_M_E.23,IN1E_M,all household members work during the planting and harvesting seasons according to need.,direct_inference
+NRM_DIV,NRM_DIV_N,E_M_E.23,IN1E_M,all the men and many of the women work together during the planting season.,direct_inference
+NRM_DIV,NRM_DIV_N,E_M_E.23,IN1E_M,all the women help the husbands during the harvesting season because there is a lot of work to do.,direct_inference
+NRM_DIV,NRM_DIV_N,E_M_E.19,BD3E_M,women can grow vegetables in the kitchen garden.,direct_inference
+NRM_DIV,NRM_DIV_N,E_F_E.11,BD3E_F,a few girls also do farming work.,direct_inference
+NRM_DIV,NRM_DIV_O,E_M_E.23,ET4E_M,every household member works on the one plot.,direct_inference
+NRM_DIV,NRM_DIV_O,E_F_E.23,IN9E_F,all family members work on the family plot.,direct_inference
+NRM_DIV,NRM_DIV_O,E_F_E.23,IN9E_F,"the family plot gives food to the entire family, so all family members want to contribute to growing a good crop.",direct_inference
+NRM_DIV,NRM_DIV_O,E_M_E.29,ET4E_M,"nowadays, women working outside while men are in the house is not surprising.",direct_inference
+NRM_DIV,NRM_DIV_O,E_M_E.29,ET4E_M,"currently, many men do not mind preparing food.",direct_inference
+NRM_DIV,NRM_DIV_O,E_F_E.28,ET4E_F,women work outside the home.,direct_inference
+NRM_DIV,NRM_DIV_O,E_F_E.28,ET4E_F,men are also working in the kitchen.,direct_inference
+NRM_EQ,NRM_EQ_NO,E_M_E.31,ET4E_M,the husband's feelings and morale will be hurt when the husband sees the wife doing better than the husband.,structural_inference
+NRM_EQ,NRM_EQ_NO,E_F_E.26,ET1E_F,becoming a member of the association means the woman will be more informed and knowledgeable than the husband.,structural_inference
+NRM_EQ,NRM_EQ_NO,E_F_E.26,ET1E_F,men do not like a wife being more informed and knowledgeable than the husband.,direct_inference
+NRM_EQ,NRM_EQ_NO,E_F_E.26,ET1E_F,men like to be the only knowledgeable person.,structural_inference
+NRM_EQ,NRM_EQ_YS,E_M_E.31,BD3E_M,a relationship of mutual understanding and respect between husband and wife is highly essential for a household's progress.,structural_inference
+NRM_EQ,NRM_EQ_YS,E_M_E.31,BD3E_M,quarrels and clashes prevail in a household when husband and wife lack such a relationship.,structural_inference
+NRM_EQ,NRM_EQ_YS,E_M_E.31,BD3E_M,a household can go ahead smoothly when husband and wife have good understanding and respect for each other and share everything.,structural_inference
+NRM_EQ,NRM_EQ_YS,E_M_E.5,ET1E_M,"girls should study up to college and university, the same as boys, to improve social and economic opportunities.",direct_inference
+NRM_EQ,NRM_EQ_YS,E_M_E.5,ET1E_M,many young employed men want to marry employed girls.,structural_inference
+NRM_EQ,NRM_EQ_YS,E_F_E.11,ET4E_F,finding a job in another area after finishing education is better for both young women and young men than returning to the family.,structural_inference
+NRM_INF,NRM_INF_C,E_F_E.25,BD3E_F,adam would not allow ana to join any organizations,direct_evidence
+NRM_INF,NRM_INF_C,E_F_E.24,IN1E_F,a woman will first and foremost ask the husband when seeking agricultural information.,direct_inference
+NRM_INF,NRM_INF_C,E_F_E.24,IN1E_F,men enquire at the kissan (farmers') call centre when seeking agricultural information.,structural_inference
+NRM_INF,NRM_INF_C,E_F_E.24,IN1E_F,"men ask shopkeepers, friends and neighbours when seeking agricultural information.",structural_inference
+NRM_INF,NRM_INF_C,E_F_E.25,ET1E_F,men like to be the only knowledgeable person.,structural_inference
+NRM_INF,NRM_INF_C,E_M_E.25.a,ET4E_M,"if the husband lets the wife go outside, the wife will meet people and learn new things.",structural_inference
+NRM_INF,NRM_INF_C,E_M_E.25.a,ET4E_M,"if the husband lets the wife go outside, the wife will learn other families are not living the way the family lives.",structural_inference
+NRM_INF,NRM_INF_O,E_F_E.25,ET1E_F,becoming a member of the association means the woman will be communicating with people.,direct_inference
+NRM_INF,NRM_INF_O,E_F_E.25,ET1E_F,becoming a member of the association means the woman will know about prices and better techniques of growing vegetables.,direct_inference
+NRM_INF,NRM_INF_O,E_F_E.25,ET1E_F,becoming a member of the association means the woman will be more informed and knowledgeable than the husband.,direct_inference
+NRM_INF,NRM_INF_O,E_M_E.25,BD3E_M,the focus group participants think ana joining the local women's group is positive for ana's work.,structural_inference
+NRM_INF,NRM_INF_O,E_M_E.25,BD3E_M,"ana may get new ideas or training from the local women's group, enriching vegetable cultivation.",direct_inference
+NRM_MEN,NRM_MEN_C,E_F_E.7,IN1E_F,"boys work on farms, but girls do not.",structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.7,IN1E_F,boys mostly learn all farm activities and are able to do everything on the farm.,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.7,IN1E_F,boys can do all agricultural activities from ploughing to harvesting.,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.7,IN1E_F,boys even work with machines on the farm.,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.22,ET4E_F,the husband supports the wife when the husband is no longer busy with farm tasks.,structural_inference
+NRM_MEN,NRM_MEN_C,E_M_E.23,ET4E_M,women usually do not participate in the work on the plot.,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.23,IN9E_F,"earlier, during the paddy sowing season, the entire family except the daughters could be found on the plot.",structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,BD3E_F,boys go to work in the fields.,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,BD3E_F,girls cannot go to work in the fields.,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,BD3E_F,parents or husbands do not allow girls to work in the fields.,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.18,BD3E_F,parents-in-law also restrict girls from working in the fields.,structural_inference
+NRM_MEN,NRM_MEN_C,E_F_E.20,BD3E_F,no woman has ever been seen to grow crops and sell the crops on the woman's own.,structural_inference
+NRM_MEN,NRM_MEN_N,E_F_E.22,ET4E_F,the wife is regularly responsible for supporting the husband in cutting beans during the peak labour season.,structural_inference
+NRM_MEN,NRM_MEN_N,E_F_E.22,ET4E_F,the wife is regularly responsible for storing farm produce during the peak labour season.,structural_inference
+NRM_MEN,NRM_MEN_N,E_M_E.23,ET4E_M,"women participate in the work on the plot when there is real need for labour, especially during planting.",structural_inference
+NRM_MEN,NRM_MEN_N,E_M_E.23,IN1E_M,all household members work during the planting and harvesting seasons according to need.,structural_inference
+NRM_MEN,NRM_MEN_N,E_M_E.23,IN1E_M,all the men and many of the women work together during the planting season.,structural_inference
+NRM_MEN,NRM_MEN_N,E_M_E.23,IN1E_M,all the women help the husbands during the harvesting season because there is a lot of work to do.,structural_inference
+NRM_MEN,NRM_MEN_N,E_M_E.19,BD3E_M,women can grow vegetables in the kitchen garden.,structural_inference
+NRM_MEN,NRM_MEN_O,E_M_E.23,ET4E_M,every household member works on the one plot.,structural_inference
+NRM_MEN,NRM_MEN_O,E_F_E.23,IN9E_F,all family members work on the family plot.,structural_inference
+NRM_MEN,NRM_MEN_O,E_F_E.23,IN9E_F,"the family plot gives food to the entire family, so all family members want to contribute to growing a good crop.",structural_inference
+NRM_MEN,NRM_MEN_O,E_M_E.43,PK2E_M,most young men are always searching for suitable employment.,structural_inference
+NRM_MEN,NRM_MEN_O,E_M_E.41,PK2E_M,young men want to get rid of farming work.,structural_inference
+NRM_MOB,NRM_MOB_C,E_M_E.26,ET4E_M,he will not allow her to go to market,direct_evidence
+NRM_MOB,NRM_MOB_C,E_F_E.25,BD3E_F,adam would not allow ana to go out of the house,direct_evidence
+NRM_MOB,NRM_MOB_C,E_F_E.20,BD3E_F,a girl might be ill-treated by any kind of cheap person if the girl goes to the market.,direct_inference
+NRM_MOB,NRM_MOB_C,E_F_E.20,BD3E_F,parents do not allow a girl to go to the market because the girl might be ill-treated.,direct_inference
+NRM_MOB,NRM_MOB_C,E_F_E.33,BD3E_F,"as long as the husband is alive, the husband will never let the wife go to the market to sell vegetables from the wife's home garden.",direct_inference
+NRM_MOB,NRM_MOB_C,E_F_E.34,BD3E_F,the husband would never allow the wife to go to the market because of reputation.,direct_inference
+NRM_MOB,NRM_MOB_C,E_M_E.20,BD3E_M,a woman still cannot sell the products from the kitchen garden in the local market on the woman's own.,direct_inference
+NRM_MOB,NRM_MOB_C,E_M_E.20,BD3E_M,a woman may face embargoes from the woman's own family and lineage if the woman freely moves in the field and public places.,direct_inference
+NRM_MOB,NRM_MOB_C,E_M_E.19,BD3E_M,women are expected not to move freely in the field and public places.,structural_inference
+NRM_MOB,NRM_MOB_C,E_M_E.40,IN9E_M,no woman sells in the market.,direct_inference
+NRM_MOB,NRM_MOB_C,E_M_E.40,IN9E_M,a woman would have to return home from the marketplace after all the people stop to stare at the woman.,direct_inference
+NRM_MOB,NRM_MOB_C,E_M_E.40,IN9E_M,there is no point in a woman trying to sell at the marketplace.,direct_inference
+NRM_MOB,NRM_MOB_C,E_M_E.25.a,ET4E_M,the husband is afraid the wife will know everything the husband does and gains if the husband lets the wife go outside.,direct_inference
+NRM_MOB,NRM_MOB_C,E_M_E.25.a,ET4E_M,"if the husband lets the wife go outside, the wife will meet people and learn new things.",structural_inference
+NRM_MOB,NRM_MOB_C,E_F_E.38,BD3E_F,"a girl is never allowed to go to the market alone, neither at night nor during the day.",direct_inference
+NRM_MOB,NRM_MOB_C,E_F_E.38,BD3E_F,"if the husband cannot go, only the girl's father-in-law can take the girl to the market.",direct_inference
+NRM_MOB,NRM_MOB_C,E_F_E.38,BD3E_F,a girl is not allowed to go to the market even with a neighbour or a male cousin.,direct_inference
+NRM_MOB,NRM_MOB_C,E_M_E.12,IN1E_M,"after class 12, a girl either sits at home, studies from home or enrolls in distance education until the girl gets married.",structural_inference
+NRM_MOB,NRM_MOB_N,E_M_E.19,BD3E_M,"if there is no man in the household, someone from a neighbouring family can help the woman.",direct_inference
+NRM_MOB,NRM_MOB_N,E_F_E.38,BD3E_F,"girls are sometimes allowed to go to the market for studying, medical fees and eid shopping.",direct_inference
+NRM_MOB,NRM_MOB_N,E_F_E.38,BD3E_F,a girl is allowed to go to the market with the husband without a problem.,direct_inference
+NRM_MOB,NRM_MOB_N,E_F_E.42,ET4E_F,girls can use the cases of other youths working in other towns as models to convince the parents.,direct_inference
+NRM_MOB,NRM_MOB_O,E_M_E.25,BD3E_M,all focus group participants agreed adam will accept ana joining a local women's group.,direct_inference
+NRM_MOB,NRM_MOB_O,E_M_E.25,BD3E_M,there is no contradiction in ana joining the local women's group because ana is a vegetable grower like the other women.,direct_inference
+NRM_MOB,NRM_MOB_O,E_M_E.26,BD3E_M,the focus group participants think ana joining the local women's group is positive for ana's work.,structural_inference
+NRM_MOB,NRM_MOB_O,E_M_E.25,BD6E_M,the husband will accept the wife joining a local women's group.,direct_inference
+NRM_MOB,NRM_MOB_O,E_M_E.25,BD6E_M,there is no contradiction in the wife joining a local women's group because the wife is a vegetable grower like the other women.,direct_inference
+NRM_MOB,NRM_MOB_O,E_F_E.28,BD3E_F,the husband accepted the wife going to the market to sell vegetables.,direct_inference
+NRM_MOB,NRM_MOB_O,E_M_E.29,ET4E_M,"previously, the husband coming home before the wife got back home from wherever the wife went was a big offense.",structural_inference
+NRM_MOB,NRM_MOB_O,E_F_E.42,ET4E_F,many girls go to other towns looking for better opportunities.,direct_inference
+NRM_MOB,NRM_MOB_O,E_F_E.42,ET4E_F,parents allow girls to go and search for a better life in other towns because opportunities for youths in the kebele are limited.,direct_inference
+NRM_MOB,NRM_MOB_O,E_F_E.42,ET4E_F,convincing the parents to allow a girl to leave will be easy if the girl knows the girl's future plan and the place to go.,direct_inference
+NRM_MOB,NRM_MOB_O,E_F_E.12,BD3E_F,girls have to go to another town and do garment work in factories because opportunities in the village are few.,direct_inference
+NRM_STIG,NRM_STIG_C,E_M_E.30,ET4E_M,losing the breadwinner role makes a husband unhappy,direct_evidence
+NRM_STIG,NRM_STIG_N,E_M_E.30,ET4E_M,a husband may appear happy about his wife’s success while feeling jealous and unhappy inside,direct_evidence
+NRM_STIG,NRM_STIG_C,E_M_E.30,ET4E_M,the husband feels ashamed about depending on his wife's income,structural_inference
+NRM_STIG,NRM_STIG_C,E_M_E.30,ET4E_M,a wife’s success is a serious concern for men,structural_inference
+NRM_STIG,NRM_STIG_C,E_M_E.30,ET4E_M,the husband's feelings and morale will be hurt when the husband sees the wife doing better than the husband.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.25,ET1E_F,men do not like a wife being more informed and knowledgeable than the husband.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.18,BD3E_F,restricting girls from working in the fields is a matter of reputation.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.18,BD6E_F,people will malign women and men if women and men reverse the work responsibilities.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.18,BD6E_F,people will not take the reversal of the work responsibilities as normal.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.20,BD3E_F,reputation makes a girl growing and selling crops on the girl's own impossible.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.29,BD3E_F,the husband's respect would lessen among the village and friends if the wife sells vegetables in the market.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.29,BD3E_F,people will talk trash about the husband if the wife sells vegetables in the market.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.29,BD3E_F,a lot of people would criticise the husband for allowing the wife to do work outside the home.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.29,BD6E_F,the husband will not have any respect among friends and the other people of the village when the wife goes to the market.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.29,BD6E_F,the people of the village will see the husband as a mean person when the wife goes to the market.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.29,BD6E_F,the people of the village will ask the husband why the husband sends the wife to the market.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.33,BD3E_F,people will speak ill of the wife visiting the market while the husband is still alive.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.33,BD3E_F,the husband would never allow the wife to go to the market because of reputation.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.43,BD3E_F,people gossip about a teenage girl when the girl leaves work in the city and returns to the village.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.43,BD3E_F,people talk badly about a returned teenage girl as if the girl had done some unethical work in the city.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.43,BD3E_F,people suspect a returned teenage girl is making an illegitimate relationship with a boy of the village.,direct_inference
+NRM_STIG,NRM_STIG_C,E_F_E.28,BD3E_F,the wife's social respect decreased in the village because the wife goes to the market to sell vegetables.,direct_inference
+NRM_STIG,NRM_STIG_C,E_M_E.19,BD3E_M,many people will criticise a woman behind the woman's back if the woman freely moves in the field and public places.,direct_inference
+NRM_STIG,NRM_STIG_C,E_M_E.19,BD3E_M,a woman may lose social dignity and respect in front of society if the woman freely moves in the field and public places.,direct_inference
+NRM_STIG,NRM_STIG_C,E_M_E.19,BD3E_M,a woman may face embargoes from the woman's own family and lineage if the woman freely moves in the field and public places.,direct_inference
+NRM_STIG,NRM_STIG_C,E_M_E.40,IN9E_M,"if a woman went to the marketplace, all the people in the marketplace would stop to stare at the woman, making the woman feel very uncomfortable.",direct_inference
+NRM_STIG,NRM_STIG_N,E_M_E.30,ET4E_M,the husband will accept the wife doing better than the husband because the husband has no choice.,direct_inference
+NRM_STIG,NRM_STIG_N,E_F_E.28,BD3E_F,the decrease in the wife's social respect does not really matter because the husband accepted the wife going to the market.,direct_inference
+NRM_STIG,NRM_STIG_N,E_F_E.28,BD3E_F,"if the husband does not mind and is okay with the wife selling at the market, what other people think does not matter.",direct_inference
+NRM_STIG,NRM_STIG_O,E_M_E.28,ET4E_M,"nowadays, women working outside while men are in the house is not surprising.",structural_inference
+NRM_STIG,NRM_STIG_O,E_M_E.30,ET4E_M,"currently, many men do not mind preparing food.",structural_inference
+NRM_STIG,NRM_STIG_O,E_F_E.28,ET4E_F,a hard-working woman is actually respected.,direct_inference
+NRM_STIG,NRM_STIG_O,E_F_E.28,ET4E_F,"previously, people may have said a hard-working woman is a prostitute.",structural_inference
+NRM_STIG,NRM_STIG_O,E_F_E.28,ET4E_F,"nowadays, a woman working outside is not much of a problem.",direct_inference
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
